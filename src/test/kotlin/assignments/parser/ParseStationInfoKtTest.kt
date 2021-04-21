@@ -1,35 +1,50 @@
 package assignments.parser
 
-import org.junit.jupiter.api.Assertions.*
+import assignments.datetimeprovider.DateTimeProvider
+import com.fasterxml.jackson.databind.ObjectMapper
+import io.mockk.every
+import io.mockk.impl.annotations.InjectMockKs
+import io.mockk.impl.annotations.MockK
+import io.mockk.impl.annotations.RelaxedMockK
+import io.mockk.junit5.MockKExtension
+import org.junit.jupiter.api.Assertions.assertEquals
+import org.junit.jupiter.api.BeforeEach
 import org.junit.jupiter.api.Test
+import org.junit.jupiter.api.extension.ExtendWith
 import java.time.LocalDate
 
+@ExtendWith(MockKExtension::class)
 internal class ParseStationInfoKtTest {
 
-    @Test
-    fun `extractStationInfo should parse a csv row`() {
-        val testRow = "NS13,Yishun,20 December 1988"
+    @RelaxedMockK
+    lateinit var dateTimeProvider: DateTimeProvider
 
-        val expected = Station(
-            code = "NS13",
-            name = "Yishun",
-            openingDate = LocalDate.of(1988, 12, 20)
-        )
-        val actual = extractStationInfo(testRow)
+    @MockK
+    lateinit var stationInformation: StationInformation
 
-        assertEquals(expected, actual)
+    @InjectMockKs
+    lateinit var parseStationInfo: ParseStationInfo
+
+    @BeforeEach
+    fun setup() {
+        val csvData = javaClass.getResource("/StationMap.csv")?.readText() ?: ""
+
+        every { dateTimeProvider.today() } returns LocalDate.of(2021, 4, 21)
+        every { stationInformation.stationList } returns csvData
+            .trim()
+            .lines()
+            .drop(1) // drop csv header row
+            .map { extractStationInfo(it) }
     }
 
     @Test
-    fun `extractStationInfo should parse a csv row that contains an opening date with single digit day`() {
-        val testRow = "NS12,Canberra,2 November 2019"
+    fun `generateGraph should generate a graph object`() {
+        val expected = javaClass.getResource("/StationGraph.json")?.readText() ?: ""
 
-        val expected = Station(
-            code = "NS12",
-            name = "Canberra",
-            openingDate = LocalDate.of(2019, 11, 2)
-        )
-        val actual = extractStationInfo(testRow)
+        val resultPojo = parseStationInfo.generateGraph()
+
+        val objectMapper = ObjectMapper()
+        val actual = objectMapper.writeValueAsString(resultPojo)
 
         assertEquals(expected, actual)
     }

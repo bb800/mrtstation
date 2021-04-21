@@ -1,96 +1,97 @@
 package assignments.parser
 
+import assignments.algorithms.Graph
+import assignments.algorithms.generateWeight
+import assignments.datetimeprovider.DateTimeProvider
 import java.time.LocalDate
-import java.time.format.DateTimeFormatter
 import javax.inject.Singleton
 
 
 @Singleton
-class ParseStationInfo {
-    val stationList = initStationList()
+class ParseStationInfo(
+    private val dateTimeProvider: DateTimeProvider,
+    private val stationInformation: StationInformation,
+) {
 
-    fun createStationMap(): Map<String, List<Node>> {
-        val interchanges = stationList
-            .groupBy { it.name }
-            .mapValues { (_, stations) ->
-                if (stations.size > 1) stations.map { it.code }
-                else null
-            }
-            .filter { (_, codes) ->
-                codes != null
-            }
+    fun generateGraph(): Graph<String> {
+        val stationNodes = convertToStationNodes(stationInformation.stationList)
 
-        println("interchanges: $interchanges")
+        val weights = processStationNodes(stationNodes)
+            .map { generateWeightMap(it, 10) }
+            .flatten()
+            .toMap()
 
-        val allStations = stationList
-            .groupBy { it.code.substring(0, 2) } // group by line code
-            .mapValues { (_, stations) ->
-                val nodeList = stations
-                    .mapIndexed { index, station ->
-                        val adjacent = listOfNotNull(
-                            if (index == 0) null else stations[index - 1].code,
-                            if (index == stations.size - 1) null else stations[index + 1].code
-                        )
-
-                        Node(
-                            code = station.code,
-                            name = station.name,
-                            openingDate = station.openingDate,
-                            adjacent = adjacent,
-                        )
-                    }
-                val result = nodeList
-                    .mapIndexed { index, node ->
-                        node.copy(
-                            previous = if (index == 0) null else nodeList[index - 1],
-                            next = if (index == nodeList.size - 1) null else nodeList[index + 1]
-                        )
-                    }
-
-                result
-            }
-
-        return allStations
+        return Graph(weights)
     }
 
-    private fun initStationList(): List<Station> {
-        val csvData = javaClass.getResource("/StationMap.csv")?.readText() ?: ""
-
-        return csvData
-            .trim()
-            .lines()
-            .drop(1) // drop csv header row
-            .map { extractStationInfo(it) }
+    private fun generateWeightMap(stationNode: StationNode, weight: Int): List<Pair<Pair<String, String>, Int>> {
+        // retrieve adjacent stations and construct outgoing edge with weight
+        return stationNode.adjacent
+            .map { generateWeight(stationNode.station.name, it.name, weight) }
     }
 
-}
+    private fun processStationNodes(stationNodes: List<StationNode>): List<StationNode> {
+        return stationNodes
+            // remove non operational stations
+            .filter { it.inOperation }
+            // group by station name to identify interchanges
+            .groupBy { it.station.name }
+            // find interchange nodes and merge
+            .mapValues { (_, stationNodes) ->
+                if (stationNodes.size > 1) convertToInterchange(stationNodes)
+                else stationNodes[0]
+            }
+            .values
+            .toList()
+    }
 
-fun extractStationInfo(line: String): Station {
-    val (code, name, openingDate) = line.split(",")
+    private fun convertToInterchange(stations: List<StationNode>): StationNode {
+        return stations.reduce { acc, next ->
+            acc.copy(
+                station = acc.station.copy(
+                    code = acc.station.code + next.station.code
+                ),
+                adjacent = acc.adjacent + next.adjacent,
+                isInterchange = true,
+            )
+        }
+    }
 
-    return Station(
-        code = code,
-        name = name,
-        openingDate = LocalDate.parse(
-            openingDate,
-            DateTimeFormatter.ofPattern("d MMMM yyyy")
-        ),
-    )
+    private fun convertToStationNodes(stationList: List<Station>): List<StationNode> =
+        stationList
+            // group by line code to identify previous, next stations
+            .groupBy { it.code[0].substring(0, 2) }
+            .mapValues { (_, stations) -> generateStationNodes(stations) }
+            .values
+            .flatten()
+
+    private fun generateStationNodes(stations: List<Station>): List<StationNode> =
+        stations
+            .mapIndexed { index, station ->
+                // generate list of previous and next station
+                val adjacent = listOfNotNull(
+                    if (index == 0) null else stations[index - 1],
+                    if (index == stations.size - 1) null else stations[index + 1]
+                )
+
+                StationNode(
+                    station = station,
+                    adjacent = adjacent,
+                    inOperation = dateTimeProvider.today().isAfter(station.openingDate)
+                )
+            }
+
 }
 
 data class Station(
-    val code: String ="",
-    val name: String ="",
-    val openingDate: LocalDate = LocalDate.now(),
+    val name: String,
+    val code: List<String>,
+    val openingDate: LocalDate,
 )
 
-data class Node(
-    val code: String,
-    val name: String,
-    val openingDate: LocalDate,
-    val adjacent: List<String>,
-
-    val previous: Node? = null,
-    val next: Node? = null,
-    var visited: Boolean = false,
+data class StationNode(
+    val station: Station,
+    val adjacent: List<Station>,
+    val inOperation: Boolean,
+    val isInterchange: Boolean = false,
 )
