@@ -1,9 +1,9 @@
 # Assumptions
 
-Using csv file directly as a data source.
-To keep things simple, the data is parsed using native kotlin functions instead of a CSV library.
-There aren't any edge cases at the moment, however while parsing the date, it seems that the opening date for Canberra "December 2019" is incorrect.
-I've manually patched the date in the CSV to "2 November 2019".
+- Using csv file directly as a data source.
+- To keep things simple, the data is parsed using native kotlin functions instead of a CSV library.
+- There aren't any edge cases at the moment, however while parsing the date, I noticed there was a parsing error for Canberra which has an opening date of "December 2019"
+- I've manually patched the date in the CSV to "2 November 2019", using data from [wikipedia](https://en.wikipedia.org/wiki/Canberra_MRT_station).
 
 ```
 
