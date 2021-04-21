@@ -13,6 +13,6 @@ class RouteController(
 
     @Get("/")
     @Produces(MediaType.APPLICATION_JSON)
-    fun hello() = parseStationInfo.getStationInformation()
+    fun hello() = parseStationInfo.createStationMap()
 
 }
