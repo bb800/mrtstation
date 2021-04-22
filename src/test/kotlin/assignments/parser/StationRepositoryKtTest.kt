@@ -11,7 +11,7 @@ internal class StationRepositoryKtTest {
         val testRow = "NS13,Yishun,20 December 1988"
 
         val expected = Station(
-            name = "Yishun",
+            name = "yishun",
             code = listOf("NS13"),
             openingDate = listOf(LocalDate.of(1988, 12, 20),)
         )
@@ -25,7 +25,7 @@ internal class StationRepositoryKtTest {
         val testRow = "NS12,Canberra,2 November 2022"
 
         val expected = Station(
-            name = "Canberra",
+            name = "canberra",
             code = listOf("NS12"),
             openingDate = listOf(LocalDate.of(2022, 11, 2),)
         )

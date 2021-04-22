@@ -5,7 +5,9 @@
 - There aren't any edge cases at the moment, however while parsing the date, I noticed there was a parsing error for Canberra which has an opening date of "December 2019"
 - I've manually patched the date in the CSV to "2 November 2019", using data from [wikipedia](https://en.wikipedia.org/wiki/Canberra_MRT_station).
 
-```
+# API
+
+// TODO
 
 # Project Requirements
 
@@ -23,7 +25,7 @@ Project Stack
     - In IntelliJ `Preferences`, Search for "annotations"
     - Nagivate to `Build, Execution, Deployment` -> `Compiler` -> `Annotation Processors`
     - Check `Enable annotation processing`
-2. Update Configurations (Not required in newer IntelliJ versions)
+2. Update Configurations (Not required with newer IntelliJ versions)
    - Run Configuration, add new task before launch
       - In the `Run Configuration` window, `Before Launch` -> `+`
       - Select `Run Grade Task`
@@ -36,6 +38,7 @@ Project Stack
       - Under `Tasks`, add `testClasses`
 
 
+---
 
 ## Micronaut 2.4.2 Documentation
 
@@ -43,7 +46,6 @@ Project Stack
 - [API Reference](https://docs.micronaut.io/2.4.2/api/index.html)
 - [Configuration Reference](https://docs.micronaut.io/2.4.2/guide/configurationreference.html)
 - [Micronaut Guides](https://guides.micronaut.io/index.html)
----
 
 
 

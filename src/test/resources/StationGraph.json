@@ -1,2301 +1,2732 @@
 {
-  "vertices" : [ {
-    "name" : "Jurong East",
-    "code" : [ "NS1", "EW24" ],
-    "openingDate" : "1990-03-10"
-  }, {
-    "name" : "Bukit Batok",
-    "code" : [ "NS2" ],
-    "openingDate" : "1990-03-10"
-  }, {
-    "name" : "Clementi",
-    "code" : [ "EW23" ],
-    "openingDate" : "1988-03-12"
-  }, {
-    "name" : "Chinese Garden",
-    "code" : [ "EW25" ],
-    "openingDate" : "1988-11-05"
-  }, {
-    "name" : "Jurong East",
-    "code" : [ "NS1" ],
-    "openingDate" : "1990-03-10"
-  }, {
-    "name" : "Bukit Gombak",
-    "code" : [ "NS3" ],
-    "openingDate" : "1990-03-10"
-  }, {
-    "name" : "Choa Chu Kang",
-    "code" : [ "NS4" ],
-    "openingDate" : "1990-03-10"
-  }, {
-    "name" : "Yew Tee",
-    "code" : [ "NS5" ],
-    "openingDate" : "1996-02-10"
-  }, {
-    "name" : "Kranji",
-    "code" : [ "NS7" ],
-    "openingDate" : "1996-02-10"
-  }, {
-    "name" : "Marsiling",
-    "code" : [ "NS8" ],
-    "openingDate" : "1996-02-10"
-  }, {
-    "name" : "Woodlands",
-    "code" : [ "NS9" ],
-    "openingDate" : "1996-02-10"
-  }, {
-    "name" : "Woodlands",
-    "code" : [ "NS9", "TE2" ],
-    "openingDate" : "1996-02-10"
-  }, {
-    "name" : "Admiralty",
-    "code" : [ "NS10" ],
-    "openingDate" : "1996-02-10"
-  }, {
-    "name" : "Woodlands North",
-    "code" : [ "TE1" ],
-    "openingDate" : "2019-12-31"
-  }, {
-    "name" : "Woodlands South",
-    "code" : [ "TE3" ],
-    "openingDate" : "2019-12-31"
-  }, {
-    "name" : "Sembawang",
-    "code" : [ "NS11" ],
-    "openingDate" : "1996-02-10"
-  }, {
-    "name" : "Canberra",
-    "code" : [ "NS12" ],
-    "openingDate" : "2019-11-02"
-  }, {
-    "name" : "Yishun",
-    "code" : [ "NS13" ],
-    "openingDate" : "1988-12-20"
-  }, {
-    "name" : "Khatib",
-    "code" : [ "NS14" ],
-    "openingDate" : "1988-12-20"
-  }, {
-    "name" : "Yio Chu Kang",
-    "code" : [ "NS15" ],
-    "openingDate" : "1987-11-07"
-  }, {
-    "name" : "Ang Mo Kio",
-    "code" : [ "NS16" ],
-    "openingDate" : "1987-11-07"
-  }, {
-    "name" : "Bishan",
-    "code" : [ "NS17" ],
-    "openingDate" : "1987-11-07"
-  }, {
-    "name" : "Bishan",
-    "code" : [ "NS17", "CC15" ],
-    "openingDate" : "1987-11-07"
-  }, {
-    "name" : "Braddell",
-    "code" : [ "NS18" ],
-    "openingDate" : "1987-11-07"
-  }, {
-    "name" : "Lorong Chuan",
-    "code" : [ "CC14" ],
-    "openingDate" : "2009-05-28"
-  }, {
-    "name" : "Marymount",
-    "code" : [ "CC16" ],
-    "openingDate" : "2009-05-28"
-  }, {
-    "name" : "Toa Payoh",
-    "code" : [ "NS19" ],
-    "openingDate" : "1987-11-07"
-  }, {
-    "name" : "Novena",
-    "code" : [ "NS20" ],
-    "openingDate" : "1987-12-12"
-  }, {
-    "name" : "Newton",
-    "code" : [ "NS21" ],
-    "openingDate" : "1987-12-12"
-  }, {
-    "name" : "Newton",
-    "code" : [ "NS21", "DT11" ],
-    "openingDate" : "1987-12-12"
-  }, {
-    "name" : "Orchard",
-    "code" : [ "NS22" ],
-    "openingDate" : "1987-12-12"
-  }, {
-    "name" : "Stevens",
-    "code" : [ "DT10" ],
-    "openingDate" : "2015-12-27"
-  }, {
-    "name" : "Little India",
-    "code" : [ "DT12" ],
-    "openingDate" : "2015-12-27"
-  }, {
-    "name" : "Somerset",
-    "code" : [ "NS23" ],
-    "openingDate" : "1987-12-12"
-  }, {
-    "name" : "Dhoby Ghaut",
-    "code" : [ "NS24" ],
-    "openingDate" : "1987-12-12"
-  }, {
-    "name" : "Dhoby Ghaut",
-    "code" : [ "NS24", "NE6", "CC1" ],
-    "openingDate" : "1987-12-12"
-  }, {
-    "name" : "City Hall",
-    "code" : [ "NS25" ],
-    "openingDate" : "1987-12-12"
-  }, {
-    "name" : "Clarke Quay",
-    "code" : [ "NE5" ],
-    "openingDate" : "2003-06-20"
-  }, {
-    "name" : "Little India",
-    "code" : [ "NE7" ],
-    "openingDate" : "2003-06-20"
-  }, {
-    "name" : "Bras Basah",
-    "code" : [ "CC2" ],
-    "openingDate" : "2010-04-17"
-  }, {
-    "name" : "City Hall",
-    "code" : [ "NS25", "EW13" ],
-    "openingDate" : "1987-12-12"
-  }, {
-    "name" : "Raffles Place",
-    "code" : [ "NS26" ],
-    "openingDate" : "1987-12-12"
-  }, {
-    "name" : "Bugis",
-    "code" : [ "EW12" ],
-    "openingDate" : "1989-11-04"
-  }, {
-    "name" : "Raffles Place",
-    "code" : [ "EW14" ],
-    "openingDate" : "1987-12-12"
-  }, {
-    "name" : "Raffles Place",
-    "code" : [ "NS26", "EW14" ],
-    "openingDate" : "1987-12-12"
-  }, {
-    "name" : "Marina Bay",
-    "code" : [ "NS27" ],
-    "openingDate" : "1989-11-04"
-  }, {
-    "name" : "City Hall",
-    "code" : [ "EW13" ],
-    "openingDate" : "1987-12-12"
-  }, {
-    "name" : "Tanjong Pagar",
-    "code" : [ "EW15" ],
-    "openingDate" : "1987-12-12"
-  }, {
-    "name" : "Marina Bay",
-    "code" : [ "NS27", "CE2" ],
-    "openingDate" : "1989-11-04"
-  }, {
-    "name" : "Marina South Pier",
-    "code" : [ "NS28" ],
-    "openingDate" : "2014-11-23"
-  }, {
-    "name" : "Bayfront",
-    "code" : [ "CE1" ],
-    "openingDate" : "2012-01-14"
-  }, {
-    "name" : "Pasir Ris",
-    "code" : [ "EW1" ],
-    "openingDate" : "1989-12-16"
-  }, {
-    "name" : "Tampines",
-    "code" : [ "EW2" ],
-    "openingDate" : "1989-12-16"
-  }, {
-    "name" : "Tampines",
-    "code" : [ "EW2", "DT32" ],
-    "openingDate" : "1989-12-16"
-  }, {
-    "name" : "Simei",
-    "code" : [ "EW3" ],
-    "openingDate" : "1989-12-16"
-  }, {
-    "name" : "Tampines West",
-    "code" : [ "DT31" ],
-    "openingDate" : "2017-10-21"
-  }, {
-    "name" : "Tampines East",
-    "code" : [ "DT33" ],
-    "openingDate" : "2017-10-21"
-  }, {
-    "name" : "Tanah Merah",
-    "code" : [ "EW4" ],
-    "openingDate" : "1989-11-04"
-  }, {
-    "name" : "Tanah Merah",
-    "code" : [ "EW4", "CG0" ],
-    "openingDate" : "1989-11-04"
-  }, {
-    "name" : "Bedok",
-    "code" : [ "EW5" ],
-    "openingDate" : "1989-11-04"
-  }, {
-    "name" : "Expo",
-    "code" : [ "CG1" ],
-    "openingDate" : "2001-01-10"
-  }, {
-    "name" : "Kembangan",
-    "code" : [ "EW6" ],
-    "openingDate" : "1989-11-04"
-  }, {
-    "name" : "Eunos",
-    "code" : [ "EW7" ],
-    "openingDate" : "1989-11-04"
-  }, {
-    "name" : "Paya Lebar",
-    "code" : [ "EW8" ],
-    "openingDate" : "1989-11-04"
-  }, {
-    "name" : "Paya Lebar",
-    "code" : [ "EW8", "CC9" ],
-    "openingDate" : "1989-11-04"
-  }, {
-    "name" : "Aljunied",
-    "code" : [ "EW9" ],
-    "openingDate" : "1989-11-04"
-  }, {
-    "name" : "Dakota",
-    "code" : [ "CC8" ],
-    "openingDate" : "2010-04-17"
-  }, {
-    "name" : "MacPherson",
-    "code" : [ "CC10" ],
-    "openingDate" : "2010-04-17"
-  }, {
-    "name" : "Kallang",
-    "code" : [ "EW10" ],
-    "openingDate" : "1989-11-04"
-  }, {
-    "name" : "Lavender",
-    "code" : [ "EW11" ],
-    "openingDate" : "1989-11-04"
-  }, {
-    "name" : "Bugis",
-    "code" : [ "EW12", "DT14" ],
-    "openingDate" : "1989-11-04"
-  }, {
-    "name" : "Rochor",
-    "code" : [ "DT13" ],
-    "openingDate" : "2015-12-27"
-  }, {
-    "name" : "Promenade",
-    "code" : [ "DT15" ],
-    "openingDate" : "2013-12-22"
-  }, {
-    "name" : "Outram Park",
-    "code" : [ "EW16" ],
-    "openingDate" : "1987-12-12"
-  }, {
-    "name" : "Outram Park",
-    "code" : [ "EW16", "NE3" ],
-    "openingDate" : "1987-12-12"
-  }, {
-    "name" : "Tiong Bahru",
-    "code" : [ "EW17" ],
-    "openingDate" : "1988-03-12"
-  }, {
-    "name" : "HarbourFront",
-    "code" : [ "NE1" ],
-    "openingDate" : "2003-06-20"
-  }, {
-    "name" : "Chinatown",
-    "code" : [ "NE4" ],
-    "openingDate" : "2003-06-20"
-  }, {
-    "name" : "Redhill",
-    "code" : [ "EW18" ],
-    "openingDate" : "1988-03-12"
-  }, {
-    "name" : "Queenstown",
-    "code" : [ "EW19" ],
-    "openingDate" : "1988-03-12"
-  }, {
-    "name" : "Commonwealth",
-    "code" : [ "EW20" ],
-    "openingDate" : "1988-03-12"
-  }, {
-    "name" : "Buona Vista",
-    "code" : [ "EW21" ],
-    "openingDate" : "1988-03-12"
-  }, {
-    "name" : "Buona Vista",
-    "code" : [ "EW21", "CC22" ],
-    "openingDate" : "1988-03-12"
-  }, {
-    "name" : "Dover",
-    "code" : [ "EW22" ],
-    "openingDate" : "2001-10-18"
-  }, {
-    "name" : "Holland Village",
-    "code" : [ "CC21" ],
-    "openingDate" : "2011-10-08"
-  }, {
-    "name" : "one-north",
-    "code" : [ "CC23" ],
-    "openingDate" : "2011-10-08"
-  }, {
-    "name" : "Jurong East",
-    "code" : [ "EW24" ],
-    "openingDate" : "1988-11-05"
-  }, {
-    "name" : "Lakeside",
-    "code" : [ "EW26" ],
-    "openingDate" : "1988-11-05"
-  }, {
-    "name" : "Boon Lay",
-    "code" : [ "EW27" ],
-    "openingDate" : "1990-07-06"
-  }, {
-    "name" : "Pioneer",
-    "code" : [ "EW28" ],
-    "openingDate" : "2009-02-28"
-  }, {
-    "name" : "Joo Koon",
-    "code" : [ "EW29" ],
-    "openingDate" : "2009-02-28"
-  }, {
-    "name" : "Gul Circle",
-    "code" : [ "EW30" ],
-    "openingDate" : "2017-06-18"
-  }, {
-    "name" : "Tuas Crescent",
-    "code" : [ "EW31" ],
-    "openingDate" : "2017-06-18"
-  }, {
-    "name" : "Tuas West Road",
-    "code" : [ "EW32" ],
-    "openingDate" : "2017-06-18"
-  }, {
-    "name" : "Tuas Link",
-    "code" : [ "EW33" ],
-    "openingDate" : "2017-06-18"
-  }, {
-    "name" : "Expo",
-    "code" : [ "CG1", "DT35" ],
-    "openingDate" : "2001-01-10"
-  }, {
-    "name" : "Tanah Merah",
-    "code" : [ "CG0" ],
-    "openingDate" : "1989-11-04"
-  }, {
-    "name" : "Changi Airport",
-    "code" : [ "CG2" ],
-    "openingDate" : "2002-02-08"
-  }, {
-    "name" : "Upper Changi",
-    "code" : [ "DT34" ],
-    "openingDate" : "2017-10-21"
-  }, {
-    "name" : "HarbourFront",
-    "code" : [ "NE1", "CC29" ],
-    "openingDate" : "2003-06-20"
-  }, {
-    "name" : "Outram Park",
-    "code" : [ "NE3" ],
-    "openingDate" : "2003-06-20"
-  }, {
-    "name" : "Telok Blangah",
-    "code" : [ "CC28" ],
-    "openingDate" : "2011-10-08"
-  }, {
-    "name" : "Chinatown",
-    "code" : [ "NE4", "DT19" ],
-    "openingDate" : "2003-06-20"
-  }, {
-    "name" : "Telok Ayer",
-    "code" : [ "DT18" ],
-    "openingDate" : "2013-12-22"
-  }, {
-    "name" : "Fort Canning",
-    "code" : [ "DT20" ],
-    "openingDate" : "2017-10-21"
-  }, {
-    "name" : "Dhoby Ghaut",
-    "code" : [ "NE6" ],
-    "openingDate" : "2003-06-20"
-  }, {
-    "name" : "Little India",
-    "code" : [ "NE7", "DT12" ],
-    "openingDate" : "2003-06-20"
-  }, {
-    "name" : "Farrer Park",
-    "code" : [ "NE8" ],
-    "openingDate" : "2003-06-20"
-  }, {
-    "name" : "Newton",
-    "code" : [ "DT11" ],
-    "openingDate" : "2015-12-27"
-  }, {
-    "name" : "Boon Keng",
-    "code" : [ "NE9" ],
-    "openingDate" : "2003-06-20"
-  }, {
-    "name" : "Potong Pasir",
-    "code" : [ "NE10" ],
-    "openingDate" : "2003-06-20"
-  }, {
-    "name" : "Woodleigh",
-    "code" : [ "NE11" ],
-    "openingDate" : "2011-06-20"
-  }, {
-    "name" : "Serangoon",
-    "code" : [ "NE12" ],
-    "openingDate" : "2003-06-20"
-  }, {
-    "name" : "Serangoon",
-    "code" : [ "NE12", "CC13" ],
-    "openingDate" : "2003-06-20"
-  }, {
-    "name" : "Kovan",
-    "code" : [ "NE13" ],
-    "openingDate" : "2003-06-20"
-  }, {
-    "name" : "Bartley",
-    "code" : [ "CC12" ],
-    "openingDate" : "2009-05-28"
-  }, {
-    "name" : "Hougang",
-    "code" : [ "NE14" ],
-    "openingDate" : "2003-06-20"
-  }, {
-    "name" : "Buangkok",
-    "code" : [ "NE15" ],
-    "openingDate" : "2006-01-15"
-  }, {
-    "name" : "Sengkang",
-    "code" : [ "NE16" ],
-    "openingDate" : "2003-06-20"
-  }, {
-    "name" : "Punggol",
-    "code" : [ "NE17" ],
-    "openingDate" : "2003-06-20"
-  }, {
-    "name" : "Dhoby Ghaut",
-    "code" : [ "CC1" ],
-    "openingDate" : "2010-04-17"
-  }, {
-    "name" : "Esplanade",
-    "code" : [ "CC3" ],
-    "openingDate" : "2010-04-17"
-  }, {
-    "name" : "Promenade",
-    "code" : [ "CC4" ],
-    "openingDate" : "2010-04-17"
-  }, {
-    "name" : "Promenade",
-    "code" : [ "CC4", "CE0", "DT15" ],
-    "openingDate" : "2010-04-17"
-  }, {
-    "name" : "Nicoll Highway",
-    "code" : [ "CC5" ],
-    "openingDate" : "2010-04-17"
-  }, {
-    "name" : "Bugis",
-    "code" : [ "DT14" ],
-    "openingDate" : "2013-12-22"
-  }, {
-    "name" : "Bayfront",
-    "code" : [ "DT16" ],
-    "openingDate" : "2013-12-22"
-  }, {
-    "name" : "Stadium",
-    "code" : [ "CC6" ],
-    "openingDate" : "2010-04-17"
-  }, {
-    "name" : "Mountbatten",
-    "code" : [ "CC7" ],
-    "openingDate" : "2010-04-17"
-  }, {
-    "name" : "Paya Lebar",
-    "code" : [ "CC9" ],
-    "openingDate" : "2010-04-17"
-  }, {
-    "name" : "MacPherson",
-    "code" : [ "CC10", "DT26" ],
-    "openingDate" : "2010-04-17"
-  }, {
-    "name" : "Tai Seng",
-    "code" : [ "CC11" ],
-    "openingDate" : "2010-04-17"
-  }, {
-    "name" : "Mattar",
-    "code" : [ "DT25" ],
-    "openingDate" : "2017-10-21"
-  }, {
-    "name" : "Ubi",
-    "code" : [ "DT27" ],
-    "openingDate" : "2017-10-21"
-  }, {
-    "name" : "Serangoon",
-    "code" : [ "CC13" ],
-    "openingDate" : "2009-05-28"
-  }, {
-    "name" : "Bishan",
-    "code" : [ "CC15" ],
-    "openingDate" : "2009-05-28"
-  }, {
-    "name" : "Caldecott",
-    "code" : [ "CC17" ],
-    "openingDate" : "2011-10-08"
-  }, {
-    "name" : "Caldecott",
-    "code" : [ "CC17", "TE9" ],
-    "openingDate" : "2011-10-08"
-  }, {
-    "name" : "Botanic Gardens",
-    "code" : [ "CC19" ],
-    "openingDate" : "2011-10-08"
-  }, {
-    "name" : "Upper Thomson",
-    "code" : [ "TE8" ],
-    "openingDate" : "2020-12-31"
-  }, {
-    "name" : "Mount Pleasant",
-    "code" : [ "TE10" ],
-    "openingDate" : "2021-12-31"
-  }, {
-    "name" : "Botanic Gardens",
-    "code" : [ "CC19", "DT9" ],
-    "openingDate" : "2011-10-08"
-  }, {
-    "name" : "Farrer Road",
-    "code" : [ "CC20" ],
-    "openingDate" : "2011-10-08"
-  }, {
-    "name" : "Tan Kah Kee",
-    "code" : [ "DT8" ],
-    "openingDate" : "2015-12-27"
-  }, {
-    "name" : "Buona Vista",
-    "code" : [ "CC22" ],
-    "openingDate" : "2011-10-08"
-  }, {
-    "name" : "Kent Ridge",
-    "code" : [ "CC24" ],
-    "openingDate" : "2011-10-08"
-  }, {
-    "name" : "Haw Par Villa",
-    "code" : [ "CC25" ],
-    "openingDate" : "2011-10-08"
-  }, {
-    "name" : "Pasir Panjang",
-    "code" : [ "CC26" ],
-    "openingDate" : "2011-10-08"
-  }, {
-    "name" : "Labrador Park",
-    "code" : [ "CC27" ],
-    "openingDate" : "2011-10-08"
-  }, {
-    "name" : "HarbourFront",
-    "code" : [ "CC29" ],
-    "openingDate" : "2011-10-08"
-  }, {
-    "name" : "Bayfront",
-    "code" : [ "CE1", "DT16" ],
-    "openingDate" : "2012-01-14"
-  }, {
-    "name" : "Promenade",
-    "code" : [ "CE0" ],
-    "openingDate" : "2010-04-17"
-  }, {
-    "name" : "Marina Bay",
-    "code" : [ "CE2" ],
-    "openingDate" : "2012-01-14"
-  }, {
-    "name" : "Downtown",
-    "code" : [ "DT17" ],
-    "openingDate" : "2013-12-22"
-  }, {
-    "name" : "Bukit Panjang",
-    "code" : [ "DT1" ],
-    "openingDate" : "2015-12-27"
-  }, {
-    "name" : "Cashew",
-    "code" : [ "DT2" ],
-    "openingDate" : "2015-12-27"
-  }, {
-    "name" : "Hillview",
-    "code" : [ "DT3" ],
-    "openingDate" : "2015-12-27"
-  }, {
-    "name" : "Beauty World",
-    "code" : [ "DT5" ],
-    "openingDate" : "2015-12-27"
-  }, {
-    "name" : "King Albert Park",
-    "code" : [ "DT6" ],
-    "openingDate" : "2015-12-27"
-  }, {
-    "name" : "Sixth Avenue",
-    "code" : [ "DT7" ],
-    "openingDate" : "2015-12-27"
-  }, {
-    "name" : "Botanic Gardens",
-    "code" : [ "DT9" ],
-    "openingDate" : "2015-12-27"
-  }, {
-    "name" : "Chinatown",
-    "code" : [ "DT19" ],
-    "openingDate" : "2013-12-22"
-  }, {
-    "name" : "Bencoolen",
-    "code" : [ "DT21" ],
-    "openingDate" : "2017-10-21"
-  }, {
-    "name" : "Jalan Besar",
-    "code" : [ "DT22" ],
-    "openingDate" : "2017-10-21"
-  }, {
-    "name" : "Bendemeer",
-    "code" : [ "DT23" ],
-    "openingDate" : "2017-10-21"
-  }, {
-    "name" : "Geylang Bahru",
-    "code" : [ "DT24" ],
-    "openingDate" : "2017-10-21"
-  }, {
-    "name" : "MacPherson",
-    "code" : [ "DT26" ],
-    "openingDate" : "2017-10-21"
-  }, {
-    "name" : "Kaki Bukit",
-    "code" : [ "DT28" ],
-    "openingDate" : "2017-10-21"
-  }, {
-    "name" : "Bedok North",
-    "code" : [ "DT29" ],
-    "openingDate" : "2017-10-21"
-  }, {
-    "name" : "Bedok Reservoir",
-    "code" : [ "DT30" ],
-    "openingDate" : "2017-10-21"
-  }, {
-    "name" : "Tampines",
-    "code" : [ "DT32" ],
-    "openingDate" : "2017-10-21"
-  }, {
-    "name" : "Expo",
-    "code" : [ "DT35" ],
-    "openingDate" : "2017-10-21"
-  }, {
-    "name" : "Woodlands",
-    "code" : [ "TE2" ],
-    "openingDate" : "2019-12-31"
-  }, {
-    "name" : "Springleaf",
-    "code" : [ "TE4" ],
-    "openingDate" : "2020-12-31"
-  }, {
-    "name" : "Lentor",
-    "code" : [ "TE5" ],
-    "openingDate" : "2020-12-31"
-  }, {
-    "name" : "Mayflower",
-    "code" : [ "TE6" ],
-    "openingDate" : "2020-12-31"
-  }, {
-    "name" : "Bright Hill",
-    "code" : [ "TE7" ],
-    "openingDate" : "2020-12-31"
-  }, {
-    "name" : "Caldecott",
-    "code" : [ "TE9" ],
-    "openingDate" : "2020-12-31"
-  } ],
-  "edges" : {
-    "Station(name=Jurong East, code=[NS1, EW24], openingDate=1990-03-10)" : [ {
-      "name" : "Bukit Batok",
-      "code" : [ "NS2" ],
-      "openingDate" : "1990-03-10"
-    }, {
-      "name" : "Clementi",
-      "code" : [ "EW23" ],
-      "openingDate" : "1988-03-12"
-    }, {
-      "name" : "Chinese Garden",
-      "code" : [ "EW25" ],
-      "openingDate" : "1988-11-05"
-    } ],
-    "Station(name=Bukit Batok, code=[NS2], openingDate=1990-03-10)" : [ {
-      "name" : "Jurong East",
-      "code" : [ "NS1" ],
-      "openingDate" : "1990-03-10"
-    }, {
-      "name" : "Bukit Gombak",
-      "code" : [ "NS3" ],
-      "openingDate" : "1990-03-10"
-    } ],
-    "Station(name=Bukit Gombak, code=[NS3], openingDate=1990-03-10)" : [ {
-      "name" : "Bukit Batok",
-      "code" : [ "NS2" ],
-      "openingDate" : "1990-03-10"
-    }, {
-      "name" : "Choa Chu Kang",
-      "code" : [ "NS4" ],
-      "openingDate" : "1990-03-10"
-    } ],
-    "Station(name=Choa Chu Kang, code=[NS4], openingDate=1990-03-10)" : [ {
-      "name" : "Bukit Gombak",
-      "code" : [ "NS3" ],
-      "openingDate" : "1990-03-10"
-    }, {
-      "name" : "Yew Tee",
-      "code" : [ "NS5" ],
-      "openingDate" : "1996-02-10"
-    } ],
-    "Station(name=Yew Tee, code=[NS5], openingDate=1996-02-10)" : [ {
-      "name" : "Choa Chu Kang",
-      "code" : [ "NS4" ],
-      "openingDate" : "1990-03-10"
-    }, {
-      "name" : "Kranji",
-      "code" : [ "NS7" ],
-      "openingDate" : "1996-02-10"
-    } ],
-    "Station(name=Kranji, code=[NS7], openingDate=1996-02-10)" : [ {
-      "name" : "Yew Tee",
-      "code" : [ "NS5" ],
-      "openingDate" : "1996-02-10"
-    }, {
-      "name" : "Marsiling",
-      "code" : [ "NS8" ],
-      "openingDate" : "1996-02-10"
-    } ],
-    "Station(name=Marsiling, code=[NS8], openingDate=1996-02-10)" : [ {
-      "name" : "Kranji",
-      "code" : [ "NS7" ],
-      "openingDate" : "1996-02-10"
-    }, {
-      "name" : "Woodlands",
-      "code" : [ "NS9" ],
-      "openingDate" : "1996-02-10"
-    } ],
-    "Station(name=Woodlands, code=[NS9, TE2], openingDate=1996-02-10)" : [ {
-      "name" : "Marsiling",
-      "code" : [ "NS8" ],
-      "openingDate" : "1996-02-10"
-    }, {
-      "name" : "Admiralty",
-      "code" : [ "NS10" ],
-      "openingDate" : "1996-02-10"
-    }, {
-      "name" : "Woodlands North",
-      "code" : [ "TE1" ],
-      "openingDate" : "2019-12-31"
-    }, {
-      "name" : "Woodlands South",
-      "code" : [ "TE3" ],
-      "openingDate" : "2019-12-31"
-    } ],
-    "Station(name=Admiralty, code=[NS10], openingDate=1996-02-10)" : [ {
-      "name" : "Woodlands",
-      "code" : [ "NS9" ],
-      "openingDate" : "1996-02-10"
-    }, {
-      "name" : "Sembawang",
-      "code" : [ "NS11" ],
-      "openingDate" : "1996-02-10"
-    } ],
-    "Station(name=Sembawang, code=[NS11], openingDate=1996-02-10)" : [ {
-      "name" : "Admiralty",
-      "code" : [ "NS10" ],
-      "openingDate" : "1996-02-10"
-    }, {
-      "name" : "Canberra",
-      "code" : [ "NS12" ],
-      "openingDate" : "2019-11-02"
-    } ],
-    "Station(name=Canberra, code=[NS12], openingDate=2019-11-02)" : [ {
-      "name" : "Sembawang",
-      "code" : [ "NS11" ],
-      "openingDate" : "1996-02-10"
-    }, {
-      "name" : "Yishun",
-      "code" : [ "NS13" ],
-      "openingDate" : "1988-12-20"
-    } ],
-    "Station(name=Yishun, code=[NS13], openingDate=1988-12-20)" : [ {
-      "name" : "Canberra",
-      "code" : [ "NS12" ],
-      "openingDate" : "2019-11-02"
-    }, {
-      "name" : "Khatib",
-      "code" : [ "NS14" ],
-      "openingDate" : "1988-12-20"
-    } ],
-    "Station(name=Khatib, code=[NS14], openingDate=1988-12-20)" : [ {
-      "name" : "Yishun",
-      "code" : [ "NS13" ],
-      "openingDate" : "1988-12-20"
-    }, {
-      "name" : "Yio Chu Kang",
-      "code" : [ "NS15" ],
-      "openingDate" : "1987-11-07"
-    } ],
-    "Station(name=Yio Chu Kang, code=[NS15], openingDate=1987-11-07)" : [ {
-      "name" : "Khatib",
-      "code" : [ "NS14" ],
-      "openingDate" : "1988-12-20"
-    }, {
-      "name" : "Ang Mo Kio",
-      "code" : [ "NS16" ],
-      "openingDate" : "1987-11-07"
-    } ],
-    "Station(name=Ang Mo Kio, code=[NS16], openingDate=1987-11-07)" : [ {
-      "name" : "Yio Chu Kang",
-      "code" : [ "NS15" ],
-      "openingDate" : "1987-11-07"
-    }, {
-      "name" : "Bishan",
-      "code" : [ "NS17" ],
-      "openingDate" : "1987-11-07"
-    } ],
-    "Station(name=Bishan, code=[NS17, CC15], openingDate=1987-11-07)" : [ {
-      "name" : "Ang Mo Kio",
-      "code" : [ "NS16" ],
-      "openingDate" : "1987-11-07"
-    }, {
-      "name" : "Braddell",
-      "code" : [ "NS18" ],
-      "openingDate" : "1987-11-07"
-    }, {
-      "name" : "Lorong Chuan",
-      "code" : [ "CC14" ],
-      "openingDate" : "2009-05-28"
-    }, {
-      "name" : "Marymount",
-      "code" : [ "CC16" ],
-      "openingDate" : "2009-05-28"
-    } ],
-    "Station(name=Braddell, code=[NS18], openingDate=1987-11-07)" : [ {
-      "name" : "Bishan",
-      "code" : [ "NS17" ],
-      "openingDate" : "1987-11-07"
-    }, {
-      "name" : "Toa Payoh",
-      "code" : [ "NS19" ],
-      "openingDate" : "1987-11-07"
-    } ],
-    "Station(name=Toa Payoh, code=[NS19], openingDate=1987-11-07)" : [ {
-      "name" : "Braddell",
-      "code" : [ "NS18" ],
-      "openingDate" : "1987-11-07"
-    }, {
-      "name" : "Novena",
-      "code" : [ "NS20" ],
-      "openingDate" : "1987-12-12"
-    } ],
-    "Station(name=Novena, code=[NS20], openingDate=1987-12-12)" : [ {
-      "name" : "Toa Payoh",
-      "code" : [ "NS19" ],
-      "openingDate" : "1987-11-07"
-    }, {
-      "name" : "Newton",
-      "code" : [ "NS21" ],
-      "openingDate" : "1987-12-12"
-    } ],
-    "Station(name=Newton, code=[NS21, DT11], openingDate=1987-12-12)" : [ {
-      "name" : "Novena",
-      "code" : [ "NS20" ],
-      "openingDate" : "1987-12-12"
-    }, {
-      "name" : "Orchard",
-      "code" : [ "NS22" ],
-      "openingDate" : "1987-12-12"
-    }, {
-      "name" : "Stevens",
-      "code" : [ "DT10" ],
-      "openingDate" : "2015-12-27"
-    }, {
-      "name" : "Little India",
-      "code" : [ "DT12" ],
-      "openingDate" : "2015-12-27"
-    } ],
-    "Station(name=Orchard, code=[NS22], openingDate=1987-12-12)" : [ {
-      "name" : "Newton",
-      "code" : [ "NS21" ],
-      "openingDate" : "1987-12-12"
-    }, {
-      "name" : "Somerset",
-      "code" : [ "NS23" ],
-      "openingDate" : "1987-12-12"
-    } ],
-    "Station(name=Somerset, code=[NS23], openingDate=1987-12-12)" : [ {
-      "name" : "Orchard",
-      "code" : [ "NS22" ],
-      "openingDate" : "1987-12-12"
-    }, {
-      "name" : "Dhoby Ghaut",
-      "code" : [ "NS24" ],
-      "openingDate" : "1987-12-12"
-    } ],
-    "Station(name=Dhoby Ghaut, code=[NS24, NE6, CC1], openingDate=1987-12-12)" : [ {
-      "name" : "Somerset",
-      "code" : [ "NS23" ],
-      "openingDate" : "1987-12-12"
-    }, {
-      "name" : "City Hall",
-      "code" : [ "NS25" ],
-      "openingDate" : "1987-12-12"
-    }, {
-      "name" : "Clarke Quay",
-      "code" : [ "NE5" ],
-      "openingDate" : "2003-06-20"
-    }, {
-      "name" : "Little India",
-      "code" : [ "NE7" ],
-      "openingDate" : "2003-06-20"
-    }, {
-      "name" : "Bras Basah",
-      "code" : [ "CC2" ],
-      "openingDate" : "2010-04-17"
-    } ],
-    "Station(name=City Hall, code=[NS25, EW13], openingDate=1987-12-12)" : [ {
-      "name" : "Dhoby Ghaut",
-      "code" : [ "NS24" ],
-      "openingDate" : "1987-12-12"
-    }, {
-      "name" : "Raffles Place",
-      "code" : [ "NS26" ],
-      "openingDate" : "1987-12-12"
-    }, {
-      "name" : "Bugis",
-      "code" : [ "EW12" ],
-      "openingDate" : "1989-11-04"
-    }, {
-      "name" : "Raffles Place",
-      "code" : [ "EW14" ],
-      "openingDate" : "1987-12-12"
-    } ],
-    "Station(name=Raffles Place, code=[NS26, EW14], openingDate=1987-12-12)" : [ {
-      "name" : "City Hall",
-      "code" : [ "NS25" ],
-      "openingDate" : "1987-12-12"
-    }, {
-      "name" : "Marina Bay",
-      "code" : [ "NS27" ],
-      "openingDate" : "1989-11-04"
-    }, {
-      "name" : "City Hall",
-      "code" : [ "EW13" ],
-      "openingDate" : "1987-12-12"
-    }, {
-      "name" : "Tanjong Pagar",
-      "code" : [ "EW15" ],
-      "openingDate" : "1987-12-12"
-    } ],
-    "Station(name=Marina Bay, code=[NS27, CE2], openingDate=1989-11-04)" : [ {
-      "name" : "Raffles Place",
-      "code" : [ "NS26" ],
-      "openingDate" : "1987-12-12"
-    }, {
-      "name" : "Marina South Pier",
-      "code" : [ "NS28" ],
-      "openingDate" : "2014-11-23"
-    }, {
-      "name" : "Bayfront",
-      "code" : [ "CE1" ],
-      "openingDate" : "2012-01-14"
-    } ],
-    "Station(name=Marina South Pier, code=[NS28], openingDate=2014-11-23)" : [ {
-      "name" : "Marina Bay",
-      "code" : [ "NS27" ],
-      "openingDate" : "1989-11-04"
-    } ],
-    "Station(name=Pasir Ris, code=[EW1], openingDate=1989-12-16)" : [ {
-      "name" : "Tampines",
-      "code" : [ "EW2" ],
-      "openingDate" : "1989-12-16"
-    } ],
-    "Station(name=Tampines, code=[EW2, DT32], openingDate=1989-12-16)" : [ {
-      "name" : "Pasir Ris",
-      "code" : [ "EW1" ],
-      "openingDate" : "1989-12-16"
-    }, {
-      "name" : "Simei",
-      "code" : [ "EW3" ],
-      "openingDate" : "1989-12-16"
-    }, {
-      "name" : "Tampines West",
-      "code" : [ "DT31" ],
-      "openingDate" : "2017-10-21"
-    }, {
-      "name" : "Tampines East",
-      "code" : [ "DT33" ],
-      "openingDate" : "2017-10-21"
-    } ],
-    "Station(name=Simei, code=[EW3], openingDate=1989-12-16)" : [ {
-      "name" : "Tampines",
-      "code" : [ "EW2" ],
-      "openingDate" : "1989-12-16"
-    }, {
-      "name" : "Tanah Merah",
-      "code" : [ "EW4" ],
-      "openingDate" : "1989-11-04"
-    } ],
-    "Station(name=Tanah Merah, code=[EW4, CG0], openingDate=1989-11-04)" : [ {
-      "name" : "Simei",
-      "code" : [ "EW3" ],
-      "openingDate" : "1989-12-16"
-    }, {
-      "name" : "Bedok",
-      "code" : [ "EW5" ],
-      "openingDate" : "1989-11-04"
-    }, {
-      "name" : "Expo",
-      "code" : [ "CG1" ],
-      "openingDate" : "2001-01-10"
-    } ],
-    "Station(name=Bedok, code=[EW5], openingDate=1989-11-04)" : [ {
-      "name" : "Tanah Merah",
-      "code" : [ "EW4" ],
-      "openingDate" : "1989-11-04"
-    }, {
-      "name" : "Kembangan",
-      "code" : [ "EW6" ],
-      "openingDate" : "1989-11-04"
-    } ],
-    "Station(name=Kembangan, code=[EW6], openingDate=1989-11-04)" : [ {
-      "name" : "Bedok",
-      "code" : [ "EW5" ],
-      "openingDate" : "1989-11-04"
-    }, {
-      "name" : "Eunos",
-      "code" : [ "EW7" ],
-      "openingDate" : "1989-11-04"
-    } ],
-    "Station(name=Eunos, code=[EW7], openingDate=1989-11-04)" : [ {
-      "name" : "Kembangan",
-      "code" : [ "EW6" ],
-      "openingDate" : "1989-11-04"
-    }, {
-      "name" : "Paya Lebar",
-      "code" : [ "EW8" ],
-      "openingDate" : "1989-11-04"
-    } ],
-    "Station(name=Paya Lebar, code=[EW8, CC9], openingDate=1989-11-04)" : [ {
-      "name" : "Eunos",
-      "code" : [ "EW7" ],
-      "openingDate" : "1989-11-04"
-    }, {
-      "name" : "Aljunied",
-      "code" : [ "EW9" ],
-      "openingDate" : "1989-11-04"
-    }, {
-      "name" : "Dakota",
-      "code" : [ "CC8" ],
-      "openingDate" : "2010-04-17"
-    }, {
-      "name" : "MacPherson",
-      "code" : [ "CC10" ],
-      "openingDate" : "2010-04-17"
-    } ],
-    "Station(name=Aljunied, code=[EW9], openingDate=1989-11-04)" : [ {
-      "name" : "Paya Lebar",
-      "code" : [ "EW8" ],
-      "openingDate" : "1989-11-04"
-    }, {
-      "name" : "Kallang",
-      "code" : [ "EW10" ],
-      "openingDate" : "1989-11-04"
-    } ],
-    "Station(name=Kallang, code=[EW10], openingDate=1989-11-04)" : [ {
-      "name" : "Aljunied",
-      "code" : [ "EW9" ],
-      "openingDate" : "1989-11-04"
-    }, {
-      "name" : "Lavender",
-      "code" : [ "EW11" ],
-      "openingDate" : "1989-11-04"
-    } ],
-    "Station(name=Lavender, code=[EW11], openingDate=1989-11-04)" : [ {
-      "name" : "Kallang",
-      "code" : [ "EW10" ],
-      "openingDate" : "1989-11-04"
-    }, {
-      "name" : "Bugis",
-      "code" : [ "EW12" ],
-      "openingDate" : "1989-11-04"
-    } ],
-    "Station(name=Bugis, code=[EW12, DT14], openingDate=1989-11-04)" : [ {
-      "name" : "Lavender",
-      "code" : [ "EW11" ],
-      "openingDate" : "1989-11-04"
-    }, {
-      "name" : "City Hall",
-      "code" : [ "EW13" ],
-      "openingDate" : "1987-12-12"
-    }, {
-      "name" : "Rochor",
-      "code" : [ "DT13" ],
-      "openingDate" : "2015-12-27"
-    }, {
-      "name" : "Promenade",
-      "code" : [ "DT15" ],
-      "openingDate" : "2013-12-22"
-    } ],
-    "Station(name=Tanjong Pagar, code=[EW15], openingDate=1987-12-12)" : [ {
-      "name" : "Raffles Place",
-      "code" : [ "EW14" ],
-      "openingDate" : "1987-12-12"
-    }, {
-      "name" : "Outram Park",
-      "code" : [ "EW16" ],
-      "openingDate" : "1987-12-12"
-    } ],
-    "Station(name=Outram Park, code=[EW16, NE3], openingDate=1987-12-12)" : [ {
-      "name" : "Tanjong Pagar",
-      "code" : [ "EW15" ],
-      "openingDate" : "1987-12-12"
-    }, {
-      "name" : "Tiong Bahru",
-      "code" : [ "EW17" ],
-      "openingDate" : "1988-03-12"
-    }, {
-      "name" : "HarbourFront",
-      "code" : [ "NE1" ],
-      "openingDate" : "2003-06-20"
-    }, {
-      "name" : "Chinatown",
-      "code" : [ "NE4" ],
-      "openingDate" : "2003-06-20"
-    } ],
-    "Station(name=Tiong Bahru, code=[EW17], openingDate=1988-03-12)" : [ {
-      "name" : "Outram Park",
-      "code" : [ "EW16" ],
-      "openingDate" : "1987-12-12"
-    }, {
-      "name" : "Redhill",
-      "code" : [ "EW18" ],
-      "openingDate" : "1988-03-12"
-    } ],
-    "Station(name=Redhill, code=[EW18], openingDate=1988-03-12)" : [ {
-      "name" : "Tiong Bahru",
-      "code" : [ "EW17" ],
-      "openingDate" : "1988-03-12"
-    }, {
-      "name" : "Queenstown",
-      "code" : [ "EW19" ],
-      "openingDate" : "1988-03-12"
-    } ],
-    "Station(name=Queenstown, code=[EW19], openingDate=1988-03-12)" : [ {
-      "name" : "Redhill",
-      "code" : [ "EW18" ],
-      "openingDate" : "1988-03-12"
-    }, {
-      "name" : "Commonwealth",
-      "code" : [ "EW20" ],
-      "openingDate" : "1988-03-12"
-    } ],
-    "Station(name=Commonwealth, code=[EW20], openingDate=1988-03-12)" : [ {
-      "name" : "Queenstown",
-      "code" : [ "EW19" ],
-      "openingDate" : "1988-03-12"
-    }, {
-      "name" : "Buona Vista",
-      "code" : [ "EW21" ],
-      "openingDate" : "1988-03-12"
-    } ],
-    "Station(name=Buona Vista, code=[EW21, CC22], openingDate=1988-03-12)" : [ {
-      "name" : "Commonwealth",
-      "code" : [ "EW20" ],
-      "openingDate" : "1988-03-12"
-    }, {
-      "name" : "Dover",
-      "code" : [ "EW22" ],
-      "openingDate" : "2001-10-18"
-    }, {
-      "name" : "Holland Village",
-      "code" : [ "CC21" ],
-      "openingDate" : "2011-10-08"
-    }, {
-      "name" : "one-north",
-      "code" : [ "CC23" ],
-      "openingDate" : "2011-10-08"
-    } ],
-    "Station(name=Dover, code=[EW22], openingDate=2001-10-18)" : [ {
-      "name" : "Buona Vista",
-      "code" : [ "EW21" ],
-      "openingDate" : "1988-03-12"
-    }, {
-      "name" : "Clementi",
-      "code" : [ "EW23" ],
-      "openingDate" : "1988-03-12"
-    } ],
-    "Station(name=Clementi, code=[EW23], openingDate=1988-03-12)" : [ {
-      "name" : "Dover",
-      "code" : [ "EW22" ],
-      "openingDate" : "2001-10-18"
-    }, {
-      "name" : "Jurong East",
-      "code" : [ "EW24" ],
-      "openingDate" : "1988-11-05"
-    } ],
-    "Station(name=Chinese Garden, code=[EW25], openingDate=1988-11-05)" : [ {
-      "name" : "Jurong East",
-      "code" : [ "EW24" ],
-      "openingDate" : "1988-11-05"
-    }, {
-      "name" : "Lakeside",
-      "code" : [ "EW26" ],
-      "openingDate" : "1988-11-05"
-    } ],
-    "Station(name=Lakeside, code=[EW26], openingDate=1988-11-05)" : [ {
-      "name" : "Chinese Garden",
-      "code" : [ "EW25" ],
-      "openingDate" : "1988-11-05"
-    }, {
-      "name" : "Boon Lay",
-      "code" : [ "EW27" ],
-      "openingDate" : "1990-07-06"
-    } ],
-    "Station(name=Boon Lay, code=[EW27], openingDate=1990-07-06)" : [ {
-      "name" : "Lakeside",
-      "code" : [ "EW26" ],
-      "openingDate" : "1988-11-05"
-    }, {
-      "name" : "Pioneer",
-      "code" : [ "EW28" ],
-      "openingDate" : "2009-02-28"
-    } ],
-    "Station(name=Pioneer, code=[EW28], openingDate=2009-02-28)" : [ {
-      "name" : "Boon Lay",
-      "code" : [ "EW27" ],
-      "openingDate" : "1990-07-06"
-    }, {
-      "name" : "Joo Koon",
-      "code" : [ "EW29" ],
-      "openingDate" : "2009-02-28"
-    } ],
-    "Station(name=Joo Koon, code=[EW29], openingDate=2009-02-28)" : [ {
-      "name" : "Pioneer",
-      "code" : [ "EW28" ],
-      "openingDate" : "2009-02-28"
-    }, {
-      "name" : "Gul Circle",
-      "code" : [ "EW30" ],
-      "openingDate" : "2017-06-18"
-    } ],
-    "Station(name=Gul Circle, code=[EW30], openingDate=2017-06-18)" : [ {
-      "name" : "Joo Koon",
-      "code" : [ "EW29" ],
-      "openingDate" : "2009-02-28"
-    }, {
-      "name" : "Tuas Crescent",
-      "code" : [ "EW31" ],
-      "openingDate" : "2017-06-18"
-    } ],
-    "Station(name=Tuas Crescent, code=[EW31], openingDate=2017-06-18)" : [ {
-      "name" : "Gul Circle",
-      "code" : [ "EW30" ],
-      "openingDate" : "2017-06-18"
-    }, {
-      "name" : "Tuas West Road",
-      "code" : [ "EW32" ],
-      "openingDate" : "2017-06-18"
-    } ],
-    "Station(name=Tuas West Road, code=[EW32], openingDate=2017-06-18)" : [ {
-      "name" : "Tuas Crescent",
-      "code" : [ "EW31" ],
-      "openingDate" : "2017-06-18"
-    }, {
-      "name" : "Tuas Link",
-      "code" : [ "EW33" ],
-      "openingDate" : "2017-06-18"
-    } ],
-    "Station(name=Tuas Link, code=[EW33], openingDate=2017-06-18)" : [ {
-      "name" : "Tuas West Road",
-      "code" : [ "EW32" ],
-      "openingDate" : "2017-06-18"
-    } ],
-    "Station(name=Expo, code=[CG1, DT35], openingDate=2001-01-10)" : [ {
-      "name" : "Tanah Merah",
-      "code" : [ "CG0" ],
-      "openingDate" : "1989-11-04"
-    }, {
-      "name" : "Changi Airport",
-      "code" : [ "CG2" ],
-      "openingDate" : "2002-02-08"
-    }, {
-      "name" : "Upper Changi",
-      "code" : [ "DT34" ],
-      "openingDate" : "2017-10-21"
-    } ],
-    "Station(name=Changi Airport, code=[CG2], openingDate=2002-02-08)" : [ {
-      "name" : "Expo",
-      "code" : [ "CG1" ],
-      "openingDate" : "2001-01-10"
-    } ],
-    "Station(name=HarbourFront, code=[NE1, CC29], openingDate=2003-06-20)" : [ {
-      "name" : "Outram Park",
-      "code" : [ "NE3" ],
-      "openingDate" : "2003-06-20"
-    }, {
-      "name" : "Telok Blangah",
-      "code" : [ "CC28" ],
-      "openingDate" : "2011-10-08"
-    } ],
-    "Station(name=Chinatown, code=[NE4, DT19], openingDate=2003-06-20)" : [ {
-      "name" : "Outram Park",
-      "code" : [ "NE3" ],
-      "openingDate" : "2003-06-20"
-    }, {
-      "name" : "Clarke Quay",
-      "code" : [ "NE5" ],
-      "openingDate" : "2003-06-20"
-    }, {
-      "name" : "Telok Ayer",
-      "code" : [ "DT18" ],
-      "openingDate" : "2013-12-22"
-    }, {
-      "name" : "Fort Canning",
-      "code" : [ "DT20" ],
-      "openingDate" : "2017-10-21"
-    } ],
-    "Station(name=Clarke Quay, code=[NE5], openingDate=2003-06-20)" : [ {
-      "name" : "Chinatown",
-      "code" : [ "NE4" ],
-      "openingDate" : "2003-06-20"
-    }, {
-      "name" : "Dhoby Ghaut",
-      "code" : [ "NE6" ],
-      "openingDate" : "2003-06-20"
-    } ],
-    "Station(name=Little India, code=[NE7, DT12], openingDate=2003-06-20)" : [ {
-      "name" : "Dhoby Ghaut",
-      "code" : [ "NE6" ],
-      "openingDate" : "2003-06-20"
-    }, {
-      "name" : "Farrer Park",
-      "code" : [ "NE8" ],
-      "openingDate" : "2003-06-20"
-    }, {
-      "name" : "Newton",
-      "code" : [ "DT11" ],
-      "openingDate" : "2015-12-27"
-    }, {
-      "name" : "Rochor",
-      "code" : [ "DT13" ],
-      "openingDate" : "2015-12-27"
-    } ],
-    "Station(name=Farrer Park, code=[NE8], openingDate=2003-06-20)" : [ {
-      "name" : "Little India",
-      "code" : [ "NE7" ],
-      "openingDate" : "2003-06-20"
-    }, {
-      "name" : "Boon Keng",
-      "code" : [ "NE9" ],
-      "openingDate" : "2003-06-20"
-    } ],
-    "Station(name=Boon Keng, code=[NE9], openingDate=2003-06-20)" : [ {
-      "name" : "Farrer Park",
-      "code" : [ "NE8" ],
-      "openingDate" : "2003-06-20"
-    }, {
-      "name" : "Potong Pasir",
-      "code" : [ "NE10" ],
-      "openingDate" : "2003-06-20"
-    } ],
-    "Station(name=Potong Pasir, code=[NE10], openingDate=2003-06-20)" : [ {
-      "name" : "Boon Keng",
-      "code" : [ "NE9" ],
-      "openingDate" : "2003-06-20"
-    }, {
-      "name" : "Woodleigh",
-      "code" : [ "NE11" ],
-      "openingDate" : "2011-06-20"
-    } ],
-    "Station(name=Woodleigh, code=[NE11], openingDate=2011-06-20)" : [ {
-      "name" : "Potong Pasir",
-      "code" : [ "NE10" ],
-      "openingDate" : "2003-06-20"
-    }, {
-      "name" : "Serangoon",
-      "code" : [ "NE12" ],
-      "openingDate" : "2003-06-20"
-    } ],
-    "Station(name=Serangoon, code=[NE12, CC13], openingDate=2003-06-20)" : [ {
-      "name" : "Woodleigh",
-      "code" : [ "NE11" ],
-      "openingDate" : "2011-06-20"
-    }, {
-      "name" : "Kovan",
-      "code" : [ "NE13" ],
-      "openingDate" : "2003-06-20"
-    }, {
-      "name" : "Bartley",
-      "code" : [ "CC12" ],
-      "openingDate" : "2009-05-28"
-    }, {
-      "name" : "Lorong Chuan",
-      "code" : [ "CC14" ],
-      "openingDate" : "2009-05-28"
-    } ],
-    "Station(name=Kovan, code=[NE13], openingDate=2003-06-20)" : [ {
-      "name" : "Serangoon",
-      "code" : [ "NE12" ],
-      "openingDate" : "2003-06-20"
-    }, {
-      "name" : "Hougang",
-      "code" : [ "NE14" ],
-      "openingDate" : "2003-06-20"
-    } ],
-    "Station(name=Hougang, code=[NE14], openingDate=2003-06-20)" : [ {
-      "name" : "Kovan",
-      "code" : [ "NE13" ],
-      "openingDate" : "2003-06-20"
-    }, {
-      "name" : "Buangkok",
-      "code" : [ "NE15" ],
-      "openingDate" : "2006-01-15"
-    } ],
-    "Station(name=Buangkok, code=[NE15], openingDate=2006-01-15)" : [ {
-      "name" : "Hougang",
-      "code" : [ "NE14" ],
-      "openingDate" : "2003-06-20"
-    }, {
-      "name" : "Sengkang",
-      "code" : [ "NE16" ],
-      "openingDate" : "2003-06-20"
-    } ],
-    "Station(name=Sengkang, code=[NE16], openingDate=2003-06-20)" : [ {
-      "name" : "Buangkok",
-      "code" : [ "NE15" ],
-      "openingDate" : "2006-01-15"
-    }, {
-      "name" : "Punggol",
-      "code" : [ "NE17" ],
-      "openingDate" : "2003-06-20"
-    } ],
-    "Station(name=Punggol, code=[NE17], openingDate=2003-06-20)" : [ {
-      "name" : "Sengkang",
-      "code" : [ "NE16" ],
-      "openingDate" : "2003-06-20"
-    } ],
-    "Station(name=Bras Basah, code=[CC2], openingDate=2010-04-17)" : [ {
-      "name" : "Dhoby Ghaut",
-      "code" : [ "CC1" ],
-      "openingDate" : "2010-04-17"
-    }, {
-      "name" : "Esplanade",
-      "code" : [ "CC3" ],
-      "openingDate" : "2010-04-17"
-    } ],
-    "Station(name=Esplanade, code=[CC3], openingDate=2010-04-17)" : [ {
-      "name" : "Bras Basah",
-      "code" : [ "CC2" ],
-      "openingDate" : "2010-04-17"
-    }, {
-      "name" : "Promenade",
-      "code" : [ "CC4" ],
-      "openingDate" : "2010-04-17"
-    } ],
-    "Station(name=Promenade, code=[CC4, CE0, DT15], openingDate=2010-04-17)" : [ {
-      "name" : "Esplanade",
-      "code" : [ "CC3" ],
-      "openingDate" : "2010-04-17"
-    }, {
-      "name" : "Nicoll Highway",
-      "code" : [ "CC5" ],
-      "openingDate" : "2010-04-17"
-    }, {
-      "name" : "Bayfront",
-      "code" : [ "CE1" ],
-      "openingDate" : "2012-01-14"
-    }, {
-      "name" : "Bugis",
-      "code" : [ "DT14" ],
-      "openingDate" : "2013-12-22"
-    }, {
-      "name" : "Bayfront",
-      "code" : [ "DT16" ],
-      "openingDate" : "2013-12-22"
-    } ],
-    "Station(name=Nicoll Highway, code=[CC5], openingDate=2010-04-17)" : [ {
-      "name" : "Promenade",
-      "code" : [ "CC4" ],
-      "openingDate" : "2010-04-17"
-    }, {
-      "name" : "Stadium",
-      "code" : [ "CC6" ],
-      "openingDate" : "2010-04-17"
-    } ],
-    "Station(name=Stadium, code=[CC6], openingDate=2010-04-17)" : [ {
-      "name" : "Nicoll Highway",
-      "code" : [ "CC5" ],
-      "openingDate" : "2010-04-17"
-    }, {
-      "name" : "Mountbatten",
-      "code" : [ "CC7" ],
-      "openingDate" : "2010-04-17"
-    } ],
-    "Station(name=Mountbatten, code=[CC7], openingDate=2010-04-17)" : [ {
-      "name" : "Stadium",
-      "code" : [ "CC6" ],
-      "openingDate" : "2010-04-17"
-    }, {
-      "name" : "Dakota",
-      "code" : [ "CC8" ],
-      "openingDate" : "2010-04-17"
-    } ],
-    "Station(name=Dakota, code=[CC8], openingDate=2010-04-17)" : [ {
-      "name" : "Mountbatten",
-      "code" : [ "CC7" ],
-      "openingDate" : "2010-04-17"
-    }, {
-      "name" : "Paya Lebar",
-      "code" : [ "CC9" ],
-      "openingDate" : "2010-04-17"
-    } ],
-    "Station(name=MacPherson, code=[CC10, DT26], openingDate=2010-04-17)" : [ {
-      "name" : "Paya Lebar",
-      "code" : [ "CC9" ],
-      "openingDate" : "2010-04-17"
-    }, {
-      "name" : "Tai Seng",
-      "code" : [ "CC11" ],
-      "openingDate" : "2010-04-17"
-    }, {
-      "name" : "Mattar",
-      "code" : [ "DT25" ],
-      "openingDate" : "2017-10-21"
-    }, {
-      "name" : "Ubi",
-      "code" : [ "DT27" ],
-      "openingDate" : "2017-10-21"
-    } ],
-    "Station(name=Tai Seng, code=[CC11], openingDate=2010-04-17)" : [ {
-      "name" : "MacPherson",
-      "code" : [ "CC10" ],
-      "openingDate" : "2010-04-17"
-    }, {
-      "name" : "Bartley",
-      "code" : [ "CC12" ],
-      "openingDate" : "2009-05-28"
-    } ],
-    "Station(name=Bartley, code=[CC12], openingDate=2009-05-28)" : [ {
-      "name" : "Tai Seng",
-      "code" : [ "CC11" ],
-      "openingDate" : "2010-04-17"
-    }, {
-      "name" : "Serangoon",
-      "code" : [ "CC13" ],
-      "openingDate" : "2009-05-28"
-    } ],
-    "Station(name=Lorong Chuan, code=[CC14], openingDate=2009-05-28)" : [ {
-      "name" : "Serangoon",
-      "code" : [ "CC13" ],
-      "openingDate" : "2009-05-28"
-    }, {
-      "name" : "Bishan",
-      "code" : [ "CC15" ],
-      "openingDate" : "2009-05-28"
-    } ],
-    "Station(name=Marymount, code=[CC16], openingDate=2009-05-28)" : [ {
-      "name" : "Bishan",
-      "code" : [ "CC15" ],
-      "openingDate" : "2009-05-28"
-    }, {
-      "name" : "Caldecott",
-      "code" : [ "CC17" ],
-      "openingDate" : "2011-10-08"
-    } ],
-    "Station(name=Caldecott, code=[CC17, TE9], openingDate=2011-10-08)" : [ {
-      "name" : "Marymount",
-      "code" : [ "CC16" ],
-      "openingDate" : "2009-05-28"
-    }, {
-      "name" : "Botanic Gardens",
-      "code" : [ "CC19" ],
-      "openingDate" : "2011-10-08"
-    }, {
-      "name" : "Upper Thomson",
-      "code" : [ "TE8" ],
-      "openingDate" : "2020-12-31"
-    }, {
-      "name" : "Mount Pleasant",
-      "code" : [ "TE10" ],
-      "openingDate" : "2021-12-31"
-    } ],
-    "Station(name=Botanic Gardens, code=[CC19, DT9], openingDate=2011-10-08)" : [ {
-      "name" : "Caldecott",
-      "code" : [ "CC17" ],
-      "openingDate" : "2011-10-08"
-    }, {
-      "name" : "Farrer Road",
-      "code" : [ "CC20" ],
-      "openingDate" : "2011-10-08"
-    }, {
-      "name" : "Tan Kah Kee",
-      "code" : [ "DT8" ],
-      "openingDate" : "2015-12-27"
-    }, {
-      "name" : "Stevens",
-      "code" : [ "DT10" ],
-      "openingDate" : "2015-12-27"
-    } ],
-    "Station(name=Farrer Road, code=[CC20], openingDate=2011-10-08)" : [ {
-      "name" : "Botanic Gardens",
-      "code" : [ "CC19" ],
-      "openingDate" : "2011-10-08"
-    }, {
-      "name" : "Holland Village",
-      "code" : [ "CC21" ],
-      "openingDate" : "2011-10-08"
-    } ],
-    "Station(name=Holland Village, code=[CC21], openingDate=2011-10-08)" : [ {
-      "name" : "Farrer Road",
-      "code" : [ "CC20" ],
-      "openingDate" : "2011-10-08"
-    }, {
-      "name" : "Buona Vista",
-      "code" : [ "CC22" ],
-      "openingDate" : "2011-10-08"
-    } ],
-    "Station(name=one-north, code=[CC23], openingDate=2011-10-08)" : [ {
-      "name" : "Buona Vista",
-      "code" : [ "CC22" ],
-      "openingDate" : "2011-10-08"
-    }, {
-      "name" : "Kent Ridge",
-      "code" : [ "CC24" ],
-      "openingDate" : "2011-10-08"
-    } ],
-    "Station(name=Kent Ridge, code=[CC24], openingDate=2011-10-08)" : [ {
-      "name" : "one-north",
-      "code" : [ "CC23" ],
-      "openingDate" : "2011-10-08"
-    }, {
-      "name" : "Haw Par Villa",
-      "code" : [ "CC25" ],
-      "openingDate" : "2011-10-08"
-    } ],
-    "Station(name=Haw Par Villa, code=[CC25], openingDate=2011-10-08)" : [ {
-      "name" : "Kent Ridge",
-      "code" : [ "CC24" ],
-      "openingDate" : "2011-10-08"
-    }, {
-      "name" : "Pasir Panjang",
-      "code" : [ "CC26" ],
-      "openingDate" : "2011-10-08"
-    } ],
-    "Station(name=Pasir Panjang, code=[CC26], openingDate=2011-10-08)" : [ {
-      "name" : "Haw Par Villa",
-      "code" : [ "CC25" ],
-      "openingDate" : "2011-10-08"
-    }, {
-      "name" : "Labrador Park",
-      "code" : [ "CC27" ],
-      "openingDate" : "2011-10-08"
-    } ],
-    "Station(name=Labrador Park, code=[CC27], openingDate=2011-10-08)" : [ {
-      "name" : "Pasir Panjang",
-      "code" : [ "CC26" ],
-      "openingDate" : "2011-10-08"
-    }, {
-      "name" : "Telok Blangah",
-      "code" : [ "CC28" ],
-      "openingDate" : "2011-10-08"
-    } ],
-    "Station(name=Telok Blangah, code=[CC28], openingDate=2011-10-08)" : [ {
-      "name" : "Labrador Park",
-      "code" : [ "CC27" ],
-      "openingDate" : "2011-10-08"
-    }, {
-      "name" : "HarbourFront",
-      "code" : [ "CC29" ],
-      "openingDate" : "2011-10-08"
-    } ],
-    "Station(name=Bayfront, code=[CE1, DT16], openingDate=2012-01-14)" : [ {
-      "name" : "Promenade",
-      "code" : [ "CE0" ],
-      "openingDate" : "2010-04-17"
-    }, {
-      "name" : "Marina Bay",
-      "code" : [ "CE2" ],
-      "openingDate" : "2012-01-14"
-    }, {
-      "name" : "Promenade",
-      "code" : [ "DT15" ],
-      "openingDate" : "2013-12-22"
-    }, {
-      "name" : "Downtown",
-      "code" : [ "DT17" ],
-      "openingDate" : "2013-12-22"
-    } ],
-    "Station(name=Bukit Panjang, code=[DT1], openingDate=2015-12-27)" : [ {
-      "name" : "Cashew",
-      "code" : [ "DT2" ],
-      "openingDate" : "2015-12-27"
-    } ],
-    "Station(name=Cashew, code=[DT2], openingDate=2015-12-27)" : [ {
-      "name" : "Bukit Panjang",
-      "code" : [ "DT1" ],
-      "openingDate" : "2015-12-27"
-    }, {
-      "name" : "Hillview",
-      "code" : [ "DT3" ],
-      "openingDate" : "2015-12-27"
-    } ],
-    "Station(name=Hillview, code=[DT3], openingDate=2015-12-27)" : [ {
-      "name" : "Cashew",
-      "code" : [ "DT2" ],
-      "openingDate" : "2015-12-27"
-    }, {
-      "name" : "Beauty World",
-      "code" : [ "DT5" ],
-      "openingDate" : "2015-12-27"
-    } ],
-    "Station(name=Beauty World, code=[DT5], openingDate=2015-12-27)" : [ {
-      "name" : "Hillview",
-      "code" : [ "DT3" ],
-      "openingDate" : "2015-12-27"
-    }, {
-      "name" : "King Albert Park",
-      "code" : [ "DT6" ],
-      "openingDate" : "2015-12-27"
-    } ],
-    "Station(name=King Albert Park, code=[DT6], openingDate=2015-12-27)" : [ {
-      "name" : "Beauty World",
-      "code" : [ "DT5" ],
-      "openingDate" : "2015-12-27"
-    }, {
-      "name" : "Sixth Avenue",
-      "code" : [ "DT7" ],
-      "openingDate" : "2015-12-27"
-    } ],
-    "Station(name=Sixth Avenue, code=[DT7], openingDate=2015-12-27)" : [ {
-      "name" : "King Albert Park",
-      "code" : [ "DT6" ],
-      "openingDate" : "2015-12-27"
-    }, {
-      "name" : "Tan Kah Kee",
-      "code" : [ "DT8" ],
-      "openingDate" : "2015-12-27"
-    } ],
-    "Station(name=Tan Kah Kee, code=[DT8], openingDate=2015-12-27)" : [ {
-      "name" : "Sixth Avenue",
-      "code" : [ "DT7" ],
-      "openingDate" : "2015-12-27"
-    }, {
-      "name" : "Botanic Gardens",
-      "code" : [ "DT9" ],
-      "openingDate" : "2015-12-27"
-    } ],
-    "Station(name=Stevens, code=[DT10], openingDate=2015-12-27)" : [ {
-      "name" : "Botanic Gardens",
-      "code" : [ "DT9" ],
-      "openingDate" : "2015-12-27"
-    }, {
-      "name" : "Newton",
-      "code" : [ "DT11" ],
-      "openingDate" : "2015-12-27"
-    } ],
-    "Station(name=Rochor, code=[DT13], openingDate=2015-12-27)" : [ {
-      "name" : "Little India",
-      "code" : [ "DT12" ],
-      "openingDate" : "2015-12-27"
-    }, {
-      "name" : "Bugis",
-      "code" : [ "DT14" ],
-      "openingDate" : "2013-12-22"
-    } ],
-    "Station(name=Downtown, code=[DT17], openingDate=2013-12-22)" : [ {
-      "name" : "Bayfront",
-      "code" : [ "DT16" ],
-      "openingDate" : "2013-12-22"
-    }, {
-      "name" : "Telok Ayer",
-      "code" : [ "DT18" ],
-      "openingDate" : "2013-12-22"
-    } ],
-    "Station(name=Telok Ayer, code=[DT18], openingDate=2013-12-22)" : [ {
-      "name" : "Downtown",
-      "code" : [ "DT17" ],
-      "openingDate" : "2013-12-22"
-    }, {
-      "name" : "Chinatown",
-      "code" : [ "DT19" ],
-      "openingDate" : "2013-12-22"
-    } ],
-    "Station(name=Fort Canning, code=[DT20], openingDate=2017-10-21)" : [ {
-      "name" : "Chinatown",
-      "code" : [ "DT19" ],
-      "openingDate" : "2013-12-22"
-    }, {
-      "name" : "Bencoolen",
-      "code" : [ "DT21" ],
-      "openingDate" : "2017-10-21"
-    } ],
-    "Station(name=Bencoolen, code=[DT21], openingDate=2017-10-21)" : [ {
-      "name" : "Fort Canning",
-      "code" : [ "DT20" ],
-      "openingDate" : "2017-10-21"
-    }, {
-      "name" : "Jalan Besar",
-      "code" : [ "DT22" ],
-      "openingDate" : "2017-10-21"
-    } ],
-    "Station(name=Jalan Besar, code=[DT22], openingDate=2017-10-21)" : [ {
-      "name" : "Bencoolen",
-      "code" : [ "DT21" ],
-      "openingDate" : "2017-10-21"
-    }, {
-      "name" : "Bendemeer",
-      "code" : [ "DT23" ],
-      "openingDate" : "2017-10-21"
-    } ],
-    "Station(name=Bendemeer, code=[DT23], openingDate=2017-10-21)" : [ {
-      "name" : "Jalan Besar",
-      "code" : [ "DT22" ],
-      "openingDate" : "2017-10-21"
-    }, {
-      "name" : "Geylang Bahru",
-      "code" : [ "DT24" ],
-      "openingDate" : "2017-10-21"
-    } ],
-    "Station(name=Geylang Bahru, code=[DT24], openingDate=2017-10-21)" : [ {
-      "name" : "Bendemeer",
-      "code" : [ "DT23" ],
-      "openingDate" : "2017-10-21"
-    }, {
-      "name" : "Mattar",
-      "code" : [ "DT25" ],
-      "openingDate" : "2017-10-21"
-    } ],
-    "Station(name=Mattar, code=[DT25], openingDate=2017-10-21)" : [ {
-      "name" : "Geylang Bahru",
-      "code" : [ "DT24" ],
-      "openingDate" : "2017-10-21"
-    }, {
-      "name" : "MacPherson",
-      "code" : [ "DT26" ],
-      "openingDate" : "2017-10-21"
-    } ],
-    "Station(name=Ubi, code=[DT27], openingDate=2017-10-21)" : [ {
-      "name" : "MacPherson",
-      "code" : [ "DT26" ],
-      "openingDate" : "2017-10-21"
-    }, {
-      "name" : "Kaki Bukit",
-      "code" : [ "DT28" ],
-      "openingDate" : "2017-10-21"
-    } ],
-    "Station(name=Kaki Bukit, code=[DT28], openingDate=2017-10-21)" : [ {
-      "name" : "Ubi",
-      "code" : [ "DT27" ],
-      "openingDate" : "2017-10-21"
-    }, {
-      "name" : "Bedok North",
-      "code" : [ "DT29" ],
-      "openingDate" : "2017-10-21"
-    } ],
-    "Station(name=Bedok North, code=[DT29], openingDate=2017-10-21)" : [ {
-      "name" : "Kaki Bukit",
-      "code" : [ "DT28" ],
-      "openingDate" : "2017-10-21"
-    }, {
-      "name" : "Bedok Reservoir",
-      "code" : [ "DT30" ],
-      "openingDate" : "2017-10-21"
-    } ],
-    "Station(name=Bedok Reservoir, code=[DT30], openingDate=2017-10-21)" : [ {
-      "name" : "Bedok North",
-      "code" : [ "DT29" ],
-      "openingDate" : "2017-10-21"
-    }, {
-      "name" : "Tampines West",
-      "code" : [ "DT31" ],
-      "openingDate" : "2017-10-21"
-    } ],
-    "Station(name=Tampines West, code=[DT31], openingDate=2017-10-21)" : [ {
-      "name" : "Bedok Reservoir",
-      "code" : [ "DT30" ],
-      "openingDate" : "2017-10-21"
-    }, {
-      "name" : "Tampines",
-      "code" : [ "DT32" ],
-      "openingDate" : "2017-10-21"
-    } ],
-    "Station(name=Tampines East, code=[DT33], openingDate=2017-10-21)" : [ {
-      "name" : "Tampines",
-      "code" : [ "DT32" ],
-      "openingDate" : "2017-10-21"
-    }, {
-      "name" : "Upper Changi",
-      "code" : [ "DT34" ],
-      "openingDate" : "2017-10-21"
-    } ],
-    "Station(name=Upper Changi, code=[DT34], openingDate=2017-10-21)" : [ {
-      "name" : "Tampines East",
-      "code" : [ "DT33" ],
-      "openingDate" : "2017-10-21"
-    }, {
-      "name" : "Expo",
-      "code" : [ "DT35" ],
-      "openingDate" : "2017-10-21"
-    } ],
-    "Station(name=Woodlands North, code=[TE1], openingDate=2019-12-31)" : [ {
-      "name" : "Woodlands",
-      "code" : [ "TE2" ],
-      "openingDate" : "2019-12-31"
-    } ],
-    "Station(name=Woodlands South, code=[TE3], openingDate=2019-12-31)" : [ {
-      "name" : "Woodlands",
-      "code" : [ "TE2" ],
-      "openingDate" : "2019-12-31"
-    }, {
-      "name" : "Springleaf",
-      "code" : [ "TE4" ],
-      "openingDate" : "2020-12-31"
-    } ],
-    "Station(name=Springleaf, code=[TE4], openingDate=2020-12-31)" : [ {
-      "name" : "Woodlands South",
-      "code" : [ "TE3" ],
-      "openingDate" : "2019-12-31"
-    }, {
-      "name" : "Lentor",
-      "code" : [ "TE5" ],
-      "openingDate" : "2020-12-31"
-    } ],
-    "Station(name=Lentor, code=[TE5], openingDate=2020-12-31)" : [ {
-      "name" : "Springleaf",
-      "code" : [ "TE4" ],
-      "openingDate" : "2020-12-31"
-    }, {
-      "name" : "Mayflower",
-      "code" : [ "TE6" ],
-      "openingDate" : "2020-12-31"
-    } ],
-    "Station(name=Mayflower, code=[TE6], openingDate=2020-12-31)" : [ {
-      "name" : "Lentor",
-      "code" : [ "TE5" ],
-      "openingDate" : "2020-12-31"
-    }, {
-      "name" : "Bright Hill",
-      "code" : [ "TE7" ],
-      "openingDate" : "2020-12-31"
-    } ],
-    "Station(name=Bright Hill, code=[TE7], openingDate=2020-12-31)" : [ {
-      "name" : "Mayflower",
-      "code" : [ "TE6" ],
-      "openingDate" : "2020-12-31"
-    }, {
-      "name" : "Upper Thomson",
-      "code" : [ "TE8" ],
-      "openingDate" : "2020-12-31"
-    } ],
-    "Station(name=Upper Thomson, code=[TE8], openingDate=2020-12-31)" : [ {
-      "name" : "Bright Hill",
-      "code" : [ "TE7" ],
-      "openingDate" : "2020-12-31"
-    }, {
-      "name" : "Caldecott",
-      "code" : [ "TE9" ],
-      "openingDate" : "2020-12-31"
-    } ]
+  "stationMap" : {
+    "jurong east" : {
+      "station" : {
+        "name" : "jurong east",
+        "code" : [ "NS1", "EW24" ],
+        "openingDate" : [ "1990-03-10", "1988-11-05" ]
+      },
+      "adjacent" : [ {
+        "name" : "bukit batok",
+        "code" : [ "NS2" ],
+        "openingDate" : [ "1990-03-10" ]
+      }, {
+        "name" : "clementi",
+        "code" : [ "EW23" ],
+        "openingDate" : [ "1988-03-12" ]
+      }, {
+        "name" : "chinese garden",
+        "code" : [ "EW25" ],
+        "openingDate" : [ "1988-11-05" ]
+      } ],
+      "isInterchange" : true
+    },
+    "bukit batok" : {
+      "station" : {
+        "name" : "bukit batok",
+        "code" : [ "NS2" ],
+        "openingDate" : [ "1990-03-10" ]
+      },
+      "adjacent" : [ {
+        "name" : "jurong east",
+        "code" : [ "NS1" ],
+        "openingDate" : [ "1990-03-10" ]
+      }, {
+        "name" : "bukit gombak",
+        "code" : [ "NS3" ],
+        "openingDate" : [ "1990-03-10" ]
+      } ],
+      "isInterchange" : false
+    },
+    "bukit gombak" : {
+      "station" : {
+        "name" : "bukit gombak",
+        "code" : [ "NS3" ],
+        "openingDate" : [ "1990-03-10" ]
+      },
+      "adjacent" : [ {
+        "name" : "bukit batok",
+        "code" : [ "NS2" ],
+        "openingDate" : [ "1990-03-10" ]
+      }, {
+        "name" : "choa chu kang",
+        "code" : [ "NS4" ],
+        "openingDate" : [ "1990-03-10" ]
+      } ],
+      "isInterchange" : false
+    },
+    "choa chu kang" : {
+      "station" : {
+        "name" : "choa chu kang",
+        "code" : [ "NS4" ],
+        "openingDate" : [ "1990-03-10" ]
+      },
+      "adjacent" : [ {
+        "name" : "bukit gombak",
+        "code" : [ "NS3" ],
+        "openingDate" : [ "1990-03-10" ]
+      }, {
+        "name" : "yew tee",
+        "code" : [ "NS5" ],
+        "openingDate" : [ "1996-02-10" ]
+      } ],
+      "isInterchange" : false
+    },
+    "yew tee" : {
+      "station" : {
+        "name" : "yew tee",
+        "code" : [ "NS5" ],
+        "openingDate" : [ "1996-02-10" ]
+      },
+      "adjacent" : [ {
+        "name" : "choa chu kang",
+        "code" : [ "NS4" ],
+        "openingDate" : [ "1990-03-10" ]
+      }, {
+        "name" : "kranji",
+        "code" : [ "NS7" ],
+        "openingDate" : [ "1996-02-10" ]
+      } ],
+      "isInterchange" : false
+    },
+    "kranji" : {
+      "station" : {
+        "name" : "kranji",
+        "code" : [ "NS7" ],
+        "openingDate" : [ "1996-02-10" ]
+      },
+      "adjacent" : [ {
+        "name" : "yew tee",
+        "code" : [ "NS5" ],
+        "openingDate" : [ "1996-02-10" ]
+      }, {
+        "name" : "marsiling",
+        "code" : [ "NS8" ],
+        "openingDate" : [ "1996-02-10" ]
+      } ],
+      "isInterchange" : false
+    },
+    "marsiling" : {
+      "station" : {
+        "name" : "marsiling",
+        "code" : [ "NS8" ],
+        "openingDate" : [ "1996-02-10" ]
+      },
+      "adjacent" : [ {
+        "name" : "kranji",
+        "code" : [ "NS7" ],
+        "openingDate" : [ "1996-02-10" ]
+      }, {
+        "name" : "woodlands",
+        "code" : [ "NS9" ],
+        "openingDate" : [ "1996-02-10" ]
+      } ],
+      "isInterchange" : false
+    },
+    "woodlands" : {
+      "station" : {
+        "name" : "woodlands",
+        "code" : [ "NS9", "TE2" ],
+        "openingDate" : [ "1996-02-10", "2019-12-31" ]
+      },
+      "adjacent" : [ {
+        "name" : "marsiling",
+        "code" : [ "NS8" ],
+        "openingDate" : [ "1996-02-10" ]
+      }, {
+        "name" : "admiralty",
+        "code" : [ "NS10" ],
+        "openingDate" : [ "1996-02-10" ]
+      }, {
+        "name" : "woodlands north",
+        "code" : [ "TE1" ],
+        "openingDate" : [ "2019-12-31" ]
+      }, {
+        "name" : "woodlands south",
+        "code" : [ "TE3" ],
+        "openingDate" : [ "2019-12-31" ]
+      } ],
+      "isInterchange" : true
+    },
+    "admiralty" : {
+      "station" : {
+        "name" : "admiralty",
+        "code" : [ "NS10" ],
+        "openingDate" : [ "1996-02-10" ]
+      },
+      "adjacent" : [ {
+        "name" : "woodlands",
+        "code" : [ "NS9" ],
+        "openingDate" : [ "1996-02-10" ]
+      }, {
+        "name" : "sembawang",
+        "code" : [ "NS11" ],
+        "openingDate" : [ "1996-02-10" ]
+      } ],
+      "isInterchange" : false
+    },
+    "sembawang" : {
+      "station" : {
+        "name" : "sembawang",
+        "code" : [ "NS11" ],
+        "openingDate" : [ "1996-02-10" ]
+      },
+      "adjacent" : [ {
+        "name" : "admiralty",
+        "code" : [ "NS10" ],
+        "openingDate" : [ "1996-02-10" ]
+      }, {
+        "name" : "canberra",
+        "code" : [ "NS12" ],
+        "openingDate" : [ "2019-11-02" ]
+      } ],
+      "isInterchange" : false
+    },
+    "canberra" : {
+      "station" : {
+        "name" : "canberra",
+        "code" : [ "NS12" ],
+        "openingDate" : [ "2019-11-02" ]
+      },
+      "adjacent" : [ {
+        "name" : "sembawang",
+        "code" : [ "NS11" ],
+        "openingDate" : [ "1996-02-10" ]
+      }, {
+        "name" : "yishun",
+        "code" : [ "NS13" ],
+        "openingDate" : [ "1988-12-20" ]
+      } ],
+      "isInterchange" : false
+    },
+    "yishun" : {
+      "station" : {
+        "name" : "yishun",
+        "code" : [ "NS13" ],
+        "openingDate" : [ "1988-12-20" ]
+      },
+      "adjacent" : [ {
+        "name" : "canberra",
+        "code" : [ "NS12" ],
+        "openingDate" : [ "2019-11-02" ]
+      }, {
+        "name" : "khatib",
+        "code" : [ "NS14" ],
+        "openingDate" : [ "1988-12-20" ]
+      } ],
+      "isInterchange" : false
+    },
+    "khatib" : {
+      "station" : {
+        "name" : "khatib",
+        "code" : [ "NS14" ],
+        "openingDate" : [ "1988-12-20" ]
+      },
+      "adjacent" : [ {
+        "name" : "yishun",
+        "code" : [ "NS13" ],
+        "openingDate" : [ "1988-12-20" ]
+      }, {
+        "name" : "yio chu kang",
+        "code" : [ "NS15" ],
+        "openingDate" : [ "1987-11-07" ]
+      } ],
+      "isInterchange" : false
+    },
+    "yio chu kang" : {
+      "station" : {
+        "name" : "yio chu kang",
+        "code" : [ "NS15" ],
+        "openingDate" : [ "1987-11-07" ]
+      },
+      "adjacent" : [ {
+        "name" : "khatib",
+        "code" : [ "NS14" ],
+        "openingDate" : [ "1988-12-20" ]
+      }, {
+        "name" : "ang mo kio",
+        "code" : [ "NS16" ],
+        "openingDate" : [ "1987-11-07" ]
+      } ],
+      "isInterchange" : false
+    },
+    "ang mo kio" : {
+      "station" : {
+        "name" : "ang mo kio",
+        "code" : [ "NS16" ],
+        "openingDate" : [ "1987-11-07" ]
+      },
+      "adjacent" : [ {
+        "name" : "yio chu kang",
+        "code" : [ "NS15" ],
+        "openingDate" : [ "1987-11-07" ]
+      }, {
+        "name" : "bishan",
+        "code" : [ "NS17" ],
+        "openingDate" : [ "1987-11-07" ]
+      } ],
+      "isInterchange" : false
+    },
+    "bishan" : {
+      "station" : {
+        "name" : "bishan",
+        "code" : [ "NS17", "CC15" ],
+        "openingDate" : [ "1987-11-07", "2009-05-28" ]
+      },
+      "adjacent" : [ {
+        "name" : "ang mo kio",
+        "code" : [ "NS16" ],
+        "openingDate" : [ "1987-11-07" ]
+      }, {
+        "name" : "braddell",
+        "code" : [ "NS18" ],
+        "openingDate" : [ "1987-11-07" ]
+      }, {
+        "name" : "lorong chuan",
+        "code" : [ "CC14" ],
+        "openingDate" : [ "2009-05-28" ]
+      }, {
+        "name" : "marymount",
+        "code" : [ "CC16" ],
+        "openingDate" : [ "2009-05-28" ]
+      } ],
+      "isInterchange" : true
+    },
+    "braddell" : {
+      "station" : {
+        "name" : "braddell",
+        "code" : [ "NS18" ],
+        "openingDate" : [ "1987-11-07" ]
+      },
+      "adjacent" : [ {
+        "name" : "bishan",
+        "code" : [ "NS17" ],
+        "openingDate" : [ "1987-11-07" ]
+      }, {
+        "name" : "toa payoh",
+        "code" : [ "NS19" ],
+        "openingDate" : [ "1987-11-07" ]
+      } ],
+      "isInterchange" : false
+    },
+    "toa payoh" : {
+      "station" : {
+        "name" : "toa payoh",
+        "code" : [ "NS19" ],
+        "openingDate" : [ "1987-11-07" ]
+      },
+      "adjacent" : [ {
+        "name" : "braddell",
+        "code" : [ "NS18" ],
+        "openingDate" : [ "1987-11-07" ]
+      }, {
+        "name" : "novena",
+        "code" : [ "NS20" ],
+        "openingDate" : [ "1987-12-12" ]
+      } ],
+      "isInterchange" : false
+    },
+    "novena" : {
+      "station" : {
+        "name" : "novena",
+        "code" : [ "NS20" ],
+        "openingDate" : [ "1987-12-12" ]
+      },
+      "adjacent" : [ {
+        "name" : "toa payoh",
+        "code" : [ "NS19" ],
+        "openingDate" : [ "1987-11-07" ]
+      }, {
+        "name" : "newton",
+        "code" : [ "NS21" ],
+        "openingDate" : [ "1987-12-12" ]
+      } ],
+      "isInterchange" : false
+    },
+    "newton" : {
+      "station" : {
+        "name" : "newton",
+        "code" : [ "NS21", "DT11" ],
+        "openingDate" : [ "1987-12-12", "2015-12-27" ]
+      },
+      "adjacent" : [ {
+        "name" : "novena",
+        "code" : [ "NS20" ],
+        "openingDate" : [ "1987-12-12" ]
+      }, {
+        "name" : "orchard",
+        "code" : [ "NS22" ],
+        "openingDate" : [ "1987-12-12" ]
+      }, {
+        "name" : "stevens",
+        "code" : [ "DT10" ],
+        "openingDate" : [ "2015-12-27" ]
+      }, {
+        "name" : "little india",
+        "code" : [ "DT12" ],
+        "openingDate" : [ "2015-12-27" ]
+      } ],
+      "isInterchange" : true
+    },
+    "orchard" : {
+      "station" : {
+        "name" : "orchard",
+        "code" : [ "NS22" ],
+        "openingDate" : [ "1987-12-12" ]
+      },
+      "adjacent" : [ {
+        "name" : "newton",
+        "code" : [ "NS21" ],
+        "openingDate" : [ "1987-12-12" ]
+      }, {
+        "name" : "somerset",
+        "code" : [ "NS23" ],
+        "openingDate" : [ "1987-12-12" ]
+      } ],
+      "isInterchange" : false
+    },
+    "somerset" : {
+      "station" : {
+        "name" : "somerset",
+        "code" : [ "NS23" ],
+        "openingDate" : [ "1987-12-12" ]
+      },
+      "adjacent" : [ {
+        "name" : "orchard",
+        "code" : [ "NS22" ],
+        "openingDate" : [ "1987-12-12" ]
+      }, {
+        "name" : "dhoby ghaut",
+        "code" : [ "NS24" ],
+        "openingDate" : [ "1987-12-12" ]
+      } ],
+      "isInterchange" : false
+    },
+    "dhoby ghaut" : {
+      "station" : {
+        "name" : "dhoby ghaut",
+        "code" : [ "NS24", "NE6", "CC1" ],
+        "openingDate" : [ "1987-12-12", "2003-06-20", "2010-04-17" ]
+      },
+      "adjacent" : [ {
+        "name" : "somerset",
+        "code" : [ "NS23" ],
+        "openingDate" : [ "1987-12-12" ]
+      }, {
+        "name" : "city hall",
+        "code" : [ "NS25" ],
+        "openingDate" : [ "1987-12-12" ]
+      }, {
+        "name" : "clarke quay",
+        "code" : [ "NE5" ],
+        "openingDate" : [ "2003-06-20" ]
+      }, {
+        "name" : "little india",
+        "code" : [ "NE7" ],
+        "openingDate" : [ "2003-06-20" ]
+      }, {
+        "name" : "bras basah",
+        "code" : [ "CC2" ],
+        "openingDate" : [ "2010-04-17" ]
+      } ],
+      "isInterchange" : true
+    },
+    "city hall" : {
+      "station" : {
+        "name" : "city hall",
+        "code" : [ "NS25", "EW13" ],
+        "openingDate" : [ "1987-12-12", "1987-12-12" ]
+      },
+      "adjacent" : [ {
+        "name" : "dhoby ghaut",
+        "code" : [ "NS24" ],
+        "openingDate" : [ "1987-12-12" ]
+      }, {
+        "name" : "raffles place",
+        "code" : [ "NS26" ],
+        "openingDate" : [ "1987-12-12" ]
+      }, {
+        "name" : "bugis",
+        "code" : [ "EW12" ],
+        "openingDate" : [ "1989-11-04" ]
+      }, {
+        "name" : "raffles place",
+        "code" : [ "EW14" ],
+        "openingDate" : [ "1987-12-12" ]
+      } ],
+      "isInterchange" : true
+    },
+    "raffles place" : {
+      "station" : {
+        "name" : "raffles place",
+        "code" : [ "NS26", "EW14" ],
+        "openingDate" : [ "1987-12-12", "1987-12-12" ]
+      },
+      "adjacent" : [ {
+        "name" : "city hall",
+        "code" : [ "NS25" ],
+        "openingDate" : [ "1987-12-12" ]
+      }, {
+        "name" : "marina bay",
+        "code" : [ "NS27" ],
+        "openingDate" : [ "1989-11-04" ]
+      }, {
+        "name" : "city hall",
+        "code" : [ "EW13" ],
+        "openingDate" : [ "1987-12-12" ]
+      }, {
+        "name" : "tanjong pagar",
+        "code" : [ "EW15" ],
+        "openingDate" : [ "1987-12-12" ]
+      } ],
+      "isInterchange" : true
+    },
+    "marina bay" : {
+      "station" : {
+        "name" : "marina bay",
+        "code" : [ "NS27", "CE2" ],
+        "openingDate" : [ "1989-11-04", "2012-01-14" ]
+      },
+      "adjacent" : [ {
+        "name" : "raffles place",
+        "code" : [ "NS26" ],
+        "openingDate" : [ "1987-12-12" ]
+      }, {
+        "name" : "marina south pier",
+        "code" : [ "NS28" ],
+        "openingDate" : [ "2014-11-23" ]
+      }, {
+        "name" : "bayfront",
+        "code" : [ "CE1" ],
+        "openingDate" : [ "2012-01-14" ]
+      } ],
+      "isInterchange" : true
+    },
+    "marina south pier" : {
+      "station" : {
+        "name" : "marina south pier",
+        "code" : [ "NS28" ],
+        "openingDate" : [ "2014-11-23" ]
+      },
+      "adjacent" : [ {
+        "name" : "marina bay",
+        "code" : [ "NS27" ],
+        "openingDate" : [ "1989-11-04" ]
+      } ],
+      "isInterchange" : false
+    },
+    "pasir ris" : {
+      "station" : {
+        "name" : "pasir ris",
+        "code" : [ "EW1" ],
+        "openingDate" : [ "1989-12-16" ]
+      },
+      "adjacent" : [ {
+        "name" : "tampines",
+        "code" : [ "EW2" ],
+        "openingDate" : [ "1989-12-16" ]
+      } ],
+      "isInterchange" : false
+    },
+    "tampines" : {
+      "station" : {
+        "name" : "tampines",
+        "code" : [ "EW2", "DT32" ],
+        "openingDate" : [ "1989-12-16", "2017-10-21" ]
+      },
+      "adjacent" : [ {
+        "name" : "pasir ris",
+        "code" : [ "EW1" ],
+        "openingDate" : [ "1989-12-16" ]
+      }, {
+        "name" : "simei",
+        "code" : [ "EW3" ],
+        "openingDate" : [ "1989-12-16" ]
+      }, {
+        "name" : "tampines west",
+        "code" : [ "DT31" ],
+        "openingDate" : [ "2017-10-21" ]
+      }, {
+        "name" : "tampines east",
+        "code" : [ "DT33" ],
+        "openingDate" : [ "2017-10-21" ]
+      } ],
+      "isInterchange" : true
+    },
+    "simei" : {
+      "station" : {
+        "name" : "simei",
+        "code" : [ "EW3" ],
+        "openingDate" : [ "1989-12-16" ]
+      },
+      "adjacent" : [ {
+        "name" : "tampines",
+        "code" : [ "EW2" ],
+        "openingDate" : [ "1989-12-16" ]
+      }, {
+        "name" : "tanah merah",
+        "code" : [ "EW4" ],
+        "openingDate" : [ "1989-11-04" ]
+      } ],
+      "isInterchange" : false
+    },
+    "tanah merah" : {
+      "station" : {
+        "name" : "tanah merah",
+        "code" : [ "EW4", "CG0" ],
+        "openingDate" : [ "1989-11-04", "1989-11-04" ]
+      },
+      "adjacent" : [ {
+        "name" : "simei",
+        "code" : [ "EW3" ],
+        "openingDate" : [ "1989-12-16" ]
+      }, {
+        "name" : "bedok",
+        "code" : [ "EW5" ],
+        "openingDate" : [ "1989-11-04" ]
+      }, {
+        "name" : "expo",
+        "code" : [ "CG1" ],
+        "openingDate" : [ "2001-01-10" ]
+      } ],
+      "isInterchange" : true
+    },
+    "bedok" : {
+      "station" : {
+        "name" : "bedok",
+        "code" : [ "EW5" ],
+        "openingDate" : [ "1989-11-04" ]
+      },
+      "adjacent" : [ {
+        "name" : "tanah merah",
+        "code" : [ "EW4" ],
+        "openingDate" : [ "1989-11-04" ]
+      }, {
+        "name" : "kembangan",
+        "code" : [ "EW6" ],
+        "openingDate" : [ "1989-11-04" ]
+      } ],
+      "isInterchange" : false
+    },
+    "kembangan" : {
+      "station" : {
+        "name" : "kembangan",
+        "code" : [ "EW6" ],
+        "openingDate" : [ "1989-11-04" ]
+      },
+      "adjacent" : [ {
+        "name" : "bedok",
+        "code" : [ "EW5" ],
+        "openingDate" : [ "1989-11-04" ]
+      }, {
+        "name" : "eunos",
+        "code" : [ "EW7" ],
+        "openingDate" : [ "1989-11-04" ]
+      } ],
+      "isInterchange" : false
+    },
+    "eunos" : {
+      "station" : {
+        "name" : "eunos",
+        "code" : [ "EW7" ],
+        "openingDate" : [ "1989-11-04" ]
+      },
+      "adjacent" : [ {
+        "name" : "kembangan",
+        "code" : [ "EW6" ],
+        "openingDate" : [ "1989-11-04" ]
+      }, {
+        "name" : "paya lebar",
+        "code" : [ "EW8" ],
+        "openingDate" : [ "1989-11-04" ]
+      } ],
+      "isInterchange" : false
+    },
+    "paya lebar" : {
+      "station" : {
+        "name" : "paya lebar",
+        "code" : [ "EW8", "CC9" ],
+        "openingDate" : [ "1989-11-04", "2010-04-17" ]
+      },
+      "adjacent" : [ {
+        "name" : "eunos",
+        "code" : [ "EW7" ],
+        "openingDate" : [ "1989-11-04" ]
+      }, {
+        "name" : "aljunied",
+        "code" : [ "EW9" ],
+        "openingDate" : [ "1989-11-04" ]
+      }, {
+        "name" : "dakota",
+        "code" : [ "CC8" ],
+        "openingDate" : [ "2010-04-17" ]
+      }, {
+        "name" : "macpherson",
+        "code" : [ "CC10" ],
+        "openingDate" : [ "2010-04-17" ]
+      } ],
+      "isInterchange" : true
+    },
+    "aljunied" : {
+      "station" : {
+        "name" : "aljunied",
+        "code" : [ "EW9" ],
+        "openingDate" : [ "1989-11-04" ]
+      },
+      "adjacent" : [ {
+        "name" : "paya lebar",
+        "code" : [ "EW8" ],
+        "openingDate" : [ "1989-11-04" ]
+      }, {
+        "name" : "kallang",
+        "code" : [ "EW10" ],
+        "openingDate" : [ "1989-11-04" ]
+      } ],
+      "isInterchange" : false
+    },
+    "kallang" : {
+      "station" : {
+        "name" : "kallang",
+        "code" : [ "EW10" ],
+        "openingDate" : [ "1989-11-04" ]
+      },
+      "adjacent" : [ {
+        "name" : "aljunied",
+        "code" : [ "EW9" ],
+        "openingDate" : [ "1989-11-04" ]
+      }, {
+        "name" : "lavender",
+        "code" : [ "EW11" ],
+        "openingDate" : [ "1989-11-04" ]
+      } ],
+      "isInterchange" : false
+    },
+    "lavender" : {
+      "station" : {
+        "name" : "lavender",
+        "code" : [ "EW11" ],
+        "openingDate" : [ "1989-11-04" ]
+      },
+      "adjacent" : [ {
+        "name" : "kallang",
+        "code" : [ "EW10" ],
+        "openingDate" : [ "1989-11-04" ]
+      }, {
+        "name" : "bugis",
+        "code" : [ "EW12" ],
+        "openingDate" : [ "1989-11-04" ]
+      } ],
+      "isInterchange" : false
+    },
+    "bugis" : {
+      "station" : {
+        "name" : "bugis",
+        "code" : [ "EW12", "DT14" ],
+        "openingDate" : [ "1989-11-04", "2013-12-22" ]
+      },
+      "adjacent" : [ {
+        "name" : "lavender",
+        "code" : [ "EW11" ],
+        "openingDate" : [ "1989-11-04" ]
+      }, {
+        "name" : "city hall",
+        "code" : [ "EW13" ],
+        "openingDate" : [ "1987-12-12" ]
+      }, {
+        "name" : "rochor",
+        "code" : [ "DT13" ],
+        "openingDate" : [ "2015-12-27" ]
+      }, {
+        "name" : "promenade",
+        "code" : [ "DT15" ],
+        "openingDate" : [ "2013-12-22" ]
+      } ],
+      "isInterchange" : true
+    },
+    "tanjong pagar" : {
+      "station" : {
+        "name" : "tanjong pagar",
+        "code" : [ "EW15" ],
+        "openingDate" : [ "1987-12-12" ]
+      },
+      "adjacent" : [ {
+        "name" : "raffles place",
+        "code" : [ "EW14" ],
+        "openingDate" : [ "1987-12-12" ]
+      }, {
+        "name" : "outram park",
+        "code" : [ "EW16" ],
+        "openingDate" : [ "1987-12-12" ]
+      } ],
+      "isInterchange" : false
+    },
+    "outram park" : {
+      "station" : {
+        "name" : "outram park",
+        "code" : [ "EW16", "NE3" ],
+        "openingDate" : [ "1987-12-12", "2003-06-20" ]
+      },
+      "adjacent" : [ {
+        "name" : "tanjong pagar",
+        "code" : [ "EW15" ],
+        "openingDate" : [ "1987-12-12" ]
+      }, {
+        "name" : "tiong bahru",
+        "code" : [ "EW17" ],
+        "openingDate" : [ "1988-03-12" ]
+      }, {
+        "name" : "harbourfront",
+        "code" : [ "NE1" ],
+        "openingDate" : [ "2003-06-20" ]
+      }, {
+        "name" : "chinatown",
+        "code" : [ "NE4" ],
+        "openingDate" : [ "2003-06-20" ]
+      } ],
+      "isInterchange" : true
+    },
+    "tiong bahru" : {
+      "station" : {
+        "name" : "tiong bahru",
+        "code" : [ "EW17" ],
+        "openingDate" : [ "1988-03-12" ]
+      },
+      "adjacent" : [ {
+        "name" : "outram park",
+        "code" : [ "EW16" ],
+        "openingDate" : [ "1987-12-12" ]
+      }, {
+        "name" : "redhill",
+        "code" : [ "EW18" ],
+        "openingDate" : [ "1988-03-12" ]
+      } ],
+      "isInterchange" : false
+    },
+    "redhill" : {
+      "station" : {
+        "name" : "redhill",
+        "code" : [ "EW18" ],
+        "openingDate" : [ "1988-03-12" ]
+      },
+      "adjacent" : [ {
+        "name" : "tiong bahru",
+        "code" : [ "EW17" ],
+        "openingDate" : [ "1988-03-12" ]
+      }, {
+        "name" : "queenstown",
+        "code" : [ "EW19" ],
+        "openingDate" : [ "1988-03-12" ]
+      } ],
+      "isInterchange" : false
+    },
+    "queenstown" : {
+      "station" : {
+        "name" : "queenstown",
+        "code" : [ "EW19" ],
+        "openingDate" : [ "1988-03-12" ]
+      },
+      "adjacent" : [ {
+        "name" : "redhill",
+        "code" : [ "EW18" ],
+        "openingDate" : [ "1988-03-12" ]
+      }, {
+        "name" : "commonwealth",
+        "code" : [ "EW20" ],
+        "openingDate" : [ "1988-03-12" ]
+      } ],
+      "isInterchange" : false
+    },
+    "commonwealth" : {
+      "station" : {
+        "name" : "commonwealth",
+        "code" : [ "EW20" ],
+        "openingDate" : [ "1988-03-12" ]
+      },
+      "adjacent" : [ {
+        "name" : "queenstown",
+        "code" : [ "EW19" ],
+        "openingDate" : [ "1988-03-12" ]
+      }, {
+        "name" : "buona vista",
+        "code" : [ "EW21" ],
+        "openingDate" : [ "1988-03-12" ]
+      } ],
+      "isInterchange" : false
+    },
+    "buona vista" : {
+      "station" : {
+        "name" : "buona vista",
+        "code" : [ "EW21", "CC22" ],
+        "openingDate" : [ "1988-03-12", "2011-10-08" ]
+      },
+      "adjacent" : [ {
+        "name" : "commonwealth",
+        "code" : [ "EW20" ],
+        "openingDate" : [ "1988-03-12" ]
+      }, {
+        "name" : "dover",
+        "code" : [ "EW22" ],
+        "openingDate" : [ "2001-10-18" ]
+      }, {
+        "name" : "holland village",
+        "code" : [ "CC21" ],
+        "openingDate" : [ "2011-10-08" ]
+      }, {
+        "name" : "one-north",
+        "code" : [ "CC23" ],
+        "openingDate" : [ "2011-10-08" ]
+      } ],
+      "isInterchange" : true
+    },
+    "dover" : {
+      "station" : {
+        "name" : "dover",
+        "code" : [ "EW22" ],
+        "openingDate" : [ "2001-10-18" ]
+      },
+      "adjacent" : [ {
+        "name" : "buona vista",
+        "code" : [ "EW21" ],
+        "openingDate" : [ "1988-03-12" ]
+      }, {
+        "name" : "clementi",
+        "code" : [ "EW23" ],
+        "openingDate" : [ "1988-03-12" ]
+      } ],
+      "isInterchange" : false
+    },
+    "clementi" : {
+      "station" : {
+        "name" : "clementi",
+        "code" : [ "EW23" ],
+        "openingDate" : [ "1988-03-12" ]
+      },
+      "adjacent" : [ {
+        "name" : "dover",
+        "code" : [ "EW22" ],
+        "openingDate" : [ "2001-10-18" ]
+      }, {
+        "name" : "jurong east",
+        "code" : [ "EW24" ],
+        "openingDate" : [ "1988-11-05" ]
+      } ],
+      "isInterchange" : false
+    },
+    "chinese garden" : {
+      "station" : {
+        "name" : "chinese garden",
+        "code" : [ "EW25" ],
+        "openingDate" : [ "1988-11-05" ]
+      },
+      "adjacent" : [ {
+        "name" : "jurong east",
+        "code" : [ "EW24" ],
+        "openingDate" : [ "1988-11-05" ]
+      }, {
+        "name" : "lakeside",
+        "code" : [ "EW26" ],
+        "openingDate" : [ "1988-11-05" ]
+      } ],
+      "isInterchange" : false
+    },
+    "lakeside" : {
+      "station" : {
+        "name" : "lakeside",
+        "code" : [ "EW26" ],
+        "openingDate" : [ "1988-11-05" ]
+      },
+      "adjacent" : [ {
+        "name" : "chinese garden",
+        "code" : [ "EW25" ],
+        "openingDate" : [ "1988-11-05" ]
+      }, {
+        "name" : "boon lay",
+        "code" : [ "EW27" ],
+        "openingDate" : [ "1990-07-06" ]
+      } ],
+      "isInterchange" : false
+    },
+    "boon lay" : {
+      "station" : {
+        "name" : "boon lay",
+        "code" : [ "EW27" ],
+        "openingDate" : [ "1990-07-06" ]
+      },
+      "adjacent" : [ {
+        "name" : "lakeside",
+        "code" : [ "EW26" ],
+        "openingDate" : [ "1988-11-05" ]
+      }, {
+        "name" : "pioneer",
+        "code" : [ "EW28" ],
+        "openingDate" : [ "2009-02-28" ]
+      } ],
+      "isInterchange" : false
+    },
+    "pioneer" : {
+      "station" : {
+        "name" : "pioneer",
+        "code" : [ "EW28" ],
+        "openingDate" : [ "2009-02-28" ]
+      },
+      "adjacent" : [ {
+        "name" : "boon lay",
+        "code" : [ "EW27" ],
+        "openingDate" : [ "1990-07-06" ]
+      }, {
+        "name" : "joo koon",
+        "code" : [ "EW29" ],
+        "openingDate" : [ "2009-02-28" ]
+      } ],
+      "isInterchange" : false
+    },
+    "joo koon" : {
+      "station" : {
+        "name" : "joo koon",
+        "code" : [ "EW29" ],
+        "openingDate" : [ "2009-02-28" ]
+      },
+      "adjacent" : [ {
+        "name" : "pioneer",
+        "code" : [ "EW28" ],
+        "openingDate" : [ "2009-02-28" ]
+      }, {
+        "name" : "gul circle",
+        "code" : [ "EW30" ],
+        "openingDate" : [ "2017-06-18" ]
+      } ],
+      "isInterchange" : false
+    },
+    "gul circle" : {
+      "station" : {
+        "name" : "gul circle",
+        "code" : [ "EW30" ],
+        "openingDate" : [ "2017-06-18" ]
+      },
+      "adjacent" : [ {
+        "name" : "joo koon",
+        "code" : [ "EW29" ],
+        "openingDate" : [ "2009-02-28" ]
+      }, {
+        "name" : "tuas crescent",
+        "code" : [ "EW31" ],
+        "openingDate" : [ "2017-06-18" ]
+      } ],
+      "isInterchange" : false
+    },
+    "tuas crescent" : {
+      "station" : {
+        "name" : "tuas crescent",
+        "code" : [ "EW31" ],
+        "openingDate" : [ "2017-06-18" ]
+      },
+      "adjacent" : [ {
+        "name" : "gul circle",
+        "code" : [ "EW30" ],
+        "openingDate" : [ "2017-06-18" ]
+      }, {
+        "name" : "tuas west road",
+        "code" : [ "EW32" ],
+        "openingDate" : [ "2017-06-18" ]
+      } ],
+      "isInterchange" : false
+    },
+    "tuas west road" : {
+      "station" : {
+        "name" : "tuas west road",
+        "code" : [ "EW32" ],
+        "openingDate" : [ "2017-06-18" ]
+      },
+      "adjacent" : [ {
+        "name" : "tuas crescent",
+        "code" : [ "EW31" ],
+        "openingDate" : [ "2017-06-18" ]
+      }, {
+        "name" : "tuas link",
+        "code" : [ "EW33" ],
+        "openingDate" : [ "2017-06-18" ]
+      } ],
+      "isInterchange" : false
+    },
+    "tuas link" : {
+      "station" : {
+        "name" : "tuas link",
+        "code" : [ "EW33" ],
+        "openingDate" : [ "2017-06-18" ]
+      },
+      "adjacent" : [ {
+        "name" : "tuas west road",
+        "code" : [ "EW32" ],
+        "openingDate" : [ "2017-06-18" ]
+      } ],
+      "isInterchange" : false
+    },
+    "expo" : {
+      "station" : {
+        "name" : "expo",
+        "code" : [ "CG1", "DT35" ],
+        "openingDate" : [ "2001-01-10", "2017-10-21" ]
+      },
+      "adjacent" : [ {
+        "name" : "tanah merah",
+        "code" : [ "CG0" ],
+        "openingDate" : [ "1989-11-04" ]
+      }, {
+        "name" : "changi airport",
+        "code" : [ "CG2" ],
+        "openingDate" : [ "2002-02-08" ]
+      }, {
+        "name" : "upper changi",
+        "code" : [ "DT34" ],
+        "openingDate" : [ "2017-10-21" ]
+      } ],
+      "isInterchange" : true
+    },
+    "changi airport" : {
+      "station" : {
+        "name" : "changi airport",
+        "code" : [ "CG2" ],
+        "openingDate" : [ "2002-02-08" ]
+      },
+      "adjacent" : [ {
+        "name" : "expo",
+        "code" : [ "CG1" ],
+        "openingDate" : [ "2001-01-10" ]
+      } ],
+      "isInterchange" : false
+    },
+    "harbourfront" : {
+      "station" : {
+        "name" : "harbourfront",
+        "code" : [ "NE1", "CC29" ],
+        "openingDate" : [ "2003-06-20", "2011-10-08" ]
+      },
+      "adjacent" : [ {
+        "name" : "outram park",
+        "code" : [ "NE3" ],
+        "openingDate" : [ "2003-06-20" ]
+      }, {
+        "name" : "telok blangah",
+        "code" : [ "CC28" ],
+        "openingDate" : [ "2011-10-08" ]
+      } ],
+      "isInterchange" : true
+    },
+    "chinatown" : {
+      "station" : {
+        "name" : "chinatown",
+        "code" : [ "NE4", "DT19" ],
+        "openingDate" : [ "2003-06-20", "2013-12-22" ]
+      },
+      "adjacent" : [ {
+        "name" : "outram park",
+        "code" : [ "NE3" ],
+        "openingDate" : [ "2003-06-20" ]
+      }, {
+        "name" : "clarke quay",
+        "code" : [ "NE5" ],
+        "openingDate" : [ "2003-06-20" ]
+      }, {
+        "name" : "telok ayer",
+        "code" : [ "DT18" ],
+        "openingDate" : [ "2013-12-22" ]
+      }, {
+        "name" : "fort canning",
+        "code" : [ "DT20" ],
+        "openingDate" : [ "2017-10-21" ]
+      } ],
+      "isInterchange" : true
+    },
+    "clarke quay" : {
+      "station" : {
+        "name" : "clarke quay",
+        "code" : [ "NE5" ],
+        "openingDate" : [ "2003-06-20" ]
+      },
+      "adjacent" : [ {
+        "name" : "chinatown",
+        "code" : [ "NE4" ],
+        "openingDate" : [ "2003-06-20" ]
+      }, {
+        "name" : "dhoby ghaut",
+        "code" : [ "NE6" ],
+        "openingDate" : [ "2003-06-20" ]
+      } ],
+      "isInterchange" : false
+    },
+    "little india" : {
+      "station" : {
+        "name" : "little india",
+        "code" : [ "NE7", "DT12" ],
+        "openingDate" : [ "2003-06-20", "2015-12-27" ]
+      },
+      "adjacent" : [ {
+        "name" : "dhoby ghaut",
+        "code" : [ "NE6" ],
+        "openingDate" : [ "2003-06-20" ]
+      }, {
+        "name" : "farrer park",
+        "code" : [ "NE8" ],
+        "openingDate" : [ "2003-06-20" ]
+      }, {
+        "name" : "newton",
+        "code" : [ "DT11" ],
+        "openingDate" : [ "2015-12-27" ]
+      }, {
+        "name" : "rochor",
+        "code" : [ "DT13" ],
+        "openingDate" : [ "2015-12-27" ]
+      } ],
+      "isInterchange" : true
+    },
+    "farrer park" : {
+      "station" : {
+        "name" : "farrer park",
+        "code" : [ "NE8" ],
+        "openingDate" : [ "2003-06-20" ]
+      },
+      "adjacent" : [ {
+        "name" : "little india",
+        "code" : [ "NE7" ],
+        "openingDate" : [ "2003-06-20" ]
+      }, {
+        "name" : "boon keng",
+        "code" : [ "NE9" ],
+        "openingDate" : [ "2003-06-20" ]
+      } ],
+      "isInterchange" : false
+    },
+    "boon keng" : {
+      "station" : {
+        "name" : "boon keng",
+        "code" : [ "NE9" ],
+        "openingDate" : [ "2003-06-20" ]
+      },
+      "adjacent" : [ {
+        "name" : "farrer park",
+        "code" : [ "NE8" ],
+        "openingDate" : [ "2003-06-20" ]
+      }, {
+        "name" : "potong pasir",
+        "code" : [ "NE10" ],
+        "openingDate" : [ "2003-06-20" ]
+      } ],
+      "isInterchange" : false
+    },
+    "potong pasir" : {
+      "station" : {
+        "name" : "potong pasir",
+        "code" : [ "NE10" ],
+        "openingDate" : [ "2003-06-20" ]
+      },
+      "adjacent" : [ {
+        "name" : "boon keng",
+        "code" : [ "NE9" ],
+        "openingDate" : [ "2003-06-20" ]
+      }, {
+        "name" : "woodleigh",
+        "code" : [ "NE11" ],
+        "openingDate" : [ "2011-06-20" ]
+      } ],
+      "isInterchange" : false
+    },
+    "woodleigh" : {
+      "station" : {
+        "name" : "woodleigh",
+        "code" : [ "NE11" ],
+        "openingDate" : [ "2011-06-20" ]
+      },
+      "adjacent" : [ {
+        "name" : "potong pasir",
+        "code" : [ "NE10" ],
+        "openingDate" : [ "2003-06-20" ]
+      }, {
+        "name" : "serangoon",
+        "code" : [ "NE12" ],
+        "openingDate" : [ "2003-06-20" ]
+      } ],
+      "isInterchange" : false
+    },
+    "serangoon" : {
+      "station" : {
+        "name" : "serangoon",
+        "code" : [ "NE12", "CC13" ],
+        "openingDate" : [ "2003-06-20", "2009-05-28" ]
+      },
+      "adjacent" : [ {
+        "name" : "woodleigh",
+        "code" : [ "NE11" ],
+        "openingDate" : [ "2011-06-20" ]
+      }, {
+        "name" : "kovan",
+        "code" : [ "NE13" ],
+        "openingDate" : [ "2003-06-20" ]
+      }, {
+        "name" : "bartley",
+        "code" : [ "CC12" ],
+        "openingDate" : [ "2009-05-28" ]
+      }, {
+        "name" : "lorong chuan",
+        "code" : [ "CC14" ],
+        "openingDate" : [ "2009-05-28" ]
+      } ],
+      "isInterchange" : true
+    },
+    "kovan" : {
+      "station" : {
+        "name" : "kovan",
+        "code" : [ "NE13" ],
+        "openingDate" : [ "2003-06-20" ]
+      },
+      "adjacent" : [ {
+        "name" : "serangoon",
+        "code" : [ "NE12" ],
+        "openingDate" : [ "2003-06-20" ]
+      }, {
+        "name" : "hougang",
+        "code" : [ "NE14" ],
+        "openingDate" : [ "2003-06-20" ]
+      } ],
+      "isInterchange" : false
+    },
+    "hougang" : {
+      "station" : {
+        "name" : "hougang",
+        "code" : [ "NE14" ],
+        "openingDate" : [ "2003-06-20" ]
+      },
+      "adjacent" : [ {
+        "name" : "kovan",
+        "code" : [ "NE13" ],
+        "openingDate" : [ "2003-06-20" ]
+      }, {
+        "name" : "buangkok",
+        "code" : [ "NE15" ],
+        "openingDate" : [ "2006-01-15" ]
+      } ],
+      "isInterchange" : false
+    },
+    "buangkok" : {
+      "station" : {
+        "name" : "buangkok",
+        "code" : [ "NE15" ],
+        "openingDate" : [ "2006-01-15" ]
+      },
+      "adjacent" : [ {
+        "name" : "hougang",
+        "code" : [ "NE14" ],
+        "openingDate" : [ "2003-06-20" ]
+      }, {
+        "name" : "sengkang",
+        "code" : [ "NE16" ],
+        "openingDate" : [ "2003-06-20" ]
+      } ],
+      "isInterchange" : false
+    },
+    "sengkang" : {
+      "station" : {
+        "name" : "sengkang",
+        "code" : [ "NE16" ],
+        "openingDate" : [ "2003-06-20" ]
+      },
+      "adjacent" : [ {
+        "name" : "buangkok",
+        "code" : [ "NE15" ],
+        "openingDate" : [ "2006-01-15" ]
+      }, {
+        "name" : "punggol",
+        "code" : [ "NE17" ],
+        "openingDate" : [ "2003-06-20" ]
+      } ],
+      "isInterchange" : false
+    },
+    "punggol" : {
+      "station" : {
+        "name" : "punggol",
+        "code" : [ "NE17" ],
+        "openingDate" : [ "2003-06-20" ]
+      },
+      "adjacent" : [ {
+        "name" : "sengkang",
+        "code" : [ "NE16" ],
+        "openingDate" : [ "2003-06-20" ]
+      } ],
+      "isInterchange" : false
+    },
+    "bras basah" : {
+      "station" : {
+        "name" : "bras basah",
+        "code" : [ "CC2" ],
+        "openingDate" : [ "2010-04-17" ]
+      },
+      "adjacent" : [ {
+        "name" : "dhoby ghaut",
+        "code" : [ "CC1" ],
+        "openingDate" : [ "2010-04-17" ]
+      }, {
+        "name" : "esplanade",
+        "code" : [ "CC3" ],
+        "openingDate" : [ "2010-04-17" ]
+      } ],
+      "isInterchange" : false
+    },
+    "esplanade" : {
+      "station" : {
+        "name" : "esplanade",
+        "code" : [ "CC3" ],
+        "openingDate" : [ "2010-04-17" ]
+      },
+      "adjacent" : [ {
+        "name" : "bras basah",
+        "code" : [ "CC2" ],
+        "openingDate" : [ "2010-04-17" ]
+      }, {
+        "name" : "promenade",
+        "code" : [ "CC4" ],
+        "openingDate" : [ "2010-04-17" ]
+      } ],
+      "isInterchange" : false
+    },
+    "promenade" : {
+      "station" : {
+        "name" : "promenade",
+        "code" : [ "CC4", "CE0", "DT15" ],
+        "openingDate" : [ "2010-04-17", "2010-04-17", "2013-12-22" ]
+      },
+      "adjacent" : [ {
+        "name" : "esplanade",
+        "code" : [ "CC3" ],
+        "openingDate" : [ "2010-04-17" ]
+      }, {
+        "name" : "nicoll highway",
+        "code" : [ "CC5" ],
+        "openingDate" : [ "2010-04-17" ]
+      }, {
+        "name" : "bayfront",
+        "code" : [ "CE1" ],
+        "openingDate" : [ "2012-01-14" ]
+      }, {
+        "name" : "bugis",
+        "code" : [ "DT14" ],
+        "openingDate" : [ "2013-12-22" ]
+      }, {
+        "name" : "bayfront",
+        "code" : [ "DT16" ],
+        "openingDate" : [ "2013-12-22" ]
+      } ],
+      "isInterchange" : true
+    },
+    "nicoll highway" : {
+      "station" : {
+        "name" : "nicoll highway",
+        "code" : [ "CC5" ],
+        "openingDate" : [ "2010-04-17" ]
+      },
+      "adjacent" : [ {
+        "name" : "promenade",
+        "code" : [ "CC4" ],
+        "openingDate" : [ "2010-04-17" ]
+      }, {
+        "name" : "stadium",
+        "code" : [ "CC6" ],
+        "openingDate" : [ "2010-04-17" ]
+      } ],
+      "isInterchange" : false
+    },
+    "stadium" : {
+      "station" : {
+        "name" : "stadium",
+        "code" : [ "CC6" ],
+        "openingDate" : [ "2010-04-17" ]
+      },
+      "adjacent" : [ {
+        "name" : "nicoll highway",
+        "code" : [ "CC5" ],
+        "openingDate" : [ "2010-04-17" ]
+      }, {
+        "name" : "mountbatten",
+        "code" : [ "CC7" ],
+        "openingDate" : [ "2010-04-17" ]
+      } ],
+      "isInterchange" : false
+    },
+    "mountbatten" : {
+      "station" : {
+        "name" : "mountbatten",
+        "code" : [ "CC7" ],
+        "openingDate" : [ "2010-04-17" ]
+      },
+      "adjacent" : [ {
+        "name" : "stadium",
+        "code" : [ "CC6" ],
+        "openingDate" : [ "2010-04-17" ]
+      }, {
+        "name" : "dakota",
+        "code" : [ "CC8" ],
+        "openingDate" : [ "2010-04-17" ]
+      } ],
+      "isInterchange" : false
+    },
+    "dakota" : {
+      "station" : {
+        "name" : "dakota",
+        "code" : [ "CC8" ],
+        "openingDate" : [ "2010-04-17" ]
+      },
+      "adjacent" : [ {
+        "name" : "mountbatten",
+        "code" : [ "CC7" ],
+        "openingDate" : [ "2010-04-17" ]
+      }, {
+        "name" : "paya lebar",
+        "code" : [ "CC9" ],
+        "openingDate" : [ "2010-04-17" ]
+      } ],
+      "isInterchange" : false
+    },
+    "macpherson" : {
+      "station" : {
+        "name" : "macpherson",
+        "code" : [ "CC10", "DT26" ],
+        "openingDate" : [ "2010-04-17", "2017-10-21" ]
+      },
+      "adjacent" : [ {
+        "name" : "paya lebar",
+        "code" : [ "CC9" ],
+        "openingDate" : [ "2010-04-17" ]
+      }, {
+        "name" : "tai seng",
+        "code" : [ "CC11" ],
+        "openingDate" : [ "2010-04-17" ]
+      }, {
+        "name" : "mattar",
+        "code" : [ "DT25" ],
+        "openingDate" : [ "2017-10-21" ]
+      }, {
+        "name" : "ubi",
+        "code" : [ "DT27" ],
+        "openingDate" : [ "2017-10-21" ]
+      } ],
+      "isInterchange" : true
+    },
+    "tai seng" : {
+      "station" : {
+        "name" : "tai seng",
+        "code" : [ "CC11" ],
+        "openingDate" : [ "2010-04-17" ]
+      },
+      "adjacent" : [ {
+        "name" : "macpherson",
+        "code" : [ "CC10" ],
+        "openingDate" : [ "2010-04-17" ]
+      }, {
+        "name" : "bartley",
+        "code" : [ "CC12" ],
+        "openingDate" : [ "2009-05-28" ]
+      } ],
+      "isInterchange" : false
+    },
+    "bartley" : {
+      "station" : {
+        "name" : "bartley",
+        "code" : [ "CC12" ],
+        "openingDate" : [ "2009-05-28" ]
+      },
+      "adjacent" : [ {
+        "name" : "tai seng",
+        "code" : [ "CC11" ],
+        "openingDate" : [ "2010-04-17" ]
+      }, {
+        "name" : "serangoon",
+        "code" : [ "CC13" ],
+        "openingDate" : [ "2009-05-28" ]
+      } ],
+      "isInterchange" : false
+    },
+    "lorong chuan" : {
+      "station" : {
+        "name" : "lorong chuan",
+        "code" : [ "CC14" ],
+        "openingDate" : [ "2009-05-28" ]
+      },
+      "adjacent" : [ {
+        "name" : "serangoon",
+        "code" : [ "CC13" ],
+        "openingDate" : [ "2009-05-28" ]
+      }, {
+        "name" : "bishan",
+        "code" : [ "CC15" ],
+        "openingDate" : [ "2009-05-28" ]
+      } ],
+      "isInterchange" : false
+    },
+    "marymount" : {
+      "station" : {
+        "name" : "marymount",
+        "code" : [ "CC16" ],
+        "openingDate" : [ "2009-05-28" ]
+      },
+      "adjacent" : [ {
+        "name" : "bishan",
+        "code" : [ "CC15" ],
+        "openingDate" : [ "2009-05-28" ]
+      }, {
+        "name" : "caldecott",
+        "code" : [ "CC17" ],
+        "openingDate" : [ "2011-10-08" ]
+      } ],
+      "isInterchange" : false
+    },
+    "caldecott" : {
+      "station" : {
+        "name" : "caldecott",
+        "code" : [ "CC17", "TE9" ],
+        "openingDate" : [ "2011-10-08", "2020-12-31" ]
+      },
+      "adjacent" : [ {
+        "name" : "marymount",
+        "code" : [ "CC16" ],
+        "openingDate" : [ "2009-05-28" ]
+      }, {
+        "name" : "botanic gardens",
+        "code" : [ "CC19" ],
+        "openingDate" : [ "2011-10-08" ]
+      }, {
+        "name" : "upper thomson",
+        "code" : [ "TE8" ],
+        "openingDate" : [ "2020-12-31" ]
+      }, {
+        "name" : "mount pleasant",
+        "code" : [ "TE10" ],
+        "openingDate" : [ "2021-12-31" ]
+      } ],
+      "isInterchange" : true
+    },
+    "botanic gardens" : {
+      "station" : {
+        "name" : "botanic gardens",
+        "code" : [ "CC19", "DT9" ],
+        "openingDate" : [ "2011-10-08", "2015-12-27" ]
+      },
+      "adjacent" : [ {
+        "name" : "caldecott",
+        "code" : [ "CC17" ],
+        "openingDate" : [ "2011-10-08" ]
+      }, {
+        "name" : "farrer road",
+        "code" : [ "CC20" ],
+        "openingDate" : [ "2011-10-08" ]
+      }, {
+        "name" : "tan kah kee",
+        "code" : [ "DT8" ],
+        "openingDate" : [ "2015-12-27" ]
+      }, {
+        "name" : "stevens",
+        "code" : [ "DT10" ],
+        "openingDate" : [ "2015-12-27" ]
+      } ],
+      "isInterchange" : true
+    },
+    "farrer road" : {
+      "station" : {
+        "name" : "farrer road",
+        "code" : [ "CC20" ],
+        "openingDate" : [ "2011-10-08" ]
+      },
+      "adjacent" : [ {
+        "name" : "botanic gardens",
+        "code" : [ "CC19" ],
+        "openingDate" : [ "2011-10-08" ]
+      }, {
+        "name" : "holland village",
+        "code" : [ "CC21" ],
+        "openingDate" : [ "2011-10-08" ]
+      } ],
+      "isInterchange" : false
+    },
+    "holland village" : {
+      "station" : {
+        "name" : "holland village",
+        "code" : [ "CC21" ],
+        "openingDate" : [ "2011-10-08" ]
+      },
+      "adjacent" : [ {
+        "name" : "farrer road",
+        "code" : [ "CC20" ],
+        "openingDate" : [ "2011-10-08" ]
+      }, {
+        "name" : "buona vista",
+        "code" : [ "CC22" ],
+        "openingDate" : [ "2011-10-08" ]
+      } ],
+      "isInterchange" : false
+    },
+    "one-north" : {
+      "station" : {
+        "name" : "one-north",
+        "code" : [ "CC23" ],
+        "openingDate" : [ "2011-10-08" ]
+      },
+      "adjacent" : [ {
+        "name" : "buona vista",
+        "code" : [ "CC22" ],
+        "openingDate" : [ "2011-10-08" ]
+      }, {
+        "name" : "kent ridge",
+        "code" : [ "CC24" ],
+        "openingDate" : [ "2011-10-08" ]
+      } ],
+      "isInterchange" : false
+    },
+    "kent ridge" : {
+      "station" : {
+        "name" : "kent ridge",
+        "code" : [ "CC24" ],
+        "openingDate" : [ "2011-10-08" ]
+      },
+      "adjacent" : [ {
+        "name" : "one-north",
+        "code" : [ "CC23" ],
+        "openingDate" : [ "2011-10-08" ]
+      }, {
+        "name" : "haw par villa",
+        "code" : [ "CC25" ],
+        "openingDate" : [ "2011-10-08" ]
+      } ],
+      "isInterchange" : false
+    },
+    "haw par villa" : {
+      "station" : {
+        "name" : "haw par villa",
+        "code" : [ "CC25" ],
+        "openingDate" : [ "2011-10-08" ]
+      },
+      "adjacent" : [ {
+        "name" : "kent ridge",
+        "code" : [ "CC24" ],
+        "openingDate" : [ "2011-10-08" ]
+      }, {
+        "name" : "pasir panjang",
+        "code" : [ "CC26" ],
+        "openingDate" : [ "2011-10-08" ]
+      } ],
+      "isInterchange" : false
+    },
+    "pasir panjang" : {
+      "station" : {
+        "name" : "pasir panjang",
+        "code" : [ "CC26" ],
+        "openingDate" : [ "2011-10-08" ]
+      },
+      "adjacent" : [ {
+        "name" : "haw par villa",
+        "code" : [ "CC25" ],
+        "openingDate" : [ "2011-10-08" ]
+      }, {
+        "name" : "labrador park",
+        "code" : [ "CC27" ],
+        "openingDate" : [ "2011-10-08" ]
+      } ],
+      "isInterchange" : false
+    },
+    "labrador park" : {
+      "station" : {
+        "name" : "labrador park",
+        "code" : [ "CC27" ],
+        "openingDate" : [ "2011-10-08" ]
+      },
+      "adjacent" : [ {
+        "name" : "pasir panjang",
+        "code" : [ "CC26" ],
+        "openingDate" : [ "2011-10-08" ]
+      }, {
+        "name" : "telok blangah",
+        "code" : [ "CC28" ],
+        "openingDate" : [ "2011-10-08" ]
+      } ],
+      "isInterchange" : false
+    },
+    "telok blangah" : {
+      "station" : {
+        "name" : "telok blangah",
+        "code" : [ "CC28" ],
+        "openingDate" : [ "2011-10-08" ]
+      },
+      "adjacent" : [ {
+        "name" : "labrador park",
+        "code" : [ "CC27" ],
+        "openingDate" : [ "2011-10-08" ]
+      }, {
+        "name" : "harbourfront",
+        "code" : [ "CC29" ],
+        "openingDate" : [ "2011-10-08" ]
+      } ],
+      "isInterchange" : false
+    },
+    "bayfront" : {
+      "station" : {
+        "name" : "bayfront",
+        "code" : [ "CE1", "DT16" ],
+        "openingDate" : [ "2012-01-14", "2013-12-22" ]
+      },
+      "adjacent" : [ {
+        "name" : "promenade",
+        "code" : [ "CE0" ],
+        "openingDate" : [ "2010-04-17" ]
+      }, {
+        "name" : "marina bay",
+        "code" : [ "CE2" ],
+        "openingDate" : [ "2012-01-14" ]
+      }, {
+        "name" : "promenade",
+        "code" : [ "DT15" ],
+        "openingDate" : [ "2013-12-22" ]
+      }, {
+        "name" : "downtown",
+        "code" : [ "DT17" ],
+        "openingDate" : [ "2013-12-22" ]
+      } ],
+      "isInterchange" : true
+    },
+    "bukit panjang" : {
+      "station" : {
+        "name" : "bukit panjang",
+        "code" : [ "DT1" ],
+        "openingDate" : [ "2015-12-27" ]
+      },
+      "adjacent" : [ {
+        "name" : "cashew",
+        "code" : [ "DT2" ],
+        "openingDate" : [ "2015-12-27" ]
+      } ],
+      "isInterchange" : false
+    },
+    "cashew" : {
+      "station" : {
+        "name" : "cashew",
+        "code" : [ "DT2" ],
+        "openingDate" : [ "2015-12-27" ]
+      },
+      "adjacent" : [ {
+        "name" : "bukit panjang",
+        "code" : [ "DT1" ],
+        "openingDate" : [ "2015-12-27" ]
+      }, {
+        "name" : "hillview",
+        "code" : [ "DT3" ],
+        "openingDate" : [ "2015-12-27" ]
+      } ],
+      "isInterchange" : false
+    },
+    "hillview" : {
+      "station" : {
+        "name" : "hillview",
+        "code" : [ "DT3" ],
+        "openingDate" : [ "2015-12-27" ]
+      },
+      "adjacent" : [ {
+        "name" : "cashew",
+        "code" : [ "DT2" ],
+        "openingDate" : [ "2015-12-27" ]
+      }, {
+        "name" : "beauty world",
+        "code" : [ "DT5" ],
+        "openingDate" : [ "2015-12-27" ]
+      } ],
+      "isInterchange" : false
+    },
+    "beauty world" : {
+      "station" : {
+        "name" : "beauty world",
+        "code" : [ "DT5" ],
+        "openingDate" : [ "2015-12-27" ]
+      },
+      "adjacent" : [ {
+        "name" : "hillview",
+        "code" : [ "DT3" ],
+        "openingDate" : [ "2015-12-27" ]
+      }, {
+        "name" : "king albert park",
+        "code" : [ "DT6" ],
+        "openingDate" : [ "2015-12-27" ]
+      } ],
+      "isInterchange" : false
+    },
+    "king albert park" : {
+      "station" : {
+        "name" : "king albert park",
+        "code" : [ "DT6" ],
+        "openingDate" : [ "2015-12-27" ]
+      },
+      "adjacent" : [ {
+        "name" : "beauty world",
+        "code" : [ "DT5" ],
+        "openingDate" : [ "2015-12-27" ]
+      }, {
+        "name" : "sixth avenue",
+        "code" : [ "DT7" ],
+        "openingDate" : [ "2015-12-27" ]
+      } ],
+      "isInterchange" : false
+    },
+    "sixth avenue" : {
+      "station" : {
+        "name" : "sixth avenue",
+        "code" : [ "DT7" ],
+        "openingDate" : [ "2015-12-27" ]
+      },
+      "adjacent" : [ {
+        "name" : "king albert park",
+        "code" : [ "DT6" ],
+        "openingDate" : [ "2015-12-27" ]
+      }, {
+        "name" : "tan kah kee",
+        "code" : [ "DT8" ],
+        "openingDate" : [ "2015-12-27" ]
+      } ],
+      "isInterchange" : false
+    },
+    "tan kah kee" : {
+      "station" : {
+        "name" : "tan kah kee",
+        "code" : [ "DT8" ],
+        "openingDate" : [ "2015-12-27" ]
+      },
+      "adjacent" : [ {
+        "name" : "sixth avenue",
+        "code" : [ "DT7" ],
+        "openingDate" : [ "2015-12-27" ]
+      }, {
+        "name" : "botanic gardens",
+        "code" : [ "DT9" ],
+        "openingDate" : [ "2015-12-27" ]
+      } ],
+      "isInterchange" : false
+    },
+    "stevens" : {
+      "station" : {
+        "name" : "stevens",
+        "code" : [ "DT10" ],
+        "openingDate" : [ "2015-12-27" ]
+      },
+      "adjacent" : [ {
+        "name" : "botanic gardens",
+        "code" : [ "DT9" ],
+        "openingDate" : [ "2015-12-27" ]
+      }, {
+        "name" : "newton",
+        "code" : [ "DT11" ],
+        "openingDate" : [ "2015-12-27" ]
+      } ],
+      "isInterchange" : false
+    },
+    "rochor" : {
+      "station" : {
+        "name" : "rochor",
+        "code" : [ "DT13" ],
+        "openingDate" : [ "2015-12-27" ]
+      },
+      "adjacent" : [ {
+        "name" : "little india",
+        "code" : [ "DT12" ],
+        "openingDate" : [ "2015-12-27" ]
+      }, {
+        "name" : "bugis",
+        "code" : [ "DT14" ],
+        "openingDate" : [ "2013-12-22" ]
+      } ],
+      "isInterchange" : false
+    },
+    "downtown" : {
+      "station" : {
+        "name" : "downtown",
+        "code" : [ "DT17" ],
+        "openingDate" : [ "2013-12-22" ]
+      },
+      "adjacent" : [ {
+        "name" : "bayfront",
+        "code" : [ "DT16" ],
+        "openingDate" : [ "2013-12-22" ]
+      }, {
+        "name" : "telok ayer",
+        "code" : [ "DT18" ],
+        "openingDate" : [ "2013-12-22" ]
+      } ],
+      "isInterchange" : false
+    },
+    "telok ayer" : {
+      "station" : {
+        "name" : "telok ayer",
+        "code" : [ "DT18" ],
+        "openingDate" : [ "2013-12-22" ]
+      },
+      "adjacent" : [ {
+        "name" : "downtown",
+        "code" : [ "DT17" ],
+        "openingDate" : [ "2013-12-22" ]
+      }, {
+        "name" : "chinatown",
+        "code" : [ "DT19" ],
+        "openingDate" : [ "2013-12-22" ]
+      } ],
+      "isInterchange" : false
+    },
+    "fort canning" : {
+      "station" : {
+        "name" : "fort canning",
+        "code" : [ "DT20" ],
+        "openingDate" : [ "2017-10-21" ]
+      },
+      "adjacent" : [ {
+        "name" : "chinatown",
+        "code" : [ "DT19" ],
+        "openingDate" : [ "2013-12-22" ]
+      }, {
+        "name" : "bencoolen",
+        "code" : [ "DT21" ],
+        "openingDate" : [ "2017-10-21" ]
+      } ],
+      "isInterchange" : false
+    },
+    "bencoolen" : {
+      "station" : {
+        "name" : "bencoolen",
+        "code" : [ "DT21" ],
+        "openingDate" : [ "2017-10-21" ]
+      },
+      "adjacent" : [ {
+        "name" : "fort canning",
+        "code" : [ "DT20" ],
+        "openingDate" : [ "2017-10-21" ]
+      }, {
+        "name" : "jalan besar",
+        "code" : [ "DT22" ],
+        "openingDate" : [ "2017-10-21" ]
+      } ],
+      "isInterchange" : false
+    },
+    "jalan besar" : {
+      "station" : {
+        "name" : "jalan besar",
+        "code" : [ "DT22" ],
+        "openingDate" : [ "2017-10-21" ]
+      },
+      "adjacent" : [ {
+        "name" : "bencoolen",
+        "code" : [ "DT21" ],
+        "openingDate" : [ "2017-10-21" ]
+      }, {
+        "name" : "bendemeer",
+        "code" : [ "DT23" ],
+        "openingDate" : [ "2017-10-21" ]
+      } ],
+      "isInterchange" : false
+    },
+    "bendemeer" : {
+      "station" : {
+        "name" : "bendemeer",
+        "code" : [ "DT23" ],
+        "openingDate" : [ "2017-10-21" ]
+      },
+      "adjacent" : [ {
+        "name" : "jalan besar",
+        "code" : [ "DT22" ],
+        "openingDate" : [ "2017-10-21" ]
+      }, {
+        "name" : "geylang bahru",
+        "code" : [ "DT24" ],
+        "openingDate" : [ "2017-10-21" ]
+      } ],
+      "isInterchange" : false
+    },
+    "geylang bahru" : {
+      "station" : {
+        "name" : "geylang bahru",
+        "code" : [ "DT24" ],
+        "openingDate" : [ "2017-10-21" ]
+      },
+      "adjacent" : [ {
+        "name" : "bendemeer",
+        "code" : [ "DT23" ],
+        "openingDate" : [ "2017-10-21" ]
+      }, {
+        "name" : "mattar",
+        "code" : [ "DT25" ],
+        "openingDate" : [ "2017-10-21" ]
+      } ],
+      "isInterchange" : false
+    },
+    "mattar" : {
+      "station" : {
+        "name" : "mattar",
+        "code" : [ "DT25" ],
+        "openingDate" : [ "2017-10-21" ]
+      },
+      "adjacent" : [ {
+        "name" : "geylang bahru",
+        "code" : [ "DT24" ],
+        "openingDate" : [ "2017-10-21" ]
+      }, {
+        "name" : "macpherson",
+        "code" : [ "DT26" ],
+        "openingDate" : [ "2017-10-21" ]
+      } ],
+      "isInterchange" : false
+    },
+    "ubi" : {
+      "station" : {
+        "name" : "ubi",
+        "code" : [ "DT27" ],
+        "openingDate" : [ "2017-10-21" ]
+      },
+      "adjacent" : [ {
+        "name" : "macpherson",
+        "code" : [ "DT26" ],
+        "openingDate" : [ "2017-10-21" ]
+      }, {
+        "name" : "kaki bukit",
+        "code" : [ "DT28" ],
+        "openingDate" : [ "2017-10-21" ]
+      } ],
+      "isInterchange" : false
+    },
+    "kaki bukit" : {
+      "station" : {
+        "name" : "kaki bukit",
+        "code" : [ "DT28" ],
+        "openingDate" : [ "2017-10-21" ]
+      },
+      "adjacent" : [ {
+        "name" : "ubi",
+        "code" : [ "DT27" ],
+        "openingDate" : [ "2017-10-21" ]
+      }, {
+        "name" : "bedok north",
+        "code" : [ "DT29" ],
+        "openingDate" : [ "2017-10-21" ]
+      } ],
+      "isInterchange" : false
+    },
+    "bedok north" : {
+      "station" : {
+        "name" : "bedok north",
+        "code" : [ "DT29" ],
+        "openingDate" : [ "2017-10-21" ]
+      },
+      "adjacent" : [ {
+        "name" : "kaki bukit",
+        "code" : [ "DT28" ],
+        "openingDate" : [ "2017-10-21" ]
+      }, {
+        "name" : "bedok reservoir",
+        "code" : [ "DT30" ],
+        "openingDate" : [ "2017-10-21" ]
+      } ],
+      "isInterchange" : false
+    },
+    "bedok reservoir" : {
+      "station" : {
+        "name" : "bedok reservoir",
+        "code" : [ "DT30" ],
+        "openingDate" : [ "2017-10-21" ]
+      },
+      "adjacent" : [ {
+        "name" : "bedok north",
+        "code" : [ "DT29" ],
+        "openingDate" : [ "2017-10-21" ]
+      }, {
+        "name" : "tampines west",
+        "code" : [ "DT31" ],
+        "openingDate" : [ "2017-10-21" ]
+      } ],
+      "isInterchange" : false
+    },
+    "tampines west" : {
+      "station" : {
+        "name" : "tampines west",
+        "code" : [ "DT31" ],
+        "openingDate" : [ "2017-10-21" ]
+      },
+      "adjacent" : [ {
+        "name" : "bedok reservoir",
+        "code" : [ "DT30" ],
+        "openingDate" : [ "2017-10-21" ]
+      }, {
+        "name" : "tampines",
+        "code" : [ "DT32" ],
+        "openingDate" : [ "2017-10-21" ]
+      } ],
+      "isInterchange" : false
+    },
+    "tampines east" : {
+      "station" : {
+        "name" : "tampines east",
+        "code" : [ "DT33" ],
+        "openingDate" : [ "2017-10-21" ]
+      },
+      "adjacent" : [ {
+        "name" : "tampines",
+        "code" : [ "DT32" ],
+        "openingDate" : [ "2017-10-21" ]
+      }, {
+        "name" : "upper changi",
+        "code" : [ "DT34" ],
+        "openingDate" : [ "2017-10-21" ]
+      } ],
+      "isInterchange" : false
+    },
+    "upper changi" : {
+      "station" : {
+        "name" : "upper changi",
+        "code" : [ "DT34" ],
+        "openingDate" : [ "2017-10-21" ]
+      },
+      "adjacent" : [ {
+        "name" : "tampines east",
+        "code" : [ "DT33" ],
+        "openingDate" : [ "2017-10-21" ]
+      }, {
+        "name" : "expo",
+        "code" : [ "DT35" ],
+        "openingDate" : [ "2017-10-21" ]
+      } ],
+      "isInterchange" : false
+    },
+    "woodlands north" : {
+      "station" : {
+        "name" : "woodlands north",
+        "code" : [ "TE1" ],
+        "openingDate" : [ "2019-12-31" ]
+      },
+      "adjacent" : [ {
+        "name" : "woodlands",
+        "code" : [ "TE2" ],
+        "openingDate" : [ "2019-12-31" ]
+      } ],
+      "isInterchange" : false
+    },
+    "woodlands south" : {
+      "station" : {
+        "name" : "woodlands south",
+        "code" : [ "TE3" ],
+        "openingDate" : [ "2019-12-31" ]
+      },
+      "adjacent" : [ {
+        "name" : "woodlands",
+        "code" : [ "TE2" ],
+        "openingDate" : [ "2019-12-31" ]
+      }, {
+        "name" : "springleaf",
+        "code" : [ "TE4" ],
+        "openingDate" : [ "2020-12-31" ]
+      } ],
+      "isInterchange" : false
+    },
+    "springleaf" : {
+      "station" : {
+        "name" : "springleaf",
+        "code" : [ "TE4" ],
+        "openingDate" : [ "2020-12-31" ]
+      },
+      "adjacent" : [ {
+        "name" : "woodlands south",
+        "code" : [ "TE3" ],
+        "openingDate" : [ "2019-12-31" ]
+      }, {
+        "name" : "lentor",
+        "code" : [ "TE5" ],
+        "openingDate" : [ "2020-12-31" ]
+      } ],
+      "isInterchange" : false
+    },
+    "lentor" : {
+      "station" : {
+        "name" : "lentor",
+        "code" : [ "TE5" ],
+        "openingDate" : [ "2020-12-31" ]
+      },
+      "adjacent" : [ {
+        "name" : "springleaf",
+        "code" : [ "TE4" ],
+        "openingDate" : [ "2020-12-31" ]
+      }, {
+        "name" : "mayflower",
+        "code" : [ "TE6" ],
+        "openingDate" : [ "2020-12-31" ]
+      } ],
+      "isInterchange" : false
+    },
+    "mayflower" : {
+      "station" : {
+        "name" : "mayflower",
+        "code" : [ "TE6" ],
+        "openingDate" : [ "2020-12-31" ]
+      },
+      "adjacent" : [ {
+        "name" : "lentor",
+        "code" : [ "TE5" ],
+        "openingDate" : [ "2020-12-31" ]
+      }, {
+        "name" : "bright hill",
+        "code" : [ "TE7" ],
+        "openingDate" : [ "2020-12-31" ]
+      } ],
+      "isInterchange" : false
+    },
+    "bright hill" : {
+      "station" : {
+        "name" : "bright hill",
+        "code" : [ "TE7" ],
+        "openingDate" : [ "2020-12-31" ]
+      },
+      "adjacent" : [ {
+        "name" : "mayflower",
+        "code" : [ "TE6" ],
+        "openingDate" : [ "2020-12-31" ]
+      }, {
+        "name" : "upper thomson",
+        "code" : [ "TE8" ],
+        "openingDate" : [ "2020-12-31" ]
+      } ],
+      "isInterchange" : false
+    },
+    "upper thomson" : {
+      "station" : {
+        "name" : "upper thomson",
+        "code" : [ "TE8" ],
+        "openingDate" : [ "2020-12-31" ]
+      },
+      "adjacent" : [ {
+        "name" : "bright hill",
+        "code" : [ "TE7" ],
+        "openingDate" : [ "2020-12-31" ]
+      }, {
+        "name" : "caldecott",
+        "code" : [ "TE9" ],
+        "openingDate" : [ "2020-12-31" ]
+      } ],
+      "isInterchange" : false
+    }
   },
-  "weights" : {
-    "(Station(name=Jurong East, code=[NS1, EW24], openingDate=1990-03-10), Station(name=Bukit Batok, code=[NS2], openingDate=1990-03-10))" : 10,
-    "(Station(name=Jurong East, code=[NS1, EW24], openingDate=1990-03-10), Station(name=Clementi, code=[EW23], openingDate=1988-03-12))" : 10,
-    "(Station(name=Jurong East, code=[NS1, EW24], openingDate=1990-03-10), Station(name=Chinese Garden, code=[EW25], openingDate=1988-11-05))" : 10,
-    "(Station(name=Bukit Batok, code=[NS2], openingDate=1990-03-10), Station(name=Jurong East, code=[NS1], openingDate=1990-03-10))" : 10,
-    "(Station(name=Bukit Batok, code=[NS2], openingDate=1990-03-10), Station(name=Bukit Gombak, code=[NS3], openingDate=1990-03-10))" : 10,
-    "(Station(name=Bukit Gombak, code=[NS3], openingDate=1990-03-10), Station(name=Bukit Batok, code=[NS2], openingDate=1990-03-10))" : 10,
-    "(Station(name=Bukit Gombak, code=[NS3], openingDate=1990-03-10), Station(name=Choa Chu Kang, code=[NS4], openingDate=1990-03-10))" : 10,
-    "(Station(name=Choa Chu Kang, code=[NS4], openingDate=1990-03-10), Station(name=Bukit Gombak, code=[NS3], openingDate=1990-03-10))" : 10,
-    "(Station(name=Choa Chu Kang, code=[NS4], openingDate=1990-03-10), Station(name=Yew Tee, code=[NS5], openingDate=1996-02-10))" : 10,
-    "(Station(name=Yew Tee, code=[NS5], openingDate=1996-02-10), Station(name=Choa Chu Kang, code=[NS4], openingDate=1990-03-10))" : 10,
-    "(Station(name=Yew Tee, code=[NS5], openingDate=1996-02-10), Station(name=Kranji, code=[NS7], openingDate=1996-02-10))" : 10,
-    "(Station(name=Kranji, code=[NS7], openingDate=1996-02-10), Station(name=Yew Tee, code=[NS5], openingDate=1996-02-10))" : 10,
-    "(Station(name=Kranji, code=[NS7], openingDate=1996-02-10), Station(name=Marsiling, code=[NS8], openingDate=1996-02-10))" : 10,
-    "(Station(name=Marsiling, code=[NS8], openingDate=1996-02-10), Station(name=Kranji, code=[NS7], openingDate=1996-02-10))" : 10,
-    "(Station(name=Marsiling, code=[NS8], openingDate=1996-02-10), Station(name=Woodlands, code=[NS9], openingDate=1996-02-10))" : 10,
-    "(Station(name=Woodlands, code=[NS9, TE2], openingDate=1996-02-10), Station(name=Marsiling, code=[NS8], openingDate=1996-02-10))" : 10,
-    "(Station(name=Woodlands, code=[NS9, TE2], openingDate=1996-02-10), Station(name=Admiralty, code=[NS10], openingDate=1996-02-10))" : 10,
-    "(Station(name=Woodlands, code=[NS9, TE2], openingDate=1996-02-10), Station(name=Woodlands North, code=[TE1], openingDate=2019-12-31))" : 10,
-    "(Station(name=Woodlands, code=[NS9, TE2], openingDate=1996-02-10), Station(name=Woodlands South, code=[TE3], openingDate=2019-12-31))" : 10,
-    "(Station(name=Admiralty, code=[NS10], openingDate=1996-02-10), Station(name=Woodlands, code=[NS9], openingDate=1996-02-10))" : 10,
-    "(Station(name=Admiralty, code=[NS10], openingDate=1996-02-10), Station(name=Sembawang, code=[NS11], openingDate=1996-02-10))" : 10,
-    "(Station(name=Sembawang, code=[NS11], openingDate=1996-02-10), Station(name=Admiralty, code=[NS10], openingDate=1996-02-10))" : 10,
-    "(Station(name=Sembawang, code=[NS11], openingDate=1996-02-10), Station(name=Canberra, code=[NS12], openingDate=2019-11-02))" : 10,
-    "(Station(name=Canberra, code=[NS12], openingDate=2019-11-02), Station(name=Sembawang, code=[NS11], openingDate=1996-02-10))" : 10,
-    "(Station(name=Canberra, code=[NS12], openingDate=2019-11-02), Station(name=Yishun, code=[NS13], openingDate=1988-12-20))" : 10,
-    "(Station(name=Yishun, code=[NS13], openingDate=1988-12-20), Station(name=Canberra, code=[NS12], openingDate=2019-11-02))" : 10,
-    "(Station(name=Yishun, code=[NS13], openingDate=1988-12-20), Station(name=Khatib, code=[NS14], openingDate=1988-12-20))" : 10,
-    "(Station(name=Khatib, code=[NS14], openingDate=1988-12-20), Station(name=Yishun, code=[NS13], openingDate=1988-12-20))" : 10,
-    "(Station(name=Khatib, code=[NS14], openingDate=1988-12-20), Station(name=Yio Chu Kang, code=[NS15], openingDate=1987-11-07))" : 10,
-    "(Station(name=Yio Chu Kang, code=[NS15], openingDate=1987-11-07), Station(name=Khatib, code=[NS14], openingDate=1988-12-20))" : 10,
-    "(Station(name=Yio Chu Kang, code=[NS15], openingDate=1987-11-07), Station(name=Ang Mo Kio, code=[NS16], openingDate=1987-11-07))" : 10,
-    "(Station(name=Ang Mo Kio, code=[NS16], openingDate=1987-11-07), Station(name=Yio Chu Kang, code=[NS15], openingDate=1987-11-07))" : 10,
-    "(Station(name=Ang Mo Kio, code=[NS16], openingDate=1987-11-07), Station(name=Bishan, code=[NS17], openingDate=1987-11-07))" : 10,
-    "(Station(name=Bishan, code=[NS17, CC15], openingDate=1987-11-07), Station(name=Ang Mo Kio, code=[NS16], openingDate=1987-11-07))" : 10,
-    "(Station(name=Bishan, code=[NS17, CC15], openingDate=1987-11-07), Station(name=Braddell, code=[NS18], openingDate=1987-11-07))" : 10,
-    "(Station(name=Bishan, code=[NS17, CC15], openingDate=1987-11-07), Station(name=Lorong Chuan, code=[CC14], openingDate=2009-05-28))" : 10,
-    "(Station(name=Bishan, code=[NS17, CC15], openingDate=1987-11-07), Station(name=Marymount, code=[CC16], openingDate=2009-05-28))" : 10,
-    "(Station(name=Braddell, code=[NS18], openingDate=1987-11-07), Station(name=Bishan, code=[NS17], openingDate=1987-11-07))" : 10,
-    "(Station(name=Braddell, code=[NS18], openingDate=1987-11-07), Station(name=Toa Payoh, code=[NS19], openingDate=1987-11-07))" : 10,
-    "(Station(name=Toa Payoh, code=[NS19], openingDate=1987-11-07), Station(name=Braddell, code=[NS18], openingDate=1987-11-07))" : 10,
-    "(Station(name=Toa Payoh, code=[NS19], openingDate=1987-11-07), Station(name=Novena, code=[NS20], openingDate=1987-12-12))" : 10,
-    "(Station(name=Novena, code=[NS20], openingDate=1987-12-12), Station(name=Toa Payoh, code=[NS19], openingDate=1987-11-07))" : 10,
-    "(Station(name=Novena, code=[NS20], openingDate=1987-12-12), Station(name=Newton, code=[NS21], openingDate=1987-12-12))" : 10,
-    "(Station(name=Newton, code=[NS21, DT11], openingDate=1987-12-12), Station(name=Novena, code=[NS20], openingDate=1987-12-12))" : 10,
-    "(Station(name=Newton, code=[NS21, DT11], openingDate=1987-12-12), Station(name=Orchard, code=[NS22], openingDate=1987-12-12))" : 10,
-    "(Station(name=Newton, code=[NS21, DT11], openingDate=1987-12-12), Station(name=Stevens, code=[DT10], openingDate=2015-12-27))" : 10,
-    "(Station(name=Newton, code=[NS21, DT11], openingDate=1987-12-12), Station(name=Little India, code=[DT12], openingDate=2015-12-27))" : 10,
-    "(Station(name=Orchard, code=[NS22], openingDate=1987-12-12), Station(name=Newton, code=[NS21], openingDate=1987-12-12))" : 10,
-    "(Station(name=Orchard, code=[NS22], openingDate=1987-12-12), Station(name=Somerset, code=[NS23], openingDate=1987-12-12))" : 10,
-    "(Station(name=Somerset, code=[NS23], openingDate=1987-12-12), Station(name=Orchard, code=[NS22], openingDate=1987-12-12))" : 10,
-    "(Station(name=Somerset, code=[NS23], openingDate=1987-12-12), Station(name=Dhoby Ghaut, code=[NS24], openingDate=1987-12-12))" : 10,
-    "(Station(name=Dhoby Ghaut, code=[NS24, NE6, CC1], openingDate=1987-12-12), Station(name=Somerset, code=[NS23], openingDate=1987-12-12))" : 10,
-    "(Station(name=Dhoby Ghaut, code=[NS24, NE6, CC1], openingDate=1987-12-12), Station(name=City Hall, code=[NS25], openingDate=1987-12-12))" : 10,
-    "(Station(name=Dhoby Ghaut, code=[NS24, NE6, CC1], openingDate=1987-12-12), Station(name=Clarke Quay, code=[NE5], openingDate=2003-06-20))" : 10,
-    "(Station(name=Dhoby Ghaut, code=[NS24, NE6, CC1], openingDate=1987-12-12), Station(name=Little India, code=[NE7], openingDate=2003-06-20))" : 10,
-    "(Station(name=Dhoby Ghaut, code=[NS24, NE6, CC1], openingDate=1987-12-12), Station(name=Bras Basah, code=[CC2], openingDate=2010-04-17))" : 10,
-    "(Station(name=City Hall, code=[NS25, EW13], openingDate=1987-12-12), Station(name=Dhoby Ghaut, code=[NS24], openingDate=1987-12-12))" : 10,
-    "(Station(name=City Hall, code=[NS25, EW13], openingDate=1987-12-12), Station(name=Raffles Place, code=[NS26], openingDate=1987-12-12))" : 10,
-    "(Station(name=City Hall, code=[NS25, EW13], openingDate=1987-12-12), Station(name=Bugis, code=[EW12], openingDate=1989-11-04))" : 10,
-    "(Station(name=City Hall, code=[NS25, EW13], openingDate=1987-12-12), Station(name=Raffles Place, code=[EW14], openingDate=1987-12-12))" : 10,
-    "(Station(name=Raffles Place, code=[NS26, EW14], openingDate=1987-12-12), Station(name=City Hall, code=[NS25], openingDate=1987-12-12))" : 10,
-    "(Station(name=Raffles Place, code=[NS26, EW14], openingDate=1987-12-12), Station(name=Marina Bay, code=[NS27], openingDate=1989-11-04))" : 10,
-    "(Station(name=Raffles Place, code=[NS26, EW14], openingDate=1987-12-12), Station(name=City Hall, code=[EW13], openingDate=1987-12-12))" : 10,
-    "(Station(name=Raffles Place, code=[NS26, EW14], openingDate=1987-12-12), Station(name=Tanjong Pagar, code=[EW15], openingDate=1987-12-12))" : 10,
-    "(Station(name=Marina Bay, code=[NS27, CE2], openingDate=1989-11-04), Station(name=Raffles Place, code=[NS26], openingDate=1987-12-12))" : 10,
-    "(Station(name=Marina Bay, code=[NS27, CE2], openingDate=1989-11-04), Station(name=Marina South Pier, code=[NS28], openingDate=2014-11-23))" : 10,
-    "(Station(name=Marina Bay, code=[NS27, CE2], openingDate=1989-11-04), Station(name=Bayfront, code=[CE1], openingDate=2012-01-14))" : 10,
-    "(Station(name=Marina South Pier, code=[NS28], openingDate=2014-11-23), Station(name=Marina Bay, code=[NS27], openingDate=1989-11-04))" : 10,
-    "(Station(name=Pasir Ris, code=[EW1], openingDate=1989-12-16), Station(name=Tampines, code=[EW2], openingDate=1989-12-16))" : 10,
-    "(Station(name=Tampines, code=[EW2, DT32], openingDate=1989-12-16), Station(name=Pasir Ris, code=[EW1], openingDate=1989-12-16))" : 10,
-    "(Station(name=Tampines, code=[EW2, DT32], openingDate=1989-12-16), Station(name=Simei, code=[EW3], openingDate=1989-12-16))" : 10,
-    "(Station(name=Tampines, code=[EW2, DT32], openingDate=1989-12-16), Station(name=Tampines West, code=[DT31], openingDate=2017-10-21))" : 10,
-    "(Station(name=Tampines, code=[EW2, DT32], openingDate=1989-12-16), Station(name=Tampines East, code=[DT33], openingDate=2017-10-21))" : 10,
-    "(Station(name=Simei, code=[EW3], openingDate=1989-12-16), Station(name=Tampines, code=[EW2], openingDate=1989-12-16))" : 10,
-    "(Station(name=Simei, code=[EW3], openingDate=1989-12-16), Station(name=Tanah Merah, code=[EW4], openingDate=1989-11-04))" : 10,
-    "(Station(name=Tanah Merah, code=[EW4, CG0], openingDate=1989-11-04), Station(name=Simei, code=[EW3], openingDate=1989-12-16))" : 10,
-    "(Station(name=Tanah Merah, code=[EW4, CG0], openingDate=1989-11-04), Station(name=Bedok, code=[EW5], openingDate=1989-11-04))" : 10,
-    "(Station(name=Tanah Merah, code=[EW4, CG0], openingDate=1989-11-04), Station(name=Expo, code=[CG1], openingDate=2001-01-10))" : 10,
-    "(Station(name=Bedok, code=[EW5], openingDate=1989-11-04), Station(name=Tanah Merah, code=[EW4], openingDate=1989-11-04))" : 10,
-    "(Station(name=Bedok, code=[EW5], openingDate=1989-11-04), Station(name=Kembangan, code=[EW6], openingDate=1989-11-04))" : 10,
-    "(Station(name=Kembangan, code=[EW6], openingDate=1989-11-04), Station(name=Bedok, code=[EW5], openingDate=1989-11-04))" : 10,
-    "(Station(name=Kembangan, code=[EW6], openingDate=1989-11-04), Station(name=Eunos, code=[EW7], openingDate=1989-11-04))" : 10,
-    "(Station(name=Eunos, code=[EW7], openingDate=1989-11-04), Station(name=Kembangan, code=[EW6], openingDate=1989-11-04))" : 10,
-    "(Station(name=Eunos, code=[EW7], openingDate=1989-11-04), Station(name=Paya Lebar, code=[EW8], openingDate=1989-11-04))" : 10,
-    "(Station(name=Paya Lebar, code=[EW8, CC9], openingDate=1989-11-04), Station(name=Eunos, code=[EW7], openingDate=1989-11-04))" : 10,
-    "(Station(name=Paya Lebar, code=[EW8, CC9], openingDate=1989-11-04), Station(name=Aljunied, code=[EW9], openingDate=1989-11-04))" : 10,
-    "(Station(name=Paya Lebar, code=[EW8, CC9], openingDate=1989-11-04), Station(name=Dakota, code=[CC8], openingDate=2010-04-17))" : 10,
-    "(Station(name=Paya Lebar, code=[EW8, CC9], openingDate=1989-11-04), Station(name=MacPherson, code=[CC10], openingDate=2010-04-17))" : 10,
-    "(Station(name=Aljunied, code=[EW9], openingDate=1989-11-04), Station(name=Paya Lebar, code=[EW8], openingDate=1989-11-04))" : 10,
-    "(Station(name=Aljunied, code=[EW9], openingDate=1989-11-04), Station(name=Kallang, code=[EW10], openingDate=1989-11-04))" : 10,
-    "(Station(name=Kallang, code=[EW10], openingDate=1989-11-04), Station(name=Aljunied, code=[EW9], openingDate=1989-11-04))" : 10,
-    "(Station(name=Kallang, code=[EW10], openingDate=1989-11-04), Station(name=Lavender, code=[EW11], openingDate=1989-11-04))" : 10,
-    "(Station(name=Lavender, code=[EW11], openingDate=1989-11-04), Station(name=Kallang, code=[EW10], openingDate=1989-11-04))" : 10,
-    "(Station(name=Lavender, code=[EW11], openingDate=1989-11-04), Station(name=Bugis, code=[EW12], openingDate=1989-11-04))" : 10,
-    "(Station(name=Bugis, code=[EW12, DT14], openingDate=1989-11-04), Station(name=Lavender, code=[EW11], openingDate=1989-11-04))" : 10,
-    "(Station(name=Bugis, code=[EW12, DT14], openingDate=1989-11-04), Station(name=City Hall, code=[EW13], openingDate=1987-12-12))" : 10,
-    "(Station(name=Bugis, code=[EW12, DT14], openingDate=1989-11-04), Station(name=Rochor, code=[DT13], openingDate=2015-12-27))" : 10,
-    "(Station(name=Bugis, code=[EW12, DT14], openingDate=1989-11-04), Station(name=Promenade, code=[DT15], openingDate=2013-12-22))" : 10,
-    "(Station(name=Tanjong Pagar, code=[EW15], openingDate=1987-12-12), Station(name=Raffles Place, code=[EW14], openingDate=1987-12-12))" : 10,
-    "(Station(name=Tanjong Pagar, code=[EW15], openingDate=1987-12-12), Station(name=Outram Park, code=[EW16], openingDate=1987-12-12))" : 10,
-    "(Station(name=Outram Park, code=[EW16, NE3], openingDate=1987-12-12), Station(name=Tanjong Pagar, code=[EW15], openingDate=1987-12-12))" : 10,
-    "(Station(name=Outram Park, code=[EW16, NE3], openingDate=1987-12-12), Station(name=Tiong Bahru, code=[EW17], openingDate=1988-03-12))" : 10,
-    "(Station(name=Outram Park, code=[EW16, NE3], openingDate=1987-12-12), Station(name=HarbourFront, code=[NE1], openingDate=2003-06-20))" : 10,
-    "(Station(name=Outram Park, code=[EW16, NE3], openingDate=1987-12-12), Station(name=Chinatown, code=[NE4], openingDate=2003-06-20))" : 10,
-    "(Station(name=Tiong Bahru, code=[EW17], openingDate=1988-03-12), Station(name=Outram Park, code=[EW16], openingDate=1987-12-12))" : 10,
-    "(Station(name=Tiong Bahru, code=[EW17], openingDate=1988-03-12), Station(name=Redhill, code=[EW18], openingDate=1988-03-12))" : 10,
-    "(Station(name=Redhill, code=[EW18], openingDate=1988-03-12), Station(name=Tiong Bahru, code=[EW17], openingDate=1988-03-12))" : 10,
-    "(Station(name=Redhill, code=[EW18], openingDate=1988-03-12), Station(name=Queenstown, code=[EW19], openingDate=1988-03-12))" : 10,
-    "(Station(name=Queenstown, code=[EW19], openingDate=1988-03-12), Station(name=Redhill, code=[EW18], openingDate=1988-03-12))" : 10,
-    "(Station(name=Queenstown, code=[EW19], openingDate=1988-03-12), Station(name=Commonwealth, code=[EW20], openingDate=1988-03-12))" : 10,
-    "(Station(name=Commonwealth, code=[EW20], openingDate=1988-03-12), Station(name=Queenstown, code=[EW19], openingDate=1988-03-12))" : 10,
-    "(Station(name=Commonwealth, code=[EW20], openingDate=1988-03-12), Station(name=Buona Vista, code=[EW21], openingDate=1988-03-12))" : 10,
-    "(Station(name=Buona Vista, code=[EW21, CC22], openingDate=1988-03-12), Station(name=Commonwealth, code=[EW20], openingDate=1988-03-12))" : 10,
-    "(Station(name=Buona Vista, code=[EW21, CC22], openingDate=1988-03-12), Station(name=Dover, code=[EW22], openingDate=2001-10-18))" : 10,
-    "(Station(name=Buona Vista, code=[EW21, CC22], openingDate=1988-03-12), Station(name=Holland Village, code=[CC21], openingDate=2011-10-08))" : 10,
-    "(Station(name=Buona Vista, code=[EW21, CC22], openingDate=1988-03-12), Station(name=one-north, code=[CC23], openingDate=2011-10-08))" : 10,
-    "(Station(name=Dover, code=[EW22], openingDate=2001-10-18), Station(name=Buona Vista, code=[EW21], openingDate=1988-03-12))" : 10,
-    "(Station(name=Dover, code=[EW22], openingDate=2001-10-18), Station(name=Clementi, code=[EW23], openingDate=1988-03-12))" : 10,
-    "(Station(name=Clementi, code=[EW23], openingDate=1988-03-12), Station(name=Dover, code=[EW22], openingDate=2001-10-18))" : 10,
-    "(Station(name=Clementi, code=[EW23], openingDate=1988-03-12), Station(name=Jurong East, code=[EW24], openingDate=1988-11-05))" : 10,
-    "(Station(name=Chinese Garden, code=[EW25], openingDate=1988-11-05), Station(name=Jurong East, code=[EW24], openingDate=1988-11-05))" : 10,
-    "(Station(name=Chinese Garden, code=[EW25], openingDate=1988-11-05), Station(name=Lakeside, code=[EW26], openingDate=1988-11-05))" : 10,
-    "(Station(name=Lakeside, code=[EW26], openingDate=1988-11-05), Station(name=Chinese Garden, code=[EW25], openingDate=1988-11-05))" : 10,
-    "(Station(name=Lakeside, code=[EW26], openingDate=1988-11-05), Station(name=Boon Lay, code=[EW27], openingDate=1990-07-06))" : 10,
-    "(Station(name=Boon Lay, code=[EW27], openingDate=1990-07-06), Station(name=Lakeside, code=[EW26], openingDate=1988-11-05))" : 10,
-    "(Station(name=Boon Lay, code=[EW27], openingDate=1990-07-06), Station(name=Pioneer, code=[EW28], openingDate=2009-02-28))" : 10,
-    "(Station(name=Pioneer, code=[EW28], openingDate=2009-02-28), Station(name=Boon Lay, code=[EW27], openingDate=1990-07-06))" : 10,
-    "(Station(name=Pioneer, code=[EW28], openingDate=2009-02-28), Station(name=Joo Koon, code=[EW29], openingDate=2009-02-28))" : 10,
-    "(Station(name=Joo Koon, code=[EW29], openingDate=2009-02-28), Station(name=Pioneer, code=[EW28], openingDate=2009-02-28))" : 10,
-    "(Station(name=Joo Koon, code=[EW29], openingDate=2009-02-28), Station(name=Gul Circle, code=[EW30], openingDate=2017-06-18))" : 10,
-    "(Station(name=Gul Circle, code=[EW30], openingDate=2017-06-18), Station(name=Joo Koon, code=[EW29], openingDate=2009-02-28))" : 10,
-    "(Station(name=Gul Circle, code=[EW30], openingDate=2017-06-18), Station(name=Tuas Crescent, code=[EW31], openingDate=2017-06-18))" : 10,
-    "(Station(name=Tuas Crescent, code=[EW31], openingDate=2017-06-18), Station(name=Gul Circle, code=[EW30], openingDate=2017-06-18))" : 10,
-    "(Station(name=Tuas Crescent, code=[EW31], openingDate=2017-06-18), Station(name=Tuas West Road, code=[EW32], openingDate=2017-06-18))" : 10,
-    "(Station(name=Tuas West Road, code=[EW32], openingDate=2017-06-18), Station(name=Tuas Crescent, code=[EW31], openingDate=2017-06-18))" : 10,
-    "(Station(name=Tuas West Road, code=[EW32], openingDate=2017-06-18), Station(name=Tuas Link, code=[EW33], openingDate=2017-06-18))" : 10,
-    "(Station(name=Tuas Link, code=[EW33], openingDate=2017-06-18), Station(name=Tuas West Road, code=[EW32], openingDate=2017-06-18))" : 10,
-    "(Station(name=Expo, code=[CG1, DT35], openingDate=2001-01-10), Station(name=Tanah Merah, code=[CG0], openingDate=1989-11-04))" : 10,
-    "(Station(name=Expo, code=[CG1, DT35], openingDate=2001-01-10), Station(name=Changi Airport, code=[CG2], openingDate=2002-02-08))" : 10,
-    "(Station(name=Expo, code=[CG1, DT35], openingDate=2001-01-10), Station(name=Upper Changi, code=[DT34], openingDate=2017-10-21))" : 10,
-    "(Station(name=Changi Airport, code=[CG2], openingDate=2002-02-08), Station(name=Expo, code=[CG1], openingDate=2001-01-10))" : 10,
-    "(Station(name=HarbourFront, code=[NE1, CC29], openingDate=2003-06-20), Station(name=Outram Park, code=[NE3], openingDate=2003-06-20))" : 10,
-    "(Station(name=HarbourFront, code=[NE1, CC29], openingDate=2003-06-20), Station(name=Telok Blangah, code=[CC28], openingDate=2011-10-08))" : 10,
-    "(Station(name=Chinatown, code=[NE4, DT19], openingDate=2003-06-20), Station(name=Outram Park, code=[NE3], openingDate=2003-06-20))" : 10,
-    "(Station(name=Chinatown, code=[NE4, DT19], openingDate=2003-06-20), Station(name=Clarke Quay, code=[NE5], openingDate=2003-06-20))" : 10,
-    "(Station(name=Chinatown, code=[NE4, DT19], openingDate=2003-06-20), Station(name=Telok Ayer, code=[DT18], openingDate=2013-12-22))" : 10,
-    "(Station(name=Chinatown, code=[NE4, DT19], openingDate=2003-06-20), Station(name=Fort Canning, code=[DT20], openingDate=2017-10-21))" : 10,
-    "(Station(name=Clarke Quay, code=[NE5], openingDate=2003-06-20), Station(name=Chinatown, code=[NE4], openingDate=2003-06-20))" : 10,
-    "(Station(name=Clarke Quay, code=[NE5], openingDate=2003-06-20), Station(name=Dhoby Ghaut, code=[NE6], openingDate=2003-06-20))" : 10,
-    "(Station(name=Little India, code=[NE7, DT12], openingDate=2003-06-20), Station(name=Dhoby Ghaut, code=[NE6], openingDate=2003-06-20))" : 10,
-    "(Station(name=Little India, code=[NE7, DT12], openingDate=2003-06-20), Station(name=Farrer Park, code=[NE8], openingDate=2003-06-20))" : 10,
-    "(Station(name=Little India, code=[NE7, DT12], openingDate=2003-06-20), Station(name=Newton, code=[DT11], openingDate=2015-12-27))" : 10,
-    "(Station(name=Little India, code=[NE7, DT12], openingDate=2003-06-20), Station(name=Rochor, code=[DT13], openingDate=2015-12-27))" : 10,
-    "(Station(name=Farrer Park, code=[NE8], openingDate=2003-06-20), Station(name=Little India, code=[NE7], openingDate=2003-06-20))" : 10,
-    "(Station(name=Farrer Park, code=[NE8], openingDate=2003-06-20), Station(name=Boon Keng, code=[NE9], openingDate=2003-06-20))" : 10,
-    "(Station(name=Boon Keng, code=[NE9], openingDate=2003-06-20), Station(name=Farrer Park, code=[NE8], openingDate=2003-06-20))" : 10,
-    "(Station(name=Boon Keng, code=[NE9], openingDate=2003-06-20), Station(name=Potong Pasir, code=[NE10], openingDate=2003-06-20))" : 10,
-    "(Station(name=Potong Pasir, code=[NE10], openingDate=2003-06-20), Station(name=Boon Keng, code=[NE9], openingDate=2003-06-20))" : 10,
-    "(Station(name=Potong Pasir, code=[NE10], openingDate=2003-06-20), Station(name=Woodleigh, code=[NE11], openingDate=2011-06-20))" : 10,
-    "(Station(name=Woodleigh, code=[NE11], openingDate=2011-06-20), Station(name=Potong Pasir, code=[NE10], openingDate=2003-06-20))" : 10,
-    "(Station(name=Woodleigh, code=[NE11], openingDate=2011-06-20), Station(name=Serangoon, code=[NE12], openingDate=2003-06-20))" : 10,
-    "(Station(name=Serangoon, code=[NE12, CC13], openingDate=2003-06-20), Station(name=Woodleigh, code=[NE11], openingDate=2011-06-20))" : 10,
-    "(Station(name=Serangoon, code=[NE12, CC13], openingDate=2003-06-20), Station(name=Kovan, code=[NE13], openingDate=2003-06-20))" : 10,
-    "(Station(name=Serangoon, code=[NE12, CC13], openingDate=2003-06-20), Station(name=Bartley, code=[CC12], openingDate=2009-05-28))" : 10,
-    "(Station(name=Serangoon, code=[NE12, CC13], openingDate=2003-06-20), Station(name=Lorong Chuan, code=[CC14], openingDate=2009-05-28))" : 10,
-    "(Station(name=Kovan, code=[NE13], openingDate=2003-06-20), Station(name=Serangoon, code=[NE12], openingDate=2003-06-20))" : 10,
-    "(Station(name=Kovan, code=[NE13], openingDate=2003-06-20), Station(name=Hougang, code=[NE14], openingDate=2003-06-20))" : 10,
-    "(Station(name=Hougang, code=[NE14], openingDate=2003-06-20), Station(name=Kovan, code=[NE13], openingDate=2003-06-20))" : 10,
-    "(Station(name=Hougang, code=[NE14], openingDate=2003-06-20), Station(name=Buangkok, code=[NE15], openingDate=2006-01-15))" : 10,
-    "(Station(name=Buangkok, code=[NE15], openingDate=2006-01-15), Station(name=Hougang, code=[NE14], openingDate=2003-06-20))" : 10,
-    "(Station(name=Buangkok, code=[NE15], openingDate=2006-01-15), Station(name=Sengkang, code=[NE16], openingDate=2003-06-20))" : 10,
-    "(Station(name=Sengkang, code=[NE16], openingDate=2003-06-20), Station(name=Buangkok, code=[NE15], openingDate=2006-01-15))" : 10,
-    "(Station(name=Sengkang, code=[NE16], openingDate=2003-06-20), Station(name=Punggol, code=[NE17], openingDate=2003-06-20))" : 10,
-    "(Station(name=Punggol, code=[NE17], openingDate=2003-06-20), Station(name=Sengkang, code=[NE16], openingDate=2003-06-20))" : 10,
-    "(Station(name=Bras Basah, code=[CC2], openingDate=2010-04-17), Station(name=Dhoby Ghaut, code=[CC1], openingDate=2010-04-17))" : 10,
-    "(Station(name=Bras Basah, code=[CC2], openingDate=2010-04-17), Station(name=Esplanade, code=[CC3], openingDate=2010-04-17))" : 10,
-    "(Station(name=Esplanade, code=[CC3], openingDate=2010-04-17), Station(name=Bras Basah, code=[CC2], openingDate=2010-04-17))" : 10,
-    "(Station(name=Esplanade, code=[CC3], openingDate=2010-04-17), Station(name=Promenade, code=[CC4], openingDate=2010-04-17))" : 10,
-    "(Station(name=Promenade, code=[CC4, CE0, DT15], openingDate=2010-04-17), Station(name=Esplanade, code=[CC3], openingDate=2010-04-17))" : 10,
-    "(Station(name=Promenade, code=[CC4, CE0, DT15], openingDate=2010-04-17), Station(name=Nicoll Highway, code=[CC5], openingDate=2010-04-17))" : 10,
-    "(Station(name=Promenade, code=[CC4, CE0, DT15], openingDate=2010-04-17), Station(name=Bayfront, code=[CE1], openingDate=2012-01-14))" : 10,
-    "(Station(name=Promenade, code=[CC4, CE0, DT15], openingDate=2010-04-17), Station(name=Bugis, code=[DT14], openingDate=2013-12-22))" : 10,
-    "(Station(name=Promenade, code=[CC4, CE0, DT15], openingDate=2010-04-17), Station(name=Bayfront, code=[DT16], openingDate=2013-12-22))" : 10,
-    "(Station(name=Nicoll Highway, code=[CC5], openingDate=2010-04-17), Station(name=Promenade, code=[CC4], openingDate=2010-04-17))" : 10,
-    "(Station(name=Nicoll Highway, code=[CC5], openingDate=2010-04-17), Station(name=Stadium, code=[CC6], openingDate=2010-04-17))" : 10,
-    "(Station(name=Stadium, code=[CC6], openingDate=2010-04-17), Station(name=Nicoll Highway, code=[CC5], openingDate=2010-04-17))" : 10,
-    "(Station(name=Stadium, code=[CC6], openingDate=2010-04-17), Station(name=Mountbatten, code=[CC7], openingDate=2010-04-17))" : 10,
-    "(Station(name=Mountbatten, code=[CC7], openingDate=2010-04-17), Station(name=Stadium, code=[CC6], openingDate=2010-04-17))" : 10,
-    "(Station(name=Mountbatten, code=[CC7], openingDate=2010-04-17), Station(name=Dakota, code=[CC8], openingDate=2010-04-17))" : 10,
-    "(Station(name=Dakota, code=[CC8], openingDate=2010-04-17), Station(name=Mountbatten, code=[CC7], openingDate=2010-04-17))" : 10,
-    "(Station(name=Dakota, code=[CC8], openingDate=2010-04-17), Station(name=Paya Lebar, code=[CC9], openingDate=2010-04-17))" : 10,
-    "(Station(name=MacPherson, code=[CC10, DT26], openingDate=2010-04-17), Station(name=Paya Lebar, code=[CC9], openingDate=2010-04-17))" : 10,
-    "(Station(name=MacPherson, code=[CC10, DT26], openingDate=2010-04-17), Station(name=Tai Seng, code=[CC11], openingDate=2010-04-17))" : 10,
-    "(Station(name=MacPherson, code=[CC10, DT26], openingDate=2010-04-17), Station(name=Mattar, code=[DT25], openingDate=2017-10-21))" : 10,
-    "(Station(name=MacPherson, code=[CC10, DT26], openingDate=2010-04-17), Station(name=Ubi, code=[DT27], openingDate=2017-10-21))" : 10,
-    "(Station(name=Tai Seng, code=[CC11], openingDate=2010-04-17), Station(name=MacPherson, code=[CC10], openingDate=2010-04-17))" : 10,
-    "(Station(name=Tai Seng, code=[CC11], openingDate=2010-04-17), Station(name=Bartley, code=[CC12], openingDate=2009-05-28))" : 10,
-    "(Station(name=Bartley, code=[CC12], openingDate=2009-05-28), Station(name=Tai Seng, code=[CC11], openingDate=2010-04-17))" : 10,
-    "(Station(name=Bartley, code=[CC12], openingDate=2009-05-28), Station(name=Serangoon, code=[CC13], openingDate=2009-05-28))" : 10,
-    "(Station(name=Lorong Chuan, code=[CC14], openingDate=2009-05-28), Station(name=Serangoon, code=[CC13], openingDate=2009-05-28))" : 10,
-    "(Station(name=Lorong Chuan, code=[CC14], openingDate=2009-05-28), Station(name=Bishan, code=[CC15], openingDate=2009-05-28))" : 10,
-    "(Station(name=Marymount, code=[CC16], openingDate=2009-05-28), Station(name=Bishan, code=[CC15], openingDate=2009-05-28))" : 10,
-    "(Station(name=Marymount, code=[CC16], openingDate=2009-05-28), Station(name=Caldecott, code=[CC17], openingDate=2011-10-08))" : 10,
-    "(Station(name=Caldecott, code=[CC17, TE9], openingDate=2011-10-08), Station(name=Marymount, code=[CC16], openingDate=2009-05-28))" : 10,
-    "(Station(name=Caldecott, code=[CC17, TE9], openingDate=2011-10-08), Station(name=Botanic Gardens, code=[CC19], openingDate=2011-10-08))" : 10,
-    "(Station(name=Caldecott, code=[CC17, TE9], openingDate=2011-10-08), Station(name=Upper Thomson, code=[TE8], openingDate=2020-12-31))" : 10,
-    "(Station(name=Caldecott, code=[CC17, TE9], openingDate=2011-10-08), Station(name=Mount Pleasant, code=[TE10], openingDate=2021-12-31))" : 10,
-    "(Station(name=Botanic Gardens, code=[CC19, DT9], openingDate=2011-10-08), Station(name=Caldecott, code=[CC17], openingDate=2011-10-08))" : 10,
-    "(Station(name=Botanic Gardens, code=[CC19, DT9], openingDate=2011-10-08), Station(name=Farrer Road, code=[CC20], openingDate=2011-10-08))" : 10,
-    "(Station(name=Botanic Gardens, code=[CC19, DT9], openingDate=2011-10-08), Station(name=Tan Kah Kee, code=[DT8], openingDate=2015-12-27))" : 10,
-    "(Station(name=Botanic Gardens, code=[CC19, DT9], openingDate=2011-10-08), Station(name=Stevens, code=[DT10], openingDate=2015-12-27))" : 10,
-    "(Station(name=Farrer Road, code=[CC20], openingDate=2011-10-08), Station(name=Botanic Gardens, code=[CC19], openingDate=2011-10-08))" : 10,
-    "(Station(name=Farrer Road, code=[CC20], openingDate=2011-10-08), Station(name=Holland Village, code=[CC21], openingDate=2011-10-08))" : 10,
-    "(Station(name=Holland Village, code=[CC21], openingDate=2011-10-08), Station(name=Farrer Road, code=[CC20], openingDate=2011-10-08))" : 10,
-    "(Station(name=Holland Village, code=[CC21], openingDate=2011-10-08), Station(name=Buona Vista, code=[CC22], openingDate=2011-10-08))" : 10,
-    "(Station(name=one-north, code=[CC23], openingDate=2011-10-08), Station(name=Buona Vista, code=[CC22], openingDate=2011-10-08))" : 10,
-    "(Station(name=one-north, code=[CC23], openingDate=2011-10-08), Station(name=Kent Ridge, code=[CC24], openingDate=2011-10-08))" : 10,
-    "(Station(name=Kent Ridge, code=[CC24], openingDate=2011-10-08), Station(name=one-north, code=[CC23], openingDate=2011-10-08))" : 10,
-    "(Station(name=Kent Ridge, code=[CC24], openingDate=2011-10-08), Station(name=Haw Par Villa, code=[CC25], openingDate=2011-10-08))" : 10,
-    "(Station(name=Haw Par Villa, code=[CC25], openingDate=2011-10-08), Station(name=Kent Ridge, code=[CC24], openingDate=2011-10-08))" : 10,
-    "(Station(name=Haw Par Villa, code=[CC25], openingDate=2011-10-08), Station(name=Pasir Panjang, code=[CC26], openingDate=2011-10-08))" : 10,
-    "(Station(name=Pasir Panjang, code=[CC26], openingDate=2011-10-08), Station(name=Haw Par Villa, code=[CC25], openingDate=2011-10-08))" : 10,
-    "(Station(name=Pasir Panjang, code=[CC26], openingDate=2011-10-08), Station(name=Labrador Park, code=[CC27], openingDate=2011-10-08))" : 10,
-    "(Station(name=Labrador Park, code=[CC27], openingDate=2011-10-08), Station(name=Pasir Panjang, code=[CC26], openingDate=2011-10-08))" : 10,
-    "(Station(name=Labrador Park, code=[CC27], openingDate=2011-10-08), Station(name=Telok Blangah, code=[CC28], openingDate=2011-10-08))" : 10,
-    "(Station(name=Telok Blangah, code=[CC28], openingDate=2011-10-08), Station(name=Labrador Park, code=[CC27], openingDate=2011-10-08))" : 10,
-    "(Station(name=Telok Blangah, code=[CC28], openingDate=2011-10-08), Station(name=HarbourFront, code=[CC29], openingDate=2011-10-08))" : 10,
-    "(Station(name=Bayfront, code=[CE1, DT16], openingDate=2012-01-14), Station(name=Promenade, code=[CE0], openingDate=2010-04-17))" : 10,
-    "(Station(name=Bayfront, code=[CE1, DT16], openingDate=2012-01-14), Station(name=Marina Bay, code=[CE2], openingDate=2012-01-14))" : 10,
-    "(Station(name=Bayfront, code=[CE1, DT16], openingDate=2012-01-14), Station(name=Promenade, code=[DT15], openingDate=2013-12-22))" : 10,
-    "(Station(name=Bayfront, code=[CE1, DT16], openingDate=2012-01-14), Station(name=Downtown, code=[DT17], openingDate=2013-12-22))" : 10,
-    "(Station(name=Bukit Panjang, code=[DT1], openingDate=2015-12-27), Station(name=Cashew, code=[DT2], openingDate=2015-12-27))" : 10,
-    "(Station(name=Cashew, code=[DT2], openingDate=2015-12-27), Station(name=Bukit Panjang, code=[DT1], openingDate=2015-12-27))" : 10,
-    "(Station(name=Cashew, code=[DT2], openingDate=2015-12-27), Station(name=Hillview, code=[DT3], openingDate=2015-12-27))" : 10,
-    "(Station(name=Hillview, code=[DT3], openingDate=2015-12-27), Station(name=Cashew, code=[DT2], openingDate=2015-12-27))" : 10,
-    "(Station(name=Hillview, code=[DT3], openingDate=2015-12-27), Station(name=Beauty World, code=[DT5], openingDate=2015-12-27))" : 10,
-    "(Station(name=Beauty World, code=[DT5], openingDate=2015-12-27), Station(name=Hillview, code=[DT3], openingDate=2015-12-27))" : 10,
-    "(Station(name=Beauty World, code=[DT5], openingDate=2015-12-27), Station(name=King Albert Park, code=[DT6], openingDate=2015-12-27))" : 10,
-    "(Station(name=King Albert Park, code=[DT6], openingDate=2015-12-27), Station(name=Beauty World, code=[DT5], openingDate=2015-12-27))" : 10,
-    "(Station(name=King Albert Park, code=[DT6], openingDate=2015-12-27), Station(name=Sixth Avenue, code=[DT7], openingDate=2015-12-27))" : 10,
-    "(Station(name=Sixth Avenue, code=[DT7], openingDate=2015-12-27), Station(name=King Albert Park, code=[DT6], openingDate=2015-12-27))" : 10,
-    "(Station(name=Sixth Avenue, code=[DT7], openingDate=2015-12-27), Station(name=Tan Kah Kee, code=[DT8], openingDate=2015-12-27))" : 10,
-    "(Station(name=Tan Kah Kee, code=[DT8], openingDate=2015-12-27), Station(name=Sixth Avenue, code=[DT7], openingDate=2015-12-27))" : 10,
-    "(Station(name=Tan Kah Kee, code=[DT8], openingDate=2015-12-27), Station(name=Botanic Gardens, code=[DT9], openingDate=2015-12-27))" : 10,
-    "(Station(name=Stevens, code=[DT10], openingDate=2015-12-27), Station(name=Botanic Gardens, code=[DT9], openingDate=2015-12-27))" : 10,
-    "(Station(name=Stevens, code=[DT10], openingDate=2015-12-27), Station(name=Newton, code=[DT11], openingDate=2015-12-27))" : 10,
-    "(Station(name=Rochor, code=[DT13], openingDate=2015-12-27), Station(name=Little India, code=[DT12], openingDate=2015-12-27))" : 10,
-    "(Station(name=Rochor, code=[DT13], openingDate=2015-12-27), Station(name=Bugis, code=[DT14], openingDate=2013-12-22))" : 10,
-    "(Station(name=Downtown, code=[DT17], openingDate=2013-12-22), Station(name=Bayfront, code=[DT16], openingDate=2013-12-22))" : 10,
-    "(Station(name=Downtown, code=[DT17], openingDate=2013-12-22), Station(name=Telok Ayer, code=[DT18], openingDate=2013-12-22))" : 10,
-    "(Station(name=Telok Ayer, code=[DT18], openingDate=2013-12-22), Station(name=Downtown, code=[DT17], openingDate=2013-12-22))" : 10,
-    "(Station(name=Telok Ayer, code=[DT18], openingDate=2013-12-22), Station(name=Chinatown, code=[DT19], openingDate=2013-12-22))" : 10,
-    "(Station(name=Fort Canning, code=[DT20], openingDate=2017-10-21), Station(name=Chinatown, code=[DT19], openingDate=2013-12-22))" : 10,
-    "(Station(name=Fort Canning, code=[DT20], openingDate=2017-10-21), Station(name=Bencoolen, code=[DT21], openingDate=2017-10-21))" : 10,
-    "(Station(name=Bencoolen, code=[DT21], openingDate=2017-10-21), Station(name=Fort Canning, code=[DT20], openingDate=2017-10-21))" : 10,
-    "(Station(name=Bencoolen, code=[DT21], openingDate=2017-10-21), Station(name=Jalan Besar, code=[DT22], openingDate=2017-10-21))" : 10,
-    "(Station(name=Jalan Besar, code=[DT22], openingDate=2017-10-21), Station(name=Bencoolen, code=[DT21], openingDate=2017-10-21))" : 10,
-    "(Station(name=Jalan Besar, code=[DT22], openingDate=2017-10-21), Station(name=Bendemeer, code=[DT23], openingDate=2017-10-21))" : 10,
-    "(Station(name=Bendemeer, code=[DT23], openingDate=2017-10-21), Station(name=Jalan Besar, code=[DT22], openingDate=2017-10-21))" : 10,
-    "(Station(name=Bendemeer, code=[DT23], openingDate=2017-10-21), Station(name=Geylang Bahru, code=[DT24], openingDate=2017-10-21))" : 10,
-    "(Station(name=Geylang Bahru, code=[DT24], openingDate=2017-10-21), Station(name=Bendemeer, code=[DT23], openingDate=2017-10-21))" : 10,
-    "(Station(name=Geylang Bahru, code=[DT24], openingDate=2017-10-21), Station(name=Mattar, code=[DT25], openingDate=2017-10-21))" : 10,
-    "(Station(name=Mattar, code=[DT25], openingDate=2017-10-21), Station(name=Geylang Bahru, code=[DT24], openingDate=2017-10-21))" : 10,
-    "(Station(name=Mattar, code=[DT25], openingDate=2017-10-21), Station(name=MacPherson, code=[DT26], openingDate=2017-10-21))" : 10,
-    "(Station(name=Ubi, code=[DT27], openingDate=2017-10-21), Station(name=MacPherson, code=[DT26], openingDate=2017-10-21))" : 10,
-    "(Station(name=Ubi, code=[DT27], openingDate=2017-10-21), Station(name=Kaki Bukit, code=[DT28], openingDate=2017-10-21))" : 10,
-    "(Station(name=Kaki Bukit, code=[DT28], openingDate=2017-10-21), Station(name=Ubi, code=[DT27], openingDate=2017-10-21))" : 10,
-    "(Station(name=Kaki Bukit, code=[DT28], openingDate=2017-10-21), Station(name=Bedok North, code=[DT29], openingDate=2017-10-21))" : 10,
-    "(Station(name=Bedok North, code=[DT29], openingDate=2017-10-21), Station(name=Kaki Bukit, code=[DT28], openingDate=2017-10-21))" : 10,
-    "(Station(name=Bedok North, code=[DT29], openingDate=2017-10-21), Station(name=Bedok Reservoir, code=[DT30], openingDate=2017-10-21))" : 10,
-    "(Station(name=Bedok Reservoir, code=[DT30], openingDate=2017-10-21), Station(name=Bedok North, code=[DT29], openingDate=2017-10-21))" : 10,
-    "(Station(name=Bedok Reservoir, code=[DT30], openingDate=2017-10-21), Station(name=Tampines West, code=[DT31], openingDate=2017-10-21))" : 10,
-    "(Station(name=Tampines West, code=[DT31], openingDate=2017-10-21), Station(name=Bedok Reservoir, code=[DT30], openingDate=2017-10-21))" : 10,
-    "(Station(name=Tampines West, code=[DT31], openingDate=2017-10-21), Station(name=Tampines, code=[DT32], openingDate=2017-10-21))" : 10,
-    "(Station(name=Tampines East, code=[DT33], openingDate=2017-10-21), Station(name=Tampines, code=[DT32], openingDate=2017-10-21))" : 10,
-    "(Station(name=Tampines East, code=[DT33], openingDate=2017-10-21), Station(name=Upper Changi, code=[DT34], openingDate=2017-10-21))" : 10,
-    "(Station(name=Upper Changi, code=[DT34], openingDate=2017-10-21), Station(name=Tampines East, code=[DT33], openingDate=2017-10-21))" : 10,
-    "(Station(name=Upper Changi, code=[DT34], openingDate=2017-10-21), Station(name=Expo, code=[DT35], openingDate=2017-10-21))" : 10,
-    "(Station(name=Woodlands North, code=[TE1], openingDate=2019-12-31), Station(name=Woodlands, code=[TE2], openingDate=2019-12-31))" : 10,
-    "(Station(name=Woodlands South, code=[TE3], openingDate=2019-12-31), Station(name=Woodlands, code=[TE2], openingDate=2019-12-31))" : 10,
-    "(Station(name=Woodlands South, code=[TE3], openingDate=2019-12-31), Station(name=Springleaf, code=[TE4], openingDate=2020-12-31))" : 10,
-    "(Station(name=Springleaf, code=[TE4], openingDate=2020-12-31), Station(name=Woodlands South, code=[TE3], openingDate=2019-12-31))" : 10,
-    "(Station(name=Springleaf, code=[TE4], openingDate=2020-12-31), Station(name=Lentor, code=[TE5], openingDate=2020-12-31))" : 10,
-    "(Station(name=Lentor, code=[TE5], openingDate=2020-12-31), Station(name=Springleaf, code=[TE4], openingDate=2020-12-31))" : 10,
-    "(Station(name=Lentor, code=[TE5], openingDate=2020-12-31), Station(name=Mayflower, code=[TE6], openingDate=2020-12-31))" : 10,
-    "(Station(name=Mayflower, code=[TE6], openingDate=2020-12-31), Station(name=Lentor, code=[TE5], openingDate=2020-12-31))" : 10,
-    "(Station(name=Mayflower, code=[TE6], openingDate=2020-12-31), Station(name=Bright Hill, code=[TE7], openingDate=2020-12-31))" : 10,
-    "(Station(name=Bright Hill, code=[TE7], openingDate=2020-12-31), Station(name=Mayflower, code=[TE6], openingDate=2020-12-31))" : 10,
-    "(Station(name=Bright Hill, code=[TE7], openingDate=2020-12-31), Station(name=Upper Thomson, code=[TE8], openingDate=2020-12-31))" : 10,
-    "(Station(name=Upper Thomson, code=[TE8], openingDate=2020-12-31), Station(name=Bright Hill, code=[TE7], openingDate=2020-12-31))" : 10,
-    "(Station(name=Upper Thomson, code=[TE8], openingDate=2020-12-31), Station(name=Caldecott, code=[TE9], openingDate=2020-12-31))" : 10
+  "graph" : {
+    "vertices" : [ "jurong east", "bukit batok", "clementi", "chinese garden", "bukit gombak", "choa chu kang", "yew tee", "kranji", "marsiling", "woodlands", "admiralty", "woodlands north", "woodlands south", "sembawang", "canberra", "yishun", "khatib", "yio chu kang", "ang mo kio", "bishan", "braddell", "lorong chuan", "marymount", "toa payoh", "novena", "newton", "orchard", "stevens", "little india", "somerset", "dhoby ghaut", "city hall", "clarke quay", "bras basah", "raffles place", "bugis", "marina bay", "tanjong pagar", "marina south pier", "bayfront", "pasir ris", "tampines", "simei", "tampines west", "tampines east", "tanah merah", "bedok", "expo", "kembangan", "eunos", "paya lebar", "aljunied", "dakota", "macpherson", "kallang", "lavender", "rochor", "promenade", "outram park", "tiong bahru", "harbourfront", "chinatown", "redhill", "queenstown", "commonwealth", "buona vista", "dover", "holland village", "one-north", "lakeside", "boon lay", "pioneer", "joo koon", "gul circle", "tuas crescent", "tuas west road", "tuas link", "changi airport", "upper changi", "telok blangah", "telok ayer", "fort canning", "farrer park", "boon keng", "potong pasir", "woodleigh", "serangoon", "kovan", "bartley", "hougang", "buangkok", "sengkang", "punggol", "esplanade", "nicoll highway", "stadium", "mountbatten", "tai seng", "mattar", "ubi", "caldecott", "botanic gardens", "upper thomson", "mount pleasant", "farrer road", "tan kah kee", "kent ridge", "haw par villa", "pasir panjang", "labrador park", "downtown", "bukit panjang", "cashew", "hillview", "beauty world", "king albert park", "sixth avenue", "bencoolen", "jalan besar", "bendemeer", "geylang bahru", "kaki bukit", "bedok north", "bedok reservoir", "springleaf", "lentor", "mayflower", "bright hill" ],
+    "edges" : {
+      "jurong east" : [ "bukit batok", "clementi", "chinese garden" ],
+      "bukit batok" : [ "jurong east", "bukit gombak" ],
+      "bukit gombak" : [ "bukit batok", "choa chu kang" ],
+      "choa chu kang" : [ "bukit gombak", "yew tee" ],
+      "yew tee" : [ "choa chu kang", "kranji" ],
+      "kranji" : [ "yew tee", "marsiling" ],
+      "marsiling" : [ "kranji", "woodlands" ],
+      "woodlands" : [ "marsiling", "admiralty", "woodlands north", "woodlands south" ],
+      "admiralty" : [ "woodlands", "sembawang" ],
+      "sembawang" : [ "admiralty", "canberra" ],
+      "canberra" : [ "sembawang", "yishun" ],
+      "yishun" : [ "canberra", "khatib" ],
+      "khatib" : [ "yishun", "yio chu kang" ],
+      "yio chu kang" : [ "khatib", "ang mo kio" ],
+      "ang mo kio" : [ "yio chu kang", "bishan" ],
+      "bishan" : [ "ang mo kio", "braddell", "lorong chuan", "marymount" ],
+      "braddell" : [ "bishan", "toa payoh" ],
+      "toa payoh" : [ "braddell", "novena" ],
+      "novena" : [ "toa payoh", "newton" ],
+      "newton" : [ "novena", "orchard", "stevens", "little india" ],
+      "orchard" : [ "newton", "somerset" ],
+      "somerset" : [ "orchard", "dhoby ghaut" ],
+      "dhoby ghaut" : [ "somerset", "city hall", "clarke quay", "little india", "bras basah" ],
+      "city hall" : [ "dhoby ghaut", "raffles place", "bugis" ],
+      "raffles place" : [ "city hall", "marina bay", "tanjong pagar" ],
+      "marina bay" : [ "raffles place", "marina south pier", "bayfront" ],
+      "marina south pier" : [ "marina bay" ],
+      "pasir ris" : [ "tampines" ],
+      "tampines" : [ "pasir ris", "simei", "tampines west", "tampines east" ],
+      "simei" : [ "tampines", "tanah merah" ],
+      "tanah merah" : [ "simei", "bedok", "expo" ],
+      "bedok" : [ "tanah merah", "kembangan" ],
+      "kembangan" : [ "bedok", "eunos" ],
+      "eunos" : [ "kembangan", "paya lebar" ],
+      "paya lebar" : [ "eunos", "aljunied", "dakota", "macpherson" ],
+      "aljunied" : [ "paya lebar", "kallang" ],
+      "kallang" : [ "aljunied", "lavender" ],
+      "lavender" : [ "kallang", "bugis" ],
+      "bugis" : [ "lavender", "city hall", "rochor", "promenade" ],
+      "tanjong pagar" : [ "raffles place", "outram park" ],
+      "outram park" : [ "tanjong pagar", "tiong bahru", "harbourfront", "chinatown" ],
+      "tiong bahru" : [ "outram park", "redhill" ],
+      "redhill" : [ "tiong bahru", "queenstown" ],
+      "queenstown" : [ "redhill", "commonwealth" ],
+      "commonwealth" : [ "queenstown", "buona vista" ],
+      "buona vista" : [ "commonwealth", "dover", "holland village", "one-north" ],
+      "dover" : [ "buona vista", "clementi" ],
+      "clementi" : [ "dover", "jurong east" ],
+      "chinese garden" : [ "jurong east", "lakeside" ],
+      "lakeside" : [ "chinese garden", "boon lay" ],
+      "boon lay" : [ "lakeside", "pioneer" ],
+      "pioneer" : [ "boon lay", "joo koon" ],
+      "joo koon" : [ "pioneer", "gul circle" ],
+      "gul circle" : [ "joo koon", "tuas crescent" ],
+      "tuas crescent" : [ "gul circle", "tuas west road" ],
+      "tuas west road" : [ "tuas crescent", "tuas link" ],
+      "tuas link" : [ "tuas west road" ],
+      "expo" : [ "tanah merah", "changi airport", "upper changi" ],
+      "changi airport" : [ "expo" ],
+      "harbourfront" : [ "outram park", "telok blangah" ],
+      "chinatown" : [ "outram park", "clarke quay", "telok ayer", "fort canning" ],
+      "clarke quay" : [ "chinatown", "dhoby ghaut" ],
+      "little india" : [ "dhoby ghaut", "farrer park", "newton", "rochor" ],
+      "farrer park" : [ "little india", "boon keng" ],
+      "boon keng" : [ "farrer park", "potong pasir" ],
+      "potong pasir" : [ "boon keng", "woodleigh" ],
+      "woodleigh" : [ "potong pasir", "serangoon" ],
+      "serangoon" : [ "woodleigh", "kovan", "bartley", "lorong chuan" ],
+      "kovan" : [ "serangoon", "hougang" ],
+      "hougang" : [ "kovan", "buangkok" ],
+      "buangkok" : [ "hougang", "sengkang" ],
+      "sengkang" : [ "buangkok", "punggol" ],
+      "punggol" : [ "sengkang" ],
+      "bras basah" : [ "dhoby ghaut", "esplanade" ],
+      "esplanade" : [ "bras basah", "promenade" ],
+      "promenade" : [ "esplanade", "nicoll highway", "bayfront", "bugis" ],
+      "nicoll highway" : [ "promenade", "stadium" ],
+      "stadium" : [ "nicoll highway", "mountbatten" ],
+      "mountbatten" : [ "stadium", "dakota" ],
+      "dakota" : [ "mountbatten", "paya lebar" ],
+      "macpherson" : [ "paya lebar", "tai seng", "mattar", "ubi" ],
+      "tai seng" : [ "macpherson", "bartley" ],
+      "bartley" : [ "tai seng", "serangoon" ],
+      "lorong chuan" : [ "serangoon", "bishan" ],
+      "marymount" : [ "bishan", "caldecott" ],
+      "caldecott" : [ "marymount", "botanic gardens", "upper thomson", "mount pleasant" ],
+      "botanic gardens" : [ "caldecott", "farrer road", "tan kah kee", "stevens" ],
+      "farrer road" : [ "botanic gardens", "holland village" ],
+      "holland village" : [ "farrer road", "buona vista" ],
+      "one-north" : [ "buona vista", "kent ridge" ],
+      "kent ridge" : [ "one-north", "haw par villa" ],
+      "haw par villa" : [ "kent ridge", "pasir panjang" ],
+      "pasir panjang" : [ "haw par villa", "labrador park" ],
+      "labrador park" : [ "pasir panjang", "telok blangah" ],
+      "telok blangah" : [ "labrador park", "harbourfront" ],
+      "bayfront" : [ "promenade", "marina bay", "downtown" ],
+      "bukit panjang" : [ "cashew" ],
+      "cashew" : [ "bukit panjang", "hillview" ],
+      "hillview" : [ "cashew", "beauty world" ],
+      "beauty world" : [ "hillview", "king albert park" ],
+      "king albert park" : [ "beauty world", "sixth avenue" ],
+      "sixth avenue" : [ "king albert park", "tan kah kee" ],
+      "tan kah kee" : [ "sixth avenue", "botanic gardens" ],
+      "stevens" : [ "botanic gardens", "newton" ],
+      "rochor" : [ "little india", "bugis" ],
+      "downtown" : [ "bayfront", "telok ayer" ],
+      "telok ayer" : [ "downtown", "chinatown" ],
+      "fort canning" : [ "chinatown", "bencoolen" ],
+      "bencoolen" : [ "fort canning", "jalan besar" ],
+      "jalan besar" : [ "bencoolen", "bendemeer" ],
+      "bendemeer" : [ "jalan besar", "geylang bahru" ],
+      "geylang bahru" : [ "bendemeer", "mattar" ],
+      "mattar" : [ "geylang bahru", "macpherson" ],
+      "ubi" : [ "macpherson", "kaki bukit" ],
+      "kaki bukit" : [ "ubi", "bedok north" ],
+      "bedok north" : [ "kaki bukit", "bedok reservoir" ],
+      "bedok reservoir" : [ "bedok north", "tampines west" ],
+      "tampines west" : [ "bedok reservoir", "tampines" ],
+      "tampines east" : [ "tampines", "upper changi" ],
+      "upper changi" : [ "tampines east", "expo" ],
+      "woodlands north" : [ "woodlands" ],
+      "woodlands south" : [ "woodlands", "springleaf" ],
+      "springleaf" : [ "woodlands south", "lentor" ],
+      "lentor" : [ "springleaf", "mayflower" ],
+      "mayflower" : [ "lentor", "bright hill" ],
+      "bright hill" : [ "mayflower", "upper thomson" ],
+      "upper thomson" : [ "bright hill", "caldecott" ]
+    },
+    "weights" : {
+      "(jurong east, bukit batok)" : 10,
+      "(jurong east, clementi)" : 10,
+      "(jurong east, chinese garden)" : 10,
+      "(bukit batok, jurong east)" : 10,
+      "(bukit batok, bukit gombak)" : 10,
+      "(bukit gombak, bukit batok)" : 10,
+      "(bukit gombak, choa chu kang)" : 10,
+      "(choa chu kang, bukit gombak)" : 10,
+      "(choa chu kang, yew tee)" : 10,
+      "(yew tee, choa chu kang)" : 10,
+      "(yew tee, kranji)" : 10,
+      "(kranji, yew tee)" : 10,
+      "(kranji, marsiling)" : 10,
+      "(marsiling, kranji)" : 10,
+      "(marsiling, woodlands)" : 10,
+      "(woodlands, marsiling)" : 10,
+      "(woodlands, admiralty)" : 10,
+      "(woodlands, woodlands north)" : 10,
+      "(woodlands, woodlands south)" : 10,
+      "(admiralty, woodlands)" : 10,
+      "(admiralty, sembawang)" : 10,
+      "(sembawang, admiralty)" : 10,
+      "(sembawang, canberra)" : 10,
+      "(canberra, sembawang)" : 10,
+      "(canberra, yishun)" : 10,
+      "(yishun, canberra)" : 10,
+      "(yishun, khatib)" : 10,
+      "(khatib, yishun)" : 10,
+      "(khatib, yio chu kang)" : 10,
+      "(yio chu kang, khatib)" : 10,
+      "(yio chu kang, ang mo kio)" : 10,
+      "(ang mo kio, yio chu kang)" : 10,
+      "(ang mo kio, bishan)" : 10,
+      "(bishan, ang mo kio)" : 10,
+      "(bishan, braddell)" : 10,
+      "(bishan, lorong chuan)" : 10,
+      "(bishan, marymount)" : 10,
+      "(braddell, bishan)" : 10,
+      "(braddell, toa payoh)" : 10,
+      "(toa payoh, braddell)" : 10,
+      "(toa payoh, novena)" : 10,
+      "(novena, toa payoh)" : 10,
+      "(novena, newton)" : 10,
+      "(newton, novena)" : 10,
+      "(newton, orchard)" : 10,
+      "(newton, stevens)" : 10,
+      "(newton, little india)" : 10,
+      "(orchard, newton)" : 10,
+      "(orchard, somerset)" : 10,
+      "(somerset, orchard)" : 10,
+      "(somerset, dhoby ghaut)" : 10,
+      "(dhoby ghaut, somerset)" : 10,
+      "(dhoby ghaut, city hall)" : 10,
+      "(dhoby ghaut, clarke quay)" : 10,
+      "(dhoby ghaut, little india)" : 10,
+      "(dhoby ghaut, bras basah)" : 10,
+      "(city hall, dhoby ghaut)" : 10,
+      "(city hall, raffles place)" : 10,
+      "(city hall, bugis)" : 10,
+      "(raffles place, city hall)" : 10,
+      "(raffles place, marina bay)" : 10,
+      "(raffles place, tanjong pagar)" : 10,
+      "(marina bay, raffles place)" : 10,
+      "(marina bay, marina south pier)" : 10,
+      "(marina bay, bayfront)" : 10,
+      "(marina south pier, marina bay)" : 10,
+      "(pasir ris, tampines)" : 10,
+      "(tampines, pasir ris)" : 10,
+      "(tampines, simei)" : 10,
+      "(tampines, tampines west)" : 10,
+      "(tampines, tampines east)" : 10,
+      "(simei, tampines)" : 10,
+      "(simei, tanah merah)" : 10,
+      "(tanah merah, simei)" : 10,
+      "(tanah merah, bedok)" : 10,
+      "(tanah merah, expo)" : 10,
+      "(bedok, tanah merah)" : 10,
+      "(bedok, kembangan)" : 10,
+      "(kembangan, bedok)" : 10,
+      "(kembangan, eunos)" : 10,
+      "(eunos, kembangan)" : 10,
+      "(eunos, paya lebar)" : 10,
+      "(paya lebar, eunos)" : 10,
+      "(paya lebar, aljunied)" : 10,
+      "(paya lebar, dakota)" : 10,
+      "(paya lebar, macpherson)" : 10,
+      "(aljunied, paya lebar)" : 10,
+      "(aljunied, kallang)" : 10,
+      "(kallang, aljunied)" : 10,
+      "(kallang, lavender)" : 10,
+      "(lavender, kallang)" : 10,
+      "(lavender, bugis)" : 10,
+      "(bugis, lavender)" : 10,
+      "(bugis, city hall)" : 10,
+      "(bugis, rochor)" : 10,
+      "(bugis, promenade)" : 10,
+      "(tanjong pagar, raffles place)" : 10,
+      "(tanjong pagar, outram park)" : 10,
+      "(outram park, tanjong pagar)" : 10,
+      "(outram park, tiong bahru)" : 10,
+      "(outram park, harbourfront)" : 10,
+      "(outram park, chinatown)" : 10,
+      "(tiong bahru, outram park)" : 10,
+      "(tiong bahru, redhill)" : 10,
+      "(redhill, tiong bahru)" : 10,
+      "(redhill, queenstown)" : 10,
+      "(queenstown, redhill)" : 10,
+      "(queenstown, commonwealth)" : 10,
+      "(commonwealth, queenstown)" : 10,
+      "(commonwealth, buona vista)" : 10,
+      "(buona vista, commonwealth)" : 10,
+      "(buona vista, dover)" : 10,
+      "(buona vista, holland village)" : 10,
+      "(buona vista, one-north)" : 10,
+      "(dover, buona vista)" : 10,
+      "(dover, clementi)" : 10,
+      "(clementi, dover)" : 10,
+      "(clementi, jurong east)" : 10,
+      "(chinese garden, jurong east)" : 10,
+      "(chinese garden, lakeside)" : 10,
+      "(lakeside, chinese garden)" : 10,
+      "(lakeside, boon lay)" : 10,
+      "(boon lay, lakeside)" : 10,
+      "(boon lay, pioneer)" : 10,
+      "(pioneer, boon lay)" : 10,
+      "(pioneer, joo koon)" : 10,
+      "(joo koon, pioneer)" : 10,
+      "(joo koon, gul circle)" : 10,
+      "(gul circle, joo koon)" : 10,
+      "(gul circle, tuas crescent)" : 10,
+      "(tuas crescent, gul circle)" : 10,
+      "(tuas crescent, tuas west road)" : 10,
+      "(tuas west road, tuas crescent)" : 10,
+      "(tuas west road, tuas link)" : 10,
+      "(tuas link, tuas west road)" : 10,
+      "(expo, tanah merah)" : 10,
+      "(expo, changi airport)" : 10,
+      "(expo, upper changi)" : 10,
+      "(changi airport, expo)" : 10,
+      "(harbourfront, outram park)" : 10,
+      "(harbourfront, telok blangah)" : 10,
+      "(chinatown, outram park)" : 10,
+      "(chinatown, clarke quay)" : 10,
+      "(chinatown, telok ayer)" : 10,
+      "(chinatown, fort canning)" : 10,
+      "(clarke quay, chinatown)" : 10,
+      "(clarke quay, dhoby ghaut)" : 10,
+      "(little india, dhoby ghaut)" : 10,
+      "(little india, farrer park)" : 10,
+      "(little india, newton)" : 10,
+      "(little india, rochor)" : 10,
+      "(farrer park, little india)" : 10,
+      "(farrer park, boon keng)" : 10,
+      "(boon keng, farrer park)" : 10,
+      "(boon keng, potong pasir)" : 10,
+      "(potong pasir, boon keng)" : 10,
+      "(potong pasir, woodleigh)" : 10,
+      "(woodleigh, potong pasir)" : 10,
+      "(woodleigh, serangoon)" : 10,
+      "(serangoon, woodleigh)" : 10,
+      "(serangoon, kovan)" : 10,
+      "(serangoon, bartley)" : 10,
+      "(serangoon, lorong chuan)" : 10,
+      "(kovan, serangoon)" : 10,
+      "(kovan, hougang)" : 10,
+      "(hougang, kovan)" : 10,
+      "(hougang, buangkok)" : 10,
+      "(buangkok, hougang)" : 10,
+      "(buangkok, sengkang)" : 10,
+      "(sengkang, buangkok)" : 10,
+      "(sengkang, punggol)" : 10,
+      "(punggol, sengkang)" : 10,
+      "(bras basah, dhoby ghaut)" : 10,
+      "(bras basah, esplanade)" : 10,
+      "(esplanade, bras basah)" : 10,
+      "(esplanade, promenade)" : 10,
+      "(promenade, esplanade)" : 10,
+      "(promenade, nicoll highway)" : 10,
+      "(promenade, bayfront)" : 10,
+      "(promenade, bugis)" : 10,
+      "(nicoll highway, promenade)" : 10,
+      "(nicoll highway, stadium)" : 10,
+      "(stadium, nicoll highway)" : 10,
+      "(stadium, mountbatten)" : 10,
+      "(mountbatten, stadium)" : 10,
+      "(mountbatten, dakota)" : 10,
+      "(dakota, mountbatten)" : 10,
+      "(dakota, paya lebar)" : 10,
+      "(macpherson, paya lebar)" : 10,
+      "(macpherson, tai seng)" : 10,
+      "(macpherson, mattar)" : 10,
+      "(macpherson, ubi)" : 10,
+      "(tai seng, macpherson)" : 10,
+      "(tai seng, bartley)" : 10,
+      "(bartley, tai seng)" : 10,
+      "(bartley, serangoon)" : 10,
+      "(lorong chuan, serangoon)" : 10,
+      "(lorong chuan, bishan)" : 10,
+      "(marymount, bishan)" : 10,
+      "(marymount, caldecott)" : 10,
+      "(caldecott, marymount)" : 10,
+      "(caldecott, botanic gardens)" : 10,
+      "(caldecott, upper thomson)" : 10,
+      "(caldecott, mount pleasant)" : 10,
+      "(botanic gardens, caldecott)" : 10,
+      "(botanic gardens, farrer road)" : 10,
+      "(botanic gardens, tan kah kee)" : 10,
+      "(botanic gardens, stevens)" : 10,
+      "(farrer road, botanic gardens)" : 10,
+      "(farrer road, holland village)" : 10,
+      "(holland village, farrer road)" : 10,
+      "(holland village, buona vista)" : 10,
+      "(one-north, buona vista)" : 10,
+      "(one-north, kent ridge)" : 10,
+      "(kent ridge, one-north)" : 10,
+      "(kent ridge, haw par villa)" : 10,
+      "(haw par villa, kent ridge)" : 10,
+      "(haw par villa, pasir panjang)" : 10,
+      "(pasir panjang, haw par villa)" : 10,
+      "(pasir panjang, labrador park)" : 10,
+      "(labrador park, pasir panjang)" : 10,
+      "(labrador park, telok blangah)" : 10,
+      "(telok blangah, labrador park)" : 10,
+      "(telok blangah, harbourfront)" : 10,
+      "(bayfront, promenade)" : 10,
+      "(bayfront, marina bay)" : 10,
+      "(bayfront, downtown)" : 10,
+      "(bukit panjang, cashew)" : 10,
+      "(cashew, bukit panjang)" : 10,
+      "(cashew, hillview)" : 10,
+      "(hillview, cashew)" : 10,
+      "(hillview, beauty world)" : 10,
+      "(beauty world, hillview)" : 10,
+      "(beauty world, king albert park)" : 10,
+      "(king albert park, beauty world)" : 10,
+      "(king albert park, sixth avenue)" : 10,
+      "(sixth avenue, king albert park)" : 10,
+      "(sixth avenue, tan kah kee)" : 10,
+      "(tan kah kee, sixth avenue)" : 10,
+      "(tan kah kee, botanic gardens)" : 10,
+      "(stevens, botanic gardens)" : 10,
+      "(stevens, newton)" : 10,
+      "(rochor, little india)" : 10,
+      "(rochor, bugis)" : 10,
+      "(downtown, bayfront)" : 10,
+      "(downtown, telok ayer)" : 10,
+      "(telok ayer, downtown)" : 10,
+      "(telok ayer, chinatown)" : 10,
+      "(fort canning, chinatown)" : 10,
+      "(fort canning, bencoolen)" : 10,
+      "(bencoolen, fort canning)" : 10,
+      "(bencoolen, jalan besar)" : 10,
+      "(jalan besar, bencoolen)" : 10,
+      "(jalan besar, bendemeer)" : 10,
+      "(bendemeer, jalan besar)" : 10,
+      "(bendemeer, geylang bahru)" : 10,
+      "(geylang bahru, bendemeer)" : 10,
+      "(geylang bahru, mattar)" : 10,
+      "(mattar, geylang bahru)" : 10,
+      "(mattar, macpherson)" : 10,
+      "(ubi, macpherson)" : 10,
+      "(ubi, kaki bukit)" : 10,
+      "(kaki bukit, ubi)" : 10,
+      "(kaki bukit, bedok north)" : 10,
+      "(bedok north, kaki bukit)" : 10,
+      "(bedok north, bedok reservoir)" : 10,
+      "(bedok reservoir, bedok north)" : 10,
+      "(bedok reservoir, tampines west)" : 10,
+      "(tampines west, bedok reservoir)" : 10,
+      "(tampines west, tampines)" : 10,
+      "(tampines east, tampines)" : 10,
+      "(tampines east, upper changi)" : 10,
+      "(upper changi, tampines east)" : 10,
+      "(upper changi, expo)" : 10,
+      "(woodlands north, woodlands)" : 10,
+      "(woodlands south, woodlands)" : 10,
+      "(woodlands south, springleaf)" : 10,
+      "(springleaf, woodlands south)" : 10,
+      "(springleaf, lentor)" : 10,
+      "(lentor, springleaf)" : 10,
+      "(lentor, mayflower)" : 10,
+      "(mayflower, lentor)" : 10,
+      "(mayflower, bright hill)" : 10,
+      "(bright hill, mayflower)" : 10,
+      "(bright hill, upper thomson)" : 10,
+      "(upper thomson, bright hill)" : 10,
+      "(upper thomson, caldecott)" : 10
+    }
   }
 }

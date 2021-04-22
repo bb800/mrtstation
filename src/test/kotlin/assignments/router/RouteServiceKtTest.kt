@@ -1,8 +1,8 @@
 package assignments.router
 
+import org.junit.jupiter.api.Assertions.assertEquals
+import org.junit.jupiter.api.Assertions.assertNull
 import org.junit.jupiter.api.Test
-
-import org.junit.jupiter.api.Assertions.*
 
 internal class RouteServiceKtTest {
 
@@ -67,16 +67,16 @@ internal class RouteServiceKtTest {
     @Test
     fun `findConnectingSegments return a list of connecting segments`() {
         val testSegments = mapOf(
-            "CC" to arrayOf("CC1", "CC2",  "CC3",   null,   null,   null),
-            "EW" to arrayOf(null,   null, "EW11", "EW12", "EW13",   null),
-            "DT" to arrayOf(null,   null,   null,   null, "DT21", "DT22"),
+            "CC" to arrayOf("CC1", "CC2", "CC3", null, null, null),
+            "EW" to arrayOf(null, null, "EW11", "EW12", "EW13", null),
+            "DT" to arrayOf(null, null, null, null, "DT21", "DT22"),
         )
 
         val actual = findConnectingSegments(testSegments)
         val expected = listOf(
             listOf("CC1", "CC2", "CC3"),
             listOf("EW11", "EW12", "EW13"),
-            listOf("DT21","DT22"),
+            listOf("DT21", "DT22"),
         )
 
         assertEquals(expected, actual)
@@ -85,9 +85,9 @@ internal class RouteServiceKtTest {
     @Test
     fun `findConnectingSegments should handle overlapping segments`() {
         val testSegments = mapOf(
-            "CC" to arrayOf("CC1", "CC2",  "CC3",  "CC4",   null,   null),
-            "EW" to arrayOf(null,   null, "EW11", "EW12",   null,   null),
-            "DT" to arrayOf(null,   null, "DT21", "DT22", "DT23", "DT24"),
+            "CC" to arrayOf("CC1", "CC2", "CC3", "CC4", null, null),
+            "EW" to arrayOf(null, null, "EW11", "EW12", null, null),
+            "DT" to arrayOf(null, null, "DT21", "DT22", "DT23", "DT24"),
         )
 
         val actual = findConnectingSegments(testSegments)
