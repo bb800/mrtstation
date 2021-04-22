@@ -58,28 +58,34 @@ class RouteService(
         val journey = findConnectingSegments(segments)
         println("journey: $journey")
 
+        val instructions = generateInstructions(journey)
+
+        return instructions
+    }
+
+    private fun generateInstructions(journey: List<List<String>>): List<List<String>> {
         return journey
     }
+}
 
-    fun findConnectingSegments(segments: Map<String, Array<String?>>): List<List<String>> {
-        var index = 0
-        val segmentSize = segments.values.first().size
-        val journey = mutableListOf<List<String>>()
+fun findConnectingSegments(segments: Map<String, Array<String?>>): List<List<String>> {
+    var index = 0
+    val segmentSize = segments.values.first().size
+    val journey = mutableListOf<List<String>>()
 
-        while (index < segmentSize) {
-            val longestRouteSegment = segments
-                .values
-                .map { findLongestSegmentFrom(index, it) }
-                .maxWithOrNull(Comparator.comparingInt { it?.length ?: 0 })
+    while (index < segmentSize - 1) {
+        val longestRouteSegment = segments
+            .values
+            .map { findLongestSegmentFrom(index, it) }
+            .maxWithOrNull(Comparator.comparingInt { it?.length ?: 0 })
 
-            if (longestRouteSegment != null) {
-                journey.add(longestRouteSegment.segment)
-                index = longestRouteSegment.endIndex
-            }
+        if (longestRouteSegment != null) {
+            journey.add(longestRouteSegment.segment)
+            index = longestRouteSegment.endIndex
         }
-
-        return journey.toList()
     }
+
+    return journey.toList()
 }
 
 fun findLongestSegmentFrom(startIndex: Int, input: Array<String?>): RouteSegment? {
@@ -97,7 +103,7 @@ fun findLongestSegmentFrom(startIndex: Int, input: Array<String?>): RouteSegment
 
         return RouteSegment(
             startIndex = startIndex,
-            endIndex = endIndex,
+            endIndex = endIndex - 1,
             segment = segment.toList(),
             length = segment.size,
         )
