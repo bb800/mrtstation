@@ -5,7 +5,8 @@ import java.time.format.DateTimeFormatter
 import javax.inject.Singleton
 
 @Singleton
-class StationInformation {
+class StationRepository {
+    // cache list on initialization
     val stationList = initStationListFromCsv()
 
     private fun initStationListFromCsv(): List<Station> {
@@ -28,8 +29,14 @@ fun extractStationInfo(line: String): Station {
     )
 
     return Station(
-        name = name,
+        name = name.toLowerCase(),
         code = listOf(code),
-        openingDate = openingDate,
+        openingDate = listOf(openingDate),
     )
 }
+
+data class Station(
+    val name: String,
+    val code: List<String>,
+    val openingDate: List<LocalDate>,
+)

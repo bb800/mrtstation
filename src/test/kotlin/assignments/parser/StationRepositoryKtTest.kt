@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
 import java.time.LocalDate
 
-internal class StationInformationKtTest {
+internal class StationRepositoryKtTest {
 
     @Test
     fun `extractStationInfo should parse a csv row properly`() {

@@ -1,6 +1,7 @@
 package assignments.router
 
 import assignments.parser.ParseStationInfo
+import assignments.parser.Station
 import io.micronaut.http.MediaType
 import io.micronaut.http.annotation.Controller
 import io.micronaut.http.annotation.Get
@@ -13,14 +14,9 @@ class RouteController(
     private val routeService: RouteService,
 ) {
 
-    // TODO: Remove
-    @Get("/test")
-    @Produces(MediaType.APPLICATION_JSON)
-    fun test() = parseStationInfo.generateGraph()
-
     @Get("/")
     @Produces(MediaType.APPLICATION_JSON)
-    fun getRoute(@QueryValue from: String, @QueryValue to: String): List<String> =
-        routeService.findRoute(from, to)
+    fun getRoute(@QueryValue start: String, @QueryValue end: String) =
+        routeService.findRoute(start.toLowerCase(), end.toLowerCase())
 
 }

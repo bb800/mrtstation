@@ -2,10 +2,12 @@ package assignments.parser
 
 import assignments.datetimeprovider.DateTimeProvider
 import com.fasterxml.jackson.databind.ObjectMapper
+import com.fasterxml.jackson.databind.SerializationFeature
+import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule
+import com.fasterxml.jackson.module.kotlin.KotlinModule
 import io.mockk.every
 import io.mockk.impl.annotations.InjectMockKs
 import io.mockk.impl.annotations.MockK
-import io.mockk.impl.annotations.RelaxedMockK
 import io.mockk.junit5.MockKExtension
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.BeforeEach
@@ -16,11 +18,11 @@ import java.time.LocalDate
 @ExtendWith(MockKExtension::class)
 internal class ParseStationInfoKtTest {
 
-    @RelaxedMockK
+    @MockK
     lateinit var dateTimeProvider: DateTimeProvider
 
     @MockK
-    lateinit var stationInformation: StationInformation
+    lateinit var stationRepository: StationRepository
 
     @InjectMockKs
     lateinit var parseStationInfo: ParseStationInfo
@@ -30,7 +32,7 @@ internal class ParseStationInfoKtTest {
         val csvData = javaClass.getResource("/StationMap.csv")?.readText() ?: ""
 
         every { dateTimeProvider.today() } returns LocalDate.of(2021, 4, 21)
-        every { stationInformation.stationList } returns csvData
+        every { stationRepository.stationList } returns csvData
             .trim()
             .lines()
             .drop(1) // drop csv header row
@@ -44,6 +46,10 @@ internal class ParseStationInfoKtTest {
         val resultPojo = parseStationInfo.generateGraph()
 
         val objectMapper = ObjectMapper()
+            .registerModule(KotlinModule())
+            .registerModule(JavaTimeModule())
+            .enable(SerializationFeature.INDENT_OUTPUT)
+            .disable(SerializationFeature.WRITE_DATES_AS_TIMESTAMPS)
         val actual = objectMapper.writeValueAsString(resultPojo)
 
         assertEquals(expected, actual)
