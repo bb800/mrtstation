@@ -13,17 +13,17 @@ class RouteService(
 
     // TODO: Add logging
 
-    fun findRoute(start: String, end: String): List<List<String>> {
+    fun findRoute(start: String, end: String): List<String> {
         val (stationMap, mrtGraph) = parseStationInfo.generateGraph()
 
         if (stationMap[start] == null) throw BadRequestException("starting station could not be found")
         if (stationMap[end] == null) throw BadRequestException("ending station could not be found")
 
         val route = dijkstra(mrtGraph, start, end)
-        return convertToSegments(stationMap, route)
+        return generateInstructions2(stationMap, route)
     }
 
-    private fun convertToSegments(stationMap: Map<String, StationNode>, route: List<String>): List<List<String>> {
+    private fun generateInstructions2(stationMap: Map<String, StationNode>, route: List<String>): List<String> {
         val stations = route
             .map { stationMap[it]?.station ?: throw ApplicationException() }
 
@@ -34,13 +34,66 @@ class RouteService(
         val journey = findConnectingSegments(segments)
         println("journey: $journey")
 
-        val instructions = generateInstructions(journey)
+        val stationCodeMap = stationMap
+            .map { (stationName, stationNode) ->
+                // Capitalize station name
+                val displayName = stationName
+                    .split(" ")
+                    .joinToString(" ") { it.capitalize() }
+
+                stationNode.station.code.map {
+                    it to displayName
+                }
+
+            }
+            .flatten()
+            .toMap()
+
+        println("stationNameMap: $stationCodeMap")
+        val instructions = generateJourneyInstructions(stationCodeMap, journey)
+        println("instructions: $instructions")
 
         return instructions
     }
 
-    private fun generateInstructions(journey: List<List<String>>): List<List<String>> {
-        return journey
+    private fun generateJourneyInstructions(stations: Map<String, String>, journey: List<List<String>>): List<String> {
+        val first = journey.first()
+        val rest = journey.drop(1)
+
+        val initialInstructions = generateBeginningInstructions(stations, first)
+        val lineChangeInstructions = rest
+            .map { generateLineChangeInstructions(stations, it) }
+            .flatten()
+
+        return initialInstructions + lineChangeInstructions
+    }
+
+    private fun generateBeginningInstructions(stations: Map<String, String>, stationCodes: List<String>): List<String> {
+        val firstStationCode = stationCodes.first()
+        val firstStationName = stations[firstStationCode]
+        val lastStationCode = stationCodes.last()
+        val lastStationName = stations[lastStationCode]
+
+        return listOf(
+            "Board at $firstStationName ($firstStationCode)",
+            "Alight at $lastStationName ($lastStationCode)",
+        )
+    }
+
+    private fun generateLineChangeInstructions(
+        stations: Map<String, String>,
+        stationCodes: List<String>
+    ): List<String> {
+        val firstStationCode = stationCodes.first()
+        val firstStationName = stations[firstStationCode]
+        val lastStationCode = stationCodes.last()
+        val lastStationName = stations[lastStationCode]
+        val lineCode = firstStationCode.substring(0, 2)
+
+        return listOf(
+            "Change to the $lineCode line by boarding at $firstStationName ($firstStationCode)",
+            "Alight at $lastStationName ($lastStationCode)",
+        )
     }
 }
 
