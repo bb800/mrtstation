@@ -29,7 +29,7 @@ class ParseStationInfo(
         )
     }
 
-    fun getStationNodes(stations: List<Station>): List<StationNode> =
+    private fun getStationNodes(stations: List<Station>): List<StationNode> =
         stations
             // group by line code to identify previous, next stations
             .groupBy { it.code[0].substring(0, 2) }
@@ -59,7 +59,7 @@ class ParseStationInfo(
     }
 
     private fun combineStationNodes(stations: List<StationNode>): StationNode {
-        val interchangeNode = stations.reduce { acc, next ->
+        return stations.reduce { acc, next ->
             acc.copy(
                 station = acc.station.copy(
                     code = acc.station.code + next.station.code,
@@ -69,8 +69,6 @@ class ParseStationInfo(
                 isInterchange = true,
             )
         }
-
-        return interchangeNode
     }
 
     private fun generateStationNodes(stations: List<Station>): List<StationNode> =
@@ -99,8 +97,4 @@ data class StationNode(
     val station: Station,
     val adjacent: List<Station>,
     val isInterchange: Boolean = false,
-)
-
-data class WaitingTime(
-    val minutes: Int? = Int.MAX_VALUE,
 )

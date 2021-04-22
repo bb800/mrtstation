@@ -17,6 +17,9 @@ class RouteController(
     @Get("/")
     @Produces(MediaType.APPLICATION_JSON)
     fun getRoute(@QueryValue start: String, @QueryValue end: String) =
-        routeService.findRoute(start.toLowerCase(), end.toLowerCase())
+        routeService.findRoute(start.stripQuotes().toLowerCase(), end.stripQuotes().toLowerCase())
 
 }
+
+fun String.stripQuotes() = this.replace("\"", "")
+

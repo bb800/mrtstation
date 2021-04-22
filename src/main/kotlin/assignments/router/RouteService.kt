@@ -27,12 +27,8 @@ class RouteService(
         val stations = route
             .map { stationMap[it]?.station ?: throw ApplicationException() }
 
-        println("stations: $stations")
         val segments = generateSegmentMap(stations)
-        println("segments: $segments")
-
         val journey = findConnectingSegments(segments)
-        println("journey: $journey")
 
         val stationCodeMap = stationMap
             .map { (stationName, stationNode) ->
@@ -49,11 +45,7 @@ class RouteService(
             .flatten()
             .toMap()
 
-        println("stationNameMap: $stationCodeMap")
-        val instructions = generateJourneyInstructions(stationCodeMap, journey)
-        println("instructions: $instructions")
-
-        return instructions
+        return generateJourneyInstructions(stationCodeMap, journey)
     }
 
     private fun generateJourneyInstructions(stations: Map<String, String>, journey: List<List<String>>): List<String> {
