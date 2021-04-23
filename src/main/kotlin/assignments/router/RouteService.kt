@@ -49,6 +49,8 @@ class RouteService(
     }
 
     private fun generateJourneyInstructions(stations: Map<String, String>, journey: List<List<String>>): List<String> {
+        if (journey.isEmpty()) return listOf("You are already here!")
+
         val first = journey.first()
         val rest = journey.drop(1)
 
